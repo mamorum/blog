@@ -12,7 +12,7 @@
 $(function() {
 	$.get('hello.mst', function(template) {
 		var rendered = Mustache.render(template, {name: "Luke"});
-		$('#target').html(rendered);
+		$('#target').html(rendered);  // -> Hello Luke!
 	});
 });
 </script>
