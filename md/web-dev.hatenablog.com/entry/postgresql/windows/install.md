@@ -45,4 +45,4 @@ ODBC ドライバなどをインストールしたい場合は、スタックビ
 ## 関連記事
 PostgreSQL（のサービス）を、使うときだけ起動したい場合は、次の記事が参考になると思います。
 
-[Windows：サービスを起動停止するバッチ](/entry/etc/windows/bat-service-start-stop)
+[Windows：サービスを起動停止するバッチ](/entry/windows/bat-service-start-stop)
