@@ -1,7 +1,7 @@
 ---
 Title: JavaScript：ランダム整数値の取得
 Category:
-- javascript
+- JavaScript
 Date: 2016-08-03T10:25:00+09:00
 URL: http://web-dev.hatenablog.com/entry/js/random-number
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178876869

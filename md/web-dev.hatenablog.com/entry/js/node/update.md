@@ -1,7 +1,7 @@
 ---
 Title: JS：Node.js のアップデート
 Category:
-- node.js
+- Node.js
 Date: 2016-08-05T08:21:00+09:00
 URL: http://web-dev.hatenablog.com/entry/js/node/update
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178917462

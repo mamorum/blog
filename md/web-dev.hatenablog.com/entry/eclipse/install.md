@@ -1,7 +1,7 @@
 ---
 Title: Eclipse：インストール手順
 Category:
-- eclipse
+- Eclipse
 Date: 2016-02-01T18:48:00+09:00
 URL: http://web-dev.hatenablog.com/entry/eclipse/install
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179017803

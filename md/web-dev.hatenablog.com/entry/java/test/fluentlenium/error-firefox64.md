@@ -1,7 +1,7 @@
 ---
 Title: FluentLenium：Firefox 64bit でエラー
 Category:
-- java
+- Java テスト
 Date: 2016-01-07T10:15:00+09:00
 URL: http://web-dev.hatenablog.com/entry/java/test/fluentlenium/error-firefox64
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179059425

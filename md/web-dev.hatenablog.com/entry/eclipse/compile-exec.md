@@ -1,7 +1,7 @@
 ---
 Title: Eclipse：Javaのコンパイルと実行
 Category:
-- eclipse
+- Eclipse
 Date: 2016-02-01T17:42:00+09:00
 URL: http://web-dev.hatenablog.com/entry/eclipse/compile-exec
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179038111

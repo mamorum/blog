@@ -1,7 +1,7 @@
 ---
 Title: JDK：CentOSにインストール
 Category:
-- java
+- JDK
 Date: 2016-03-28T14:13:00+09:00
 URL: http://web-dev.hatenablog.com/entry/java/jdk/centos-install
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178823348

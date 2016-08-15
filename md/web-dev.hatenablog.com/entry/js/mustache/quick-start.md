@@ -1,7 +1,7 @@
 ---
 Title: JS：mustache.js 入門
 Category:
-- javascript
+- JavaScript
 Date: 2016-08-09T11:05:00+09:00
 URL: http://web-dev.hatenablog.com/entry/js/mustache/quick-start
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178919230

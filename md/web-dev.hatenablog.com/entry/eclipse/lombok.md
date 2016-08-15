@@ -1,7 +1,7 @@
 ---
 Title: Eclipse：lombokインストール手順
 Category:
-- eclipse
+- Eclipse
 Date: 2016-02-07T13:05:00+09:00
 URL: http://web-dev.hatenablog.com/entry/eclipse/lombok
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179020064

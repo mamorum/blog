@@ -1,7 +1,7 @@
 ---
 Title: JDK：Windowsの環境変数設定
 Category:
-- java
+- JDK
 Date: 2016-02-02T20:00:00+09:00
 URL: http://web-dev.hatenablog.com/entry/java/jdk/windows-variables
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178827384

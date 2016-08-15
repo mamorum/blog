@@ -1,7 +1,7 @@
 ---
 Title: Linux：どのディストリビューションを使うか？
 Category:
-- linux
+- Linux
 Date: 2016-03-14T13:30:00+09:00
 URL: http://web-dev.hatenablog.com/entry/linux/select-distribution
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178813966

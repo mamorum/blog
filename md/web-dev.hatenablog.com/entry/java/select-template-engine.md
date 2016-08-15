@@ -1,7 +1,7 @@
 ---
 Title: Java：どのテンプレートエンジンを使うか？
 Category:
-- java
+- Java
 Date: 2016-08-05T08:24:00+09:00
 URL: http://web-dev.hatenablog.com/entry/java/select-template-engine
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179116435

@@ -1,7 +1,7 @@
 ---
 Title: Java：Lombok の @Data でコード量削減
 Category:
-- java
+- Java
 Date: 2016-08-01T13:00:00+09:00
 URL: http://web-dev.hatenablog.com/entry/java/lombok/annotation-data
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179057267

@@ -1,7 +1,7 @@
 ---
 Title: SpringBoot入門：JDBCでデータアクセス
 Category:
-- spring-boot
+- Spring Boot 入門
 Date: 2016-06-09T17:00:00+09:00
 URL: http://web-dev.hatenablog.com/entry/spring-boot/intro/jdbc
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179107417

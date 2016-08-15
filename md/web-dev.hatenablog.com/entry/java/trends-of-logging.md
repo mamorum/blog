@@ -1,7 +1,7 @@
 ---
 Title: Java：ログ出力（SLF4J, Logback）
 Category:
-- java
+- Java
 Date: 2016-07-23T16:55:00+09:00
 URL: http://web-dev.hatenablog.com/entry/java/trends-of-logging
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178774092

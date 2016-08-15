@@ -1,7 +1,7 @@
 ---
 Title: JavaScript：即時関数
 Category:
-- javascript
+- JavaScript
 Date: 2016-08-03T10:20:00+09:00
 URL: http://web-dev.hatenablog.com/entry/js/sokuji-kansu
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178876506

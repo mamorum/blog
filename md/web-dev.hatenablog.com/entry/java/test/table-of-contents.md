@@ -1,7 +1,7 @@
 ---
 Title: Javaテスト入門：はじめに
 Category:
-- java
+- Java テスト
 Date: 2016-04-22T19:00:00+09:00
 URL: http://web-dev.hatenablog.com/entry/java/test/table-of-contents
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179059743

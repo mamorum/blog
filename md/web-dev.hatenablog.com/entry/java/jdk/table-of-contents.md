@@ -1,7 +1,7 @@
 ---
 Title: JDK：記事の一覧
 Category:
-- java
+- JDK
 Date: 2016-02-03T18:48:00+09:00
 URL: http://web-dev.hatenablog.com/entry/java/jdk/table-of-contents
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178884230

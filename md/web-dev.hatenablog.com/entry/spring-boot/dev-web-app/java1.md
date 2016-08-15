@@ -1,7 +1,7 @@
 ---
 Title: SpringBoot アプリ開発：3. Java（モデル・リポジトリ）
 Category:
-- spring-boot-アプリ開発
+- Spring Boot アプリ開発
 Date: 2016-06-23T22:20:00+09:00
 URL: http://web-dev.hatenablog.com/entry/spring-boot/dev-web-app/java1
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179182407

@@ -1,7 +1,7 @@
 ---
 Title: SpringBoot入門：サービスクラスを使う
 Category:
-- spring-boot
+- Spring Boot 入門
 Date: 2016-05-20T17:00:00+09:00
 URL: http://web-dev.hatenablog.com/entry/spring-boot/intro/service-class
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179105969

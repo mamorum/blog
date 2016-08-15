@@ -1,7 +1,7 @@
 ---
 Title: PostgreSQL：記事の一覧
 Category:
-- postgresql
+- PostgreSQL
 Date: 2016-04-28T12:38:00+09:00
 URL: http://web-dev.hatenablog.com/entry/postgresql/table-of-contents
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178954913

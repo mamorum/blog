@@ -1,7 +1,7 @@
 ---
 Title: CentOS：日本時刻に設定（ntpd, ntpdate, timezone, localtime）
 Category:
-- linux
+- Linux
 Date: 2016-03-31T18:21:00+09:00
 URL: http://web-dev.hatenablog.com/entry/linux/centos/time-jp
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178815983

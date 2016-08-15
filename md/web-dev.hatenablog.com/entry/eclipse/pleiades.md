@@ -1,7 +1,7 @@
 ---
 Title: Eclipse：日本語化手順（Pleiadesプラグイン）
 Category:
-- eclipse
+- Eclipse
 Date: 2016-02-06T23:19:00+09:00
 URL: http://web-dev.hatenablog.com/entry/eclipse/pleiades
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179019561
