@@ -7,7 +7,7 @@ URL: http://web-dev.hatenablog.com/entry/java/jdk/windows-variables
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178827384
 ---
 
-環境変数 `JAVA_HOME`と `Path` を、Windows で設定する手順を書いています。[Windows に JDK をインストール](entry/java/jdk/windows-install) したら、だいたいこの変数を設定します。
+環境変数 `JAVA_HOME`と `Path` を、Windows で設定する手順を書いています。[Windows に JDK をインストール](/entry/java/jdk/windows-install) したら、だいたいこの変数を設定します。
 
 
 ## 手順1. 環境変数の表示
