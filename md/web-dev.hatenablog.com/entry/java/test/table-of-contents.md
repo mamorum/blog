@@ -25,7 +25,7 @@ JUnit, AssertJ, mockito を使った Java の単体テスト方法と、FluentLe
 
 
 ## 補足２
-Gradle については、[Gradle 入門](/entry/gradle/intro) を参照して頂けると嬉しいです。
+Gradle については、[Gradle 入門](/entry/gradle/table-of-contents) を参照して頂けると嬉しいです。
 
 Gradle を使わないで、他のビルドシステムを使ったり、手動でクラスパスを設定しても大丈夫です。
 
