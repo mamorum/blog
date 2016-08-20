@@ -1,5 +1,10 @@
 ## はてなブログ
-- はてな - 読者設定（購読設定）
+- sitemap.xml 送信
 
-
-## web-devlog.net
+## web-devlog.net 削除
+- Google
+  - サーチコンソール
+  - アナリティクス（済）
+- Bing Web master
+- Githubリポジトリ削除
+- ドメイン関連
