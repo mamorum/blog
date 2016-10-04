@@ -46,3 +46,11 @@ Eclipse を再起動して、lombok 関連のエラーが出なくなれば成�
 
 ## 補足. eclipse.ini の設定
 インストールが完了すると、eclipse.ini に `-javaagent:lombok.jar` が自動的に追加されています。エラーが消えない場合や、違うパラメータで起動している場合は、こちらの設定を確認してみると良さそうです。
+
+
+## 関連記事
+次の記事には、Eclipse関連記事のリンクをまとめています。
+
+[Eclipse：記事の一覧](http://web-dev.hatenablog.com/entry/eclipse/table-of-contents)
+
+Eclipse の日本語化やカスタマイズなどの記事がありますので、参照して頂けると嬉しいです。
