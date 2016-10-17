@@ -55,8 +55,8 @@ Maven に公開しているオープンソースだと、ダウンロードと�
 
 
 ## 参考文献
-[License Information - The Central Repository](http://central.sonatype.org/pages/requirements.html#license-information)
-[Licenses - Maven](https://maven.apache.org/pom.html#Licenses)
+- [License Information - The Central Repository](http://central.sonatype.org/pages/requirements.html#license-information)
+- [Licenses - Maven](https://maven.apache.org/pom.html#Licenses)
 
 
 ## 関連記事
