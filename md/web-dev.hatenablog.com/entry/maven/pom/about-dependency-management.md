@@ -46,7 +46,7 @@ POM（XML）の 要素 `dependencyManagement` について、調べたことを�
   </dependencies>
 ```
 
-`groupId` や `artifactId` は必要で、`version` は省略できるみたいです。実質的には、依存性のバージョンだけ継承できているのかもしれません・・・。
+`groupId` や `artifactId` は必要で、`version` は省略できるみたいです。実質的に継承できているのは、依存性のバージョンだけなのかもしれません。
 
 
 ## 参考文献
