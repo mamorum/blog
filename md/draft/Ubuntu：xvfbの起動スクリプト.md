@@ -1,10 +1,19 @@
 linux/ubuntu/install-firefox-xvfb
+Ubuntu：xvfbの起動スクリプト
+
+今回は、Ubuntu 14（Vagrant Box の `ubuntu/trusty64`）にインストールした Xvfb の起動スクリプトについて書いていきます。具体的には、
+
+1. 起動スクリプトの内容（紹介）
+2. 起動スクリプトの登録方法
+3. 起動スクリプトの解除方法
+
+を書いています。
+
+※ Xvfb のインストール手順は、記事「[Ubuntu：xvfbとfirefoxのインストール](http://web-dev.hatenablog.com/entry/linux/ubuntu/install-firefox-xvfb)」を参考にして頂けると幸いです。
 
 
-Ubuntu 14（Vagrant Box の `ubuntu/trusty64`）にインストールした Xvfb の起動スクリプト
-
-
-## 起動スクリプト
+## 1. 起動スクリプトの内容
+あくまで一例ですが、自分は次のようなスクリプトを作成しました。
 
 ```
 ### BEGIN INIT INFO
@@ -42,3 +51,34 @@ esac
  
 exit 0
 ```
+
+ファイル名は `xvfb` としました。
+
+
+## 2. 起動スクリプトの登録方法
+起動スクリプトを登録すると、ＯＳが起動時にスクリプトを実行してくれるようになります。以下に、コマンド `update-rc.d` で登録する手順を書いていきます。
+
+### 手順1. スクリプトのコピー
+カレントディレクトリのファイル `xvfb` を、`/etc/init.d/` にコピーします。
+
+```
+$ sudo cp -p xvfb /etc/init.d/
+```
+
+### 手順2. スクリプトの登録
+次のコマンドで登録します。
+
+```
+$ sudo update-rc.d xvfb defaults
+```
+
+実行される（実行されない）ランレベルは、スクリプトの冒頭に書いてあります。
+
+
+## 3. 起動スクリプトの解除方法
+Xvfb を起動したくなくなったら、次のコマンドで解除することができます。
+
+```
+$ sudo update-rc.d -f xvfb remove
+```
+
