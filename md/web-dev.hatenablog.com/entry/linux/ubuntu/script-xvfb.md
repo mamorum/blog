@@ -1,5 +1,11 @@
-linux/ubuntu/install-firefox-xvfb
-Ubuntu：xvfbの起動スクリプト
+---
+Title: Ubuntu：xvfbの起動スクリプト
+Category:
+- Linux
+Date: 2016-12-06T22:12:04+09:00
+URL: http://web-dev.hatenablog.com/entry/linux/ubuntu/script-xvfb
+EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687197661249
+---
 
 今回は、Ubuntu 14（Vagrant Box の `ubuntu/trusty64`）にインストールした Xvfb の起動スクリプトについて書いていきます。具体的には、
 
@@ -7,7 +13,7 @@ Ubuntu：xvfbの起動スクリプト
 2. 起動スクリプトの登録方法
 3. 起動スクリプトの解除方法
 
-を書いています。
+といった内容になります。
 
 ※ Xvfb のインストール手順は、記事「[Ubuntu：xvfbとfirefoxのインストール](http://web-dev.hatenablog.com/entry/linux/ubuntu/install-firefox-xvfb)」を参考にして頂けると幸いです。
 
