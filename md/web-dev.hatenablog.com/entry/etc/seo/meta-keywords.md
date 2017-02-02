@@ -1,10 +1,15 @@
-etc/seo/meta-keywords
-SEO：meta keywords タグについて
-
+---
+Title: SEO：meta keywords タグについて
+Category:
+- etc
+Date: 2017-02-02T09:11:05+09:00
+URL: http://web-dev.hatenablog.com/entry/etc/seo/meta-keywords
+EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687212536661
+---
 
 meta keywords タグは、Google の検索エンジン最適化には必要ないみたいです。
 
-Google の人は、[ブログ](https://webmasters.googleblog.com/2009/09/google-does-not-use-keywords-meta-tag.html) で「検索順位を決定するために使っていない」と回答しているようです。
+Google の人は、[公式ブログ](https://webmasters.googleblog.com/2009/09/google-does-not-use-keywords-meta-tag.html) で「meta keywords タグを検索順位を決定するために使っていない」と回答しているようです。
 また、[Google Search Console ヘルプ](https://support.google.com/webmasters/answer/79812?hl=ja) にも、サポートするメタタグとして書かれていません。
 
 
