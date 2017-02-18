@@ -1,7 +1,6 @@
 ---
 Title: SpringBoot入門：jQueryでJSONを受信
 Date: 2017-02-16
-URL: /jquery-ajax-json
 ---
 
 Spring Boot の Webアプリで、jQuery を使って JSON を受け取る方法を書きます。JSON は、記事「[JSONを返す](/entry/spring-boot/intro/response-json)」のコントローラから取得します。
