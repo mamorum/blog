@@ -38,9 +38,9 @@ Maven の XML を作成します。アプリのルートディレクトリは `g
   <version>1.0.0</version>
 
   <parent>
-      <groupId>org.springframework.boot</groupId>
-      <artifactId>spring-boot-starter-parent</artifactId>
-      <version>1.5.1.RELEASE</version>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-parent</artifactId>
+    <version>1.5.1.RELEASE</version>
   </parent>
 
   <dependencies>
@@ -91,11 +91,11 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController  // JSON を返すコントローラに付与。
 public class HelloController {
 
-    // リクエスト /hello に対して実行されるメソッド。
-    @RequestMapping("/hello")
-    public Map<String, String> hello() {
-        return Collections.singletonMap("message", "Hello, World!");
-    }
+  // リクエスト /hello に対して実行されるメソッド。
+  @RequestMapping("/hello")
+  public Map<String, String> hello() {
+    return Collections.singletonMap("message", "Hello, World!");
+  }
 }
 ```
 
@@ -113,9 +113,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class App {
-    public static void main(String[] args) {
-        SpringApplication.run(App.class, args);
-    }
+  public static void main(String[] args) {
+    SpringApplication.run(App.class, args);
+  }
 }
 ```
 
@@ -137,8 +137,3 @@ gssb > mvn spring-boot:run
 ## ソースコード
 [gssb - GitHub](https://github.com/mamorum/blog/tree/master/code/gssb)  
 ※ プロジェクト名の gssb は、Getting Started Spring Boot の略です。
-
-
-## 更新履歴
-- 2017.02.15：ビルドシステム変更（Gradle を Maven に変更）、SpringBoot のバージョンアップ（1.3.5 から 1.5.1 に変更）
-- 2017.06.10：新規作成
