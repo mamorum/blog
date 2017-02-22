@@ -9,9 +9,9 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController  // JSON を返すコントローラに付与。
 public class HelloController {
 
-    // リクエスト /hello に対して実行されるメソッド。
-    @RequestMapping("/hello")
-    public Map<String, String> hello() {
-        return Collections.singletonMap("message", "Hello, World!");
-    }
+  // リクエスト /hello に対して実行されるメソッド。
+  @RequestMapping("/hello")
+  public Map<String, String> hello() {
+    return Collections.singletonMap("message", "Hello, World!");
+  }
 }

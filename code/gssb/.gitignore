@@ -1,6 +1,5 @@
-# gradle, eclipse
-build/
-.gradle/
+# maven, eclipse
+target/
 .settings/
 .classpath
 .project

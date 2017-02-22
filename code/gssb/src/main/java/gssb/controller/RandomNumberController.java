@@ -12,13 +12,13 @@ import gssb.service.RandomNumberService;
 @RestController
 public class RandomNumberController {
 
-	// サービスクラスがＤＩされる。
-	@Autowired RandomNumberService random;
+  // サービスクラスがＤＩされる。
+  @Autowired RandomNumberService random;
 	
-	// 乱数をレスポンスとして返却する。
-	@RequestMapping("/random")
-    public Map<String, Integer> random() {
-		int value = random.zeroToNine();
-        return Collections.singletonMap("value", value);
-    }
+  // 乱数をレスポンスとして返却する。
+  @RequestMapping("/random")
+  public Map<String, Integer> random() {
+    int value = random.zeroToNine();
+    return Collections.singletonMap("value", value);
+  }
 }
