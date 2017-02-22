@@ -2,16 +2,19 @@
 Title: SpringBoot入門：ファイルアップロード
 Category:
 - Spring Boot 入門
-Date: 2016-03-11T17:03:00+09:00
+Date: 2017-02-17T17:03:00+09:00
 URL: http://web-dev.hatenablog.com/entry/spring-boot/intro/file-upload
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179111360
 ---
 
-Spring Boot の Webアプリで、ファイルアップロードを受け付ける方法を書きます。アップロードを受け付けるコントローラと、アップロード画面を作成していきます。
+Spring Boot の Webアプリで、ファイルアップロードを受け付ける方法を書きます。手順としては、次の資源を作成していきます。
+
+1. アップロードを受け付けるコントローラ
+2. アップロードする画面
 
 
 ## 前提
-この記事は、入門記事「[JSONの返却](/entry/spring-boot/intro/response-json)」の資源（ビルドファイル、クラス等）を利用しています。必要に応じて参照して頂けると嬉しいです。
+この記事は、入門記事「[JSONを返す](/entry/spring-boot/intro/response-json)」の資源（ビルドファイル、クラス等）を利用しています。必要に応じて参照して頂けると嬉しいです。
 
 
 ## 手順1. コントローラの作成
@@ -39,31 +42,29 @@ import org.springframework.web.multipart.MultipartFile;
 @RestController
 public class FileUploadController {
     
-    // 引数名 `file` は、ファイルのリクエストパラメータ名と一致させる。
-    @RequestMapping(value="/upload", method=RequestMethod.POST)
-    public void handle(HttpServletResponse response,
-                                @RequestParam MultipartFile file){
-        
-        // ファイルが空の場合は、HTTP 400 を返す。
-        if (file.isEmpty()) {
-            response.setStatus(HttpServletResponse.SC_BAD_REQUEST);
-            return;
-        }
-        
-        try {
-            BufferedInputStream in =
-                new BufferedInputStream(file.getInputStream());
-            
-            BufferedOutputStream out =
-                new BufferedOutputStream(
-                  new FileOutputStream(file.getOriginalFilename()));
-            
-            FileCopyUtils.copy(in, out);
-
-        } catch (IOException e) {
-            throw new RuntimeException("Error uploading file.", e);
-        }
+  // 引数名 `file` は、ファイルのリクエストパラメータ名と一致させる。
+  @RequestMapping(value="/upload", method=RequestMethod.POST)
+  public void handle(
+    HttpServletResponse response,
+    @RequestParam MultipartFile file
+  ){
+    // ファイルが空の場合は HTTP 400 を返す。
+    if (file.isEmpty()) {
+      response.setStatus(HttpServletResponse.SC_BAD_REQUEST);
+      return;
     }
+    // アップロードされたファイルを保存。
+    try {
+      BufferedInputStream in =
+        new BufferedInputStream(file.getInputStream());
+      BufferedOutputStream out =
+        new BufferedOutputStream(
+          new FileOutputStream(file.getOriginalFilename()));
+      FileCopyUtils.copy(in, out);
+    } catch (IOException e) {
+      throw new RuntimeException("Error uploading file.", e);
+    }
+  }
 }
 ```
 
@@ -73,7 +74,7 @@ public class FileUploadController {
 
 `gssb/src/main/resources/public/file-upload.html`
 
-```html
+```
 <!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -84,35 +85,34 @@ public class FileUploadController {
 </head>
 <body>
 <div>
-    <form id="form" enctype="multipart/form-data">
-        <p><input type="file" name="file"></p>
-        <p><input type="button" id="upload" value="アップロード"></p>
-    </form>
-    <span id="result" style="padding:3px;"></span>
+  <form id="form" enctype="multipart/form-data">
+    <p><input type="file" name="file"></p>
+    <p><input type="button" id="upload" value="アップロード"></p>
+  </form>
+  <span id="result" style="padding:3px;"></span>
 </div>
 </body>
 <script src="https://code.jquery.com/jquery-1.12.1.min.js"></script>
 <script type="text/javascript">
 $(function() {
-    
-    // アップロードボタンが押されたら実行。
-    $('#upload').click(function() {
-
-        var formData = new FormData( $('#form').get()[0] );
-
-        $.ajax({
-            url:'/upload',
-            method:'post',
-            data:formData,
-            processData:false,
-            contentType:false,
-            cache: false
-        }).done(function(data, status, jqxhr) {
-            $('#result').text('結果：成功');
-        }).fail(function(data, status, jqxhr) {
-            $('#result').text('結果：失敗');
-        }); 
-    });
+  // アップロードボタンが押されたら実行。
+  $('#upload').click(function() {
+    var formData = new FormData(
+      $('#form').get()[0]
+    );
+    $.ajax({
+      url:'/upload',
+      method:'post',
+      data:formData,
+      processData:false,
+      contentType:false,
+      cache: false
+    }).done(function(data, status, jqxhr) {
+      $('#result').text('結果：成功');
+    }).fail(function(data, status, jqxhr) {
+      $('#result').text('結果：失敗');
+    }); 
+  });
 });
 </script>
 </html>
@@ -123,7 +123,7 @@ $(function() {
 次のコマンドでアプリを起動します。
 
 ```txt
-gssb > gradle bootRun
+gssb > mvn spring-boot:run
 ```
 
 
@@ -134,7 +134,7 @@ gssb > gradle bootRun
 
 ファイルを選択しないでアップロードしたり、０バイトのファイルをアップロードすると、下の画像のように「エラー」と表示されます。
 
-![erro-file-upload](http://cdn-ak.f.st-hatena.com/images/fotolife/m/mamorums/20160814/20160814222023.png)
+![error-file-upload](http://cdn-ak.f.st-hatena.com/images/fotolife/m/mamorums/20160814/20160814222023.png)
 
 
 ## 課題

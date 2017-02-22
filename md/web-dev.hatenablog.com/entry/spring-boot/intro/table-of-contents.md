@@ -2,7 +2,7 @@
 Title: SpringBoot入門：目次
 Category:
 - Spring Boot 入門
-Date: 2016-06-11T11:30:00+09:00
+Date: 2017-02-22T11:30:00+09:00
 URL: http://web-dev.hatenablog.com/entry/spring-boot/intro/table-of-contents
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179112311
 ---
@@ -13,11 +13,9 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10
 
 
 ## 入門記事の目次
-### ※ 補足
-入門記事「[JSONの返却](/entry/spring-boot/intro/response-json)」には、全ての記事に共通する内容（アプリ起動クラス・コントローラ等）を書いています。初めに読んで頂けると、他の記事も読みやすくなると思います。
-
 ### 1. Web関連
-- [JSONの返却](/entry/spring-boot/intro/response-json)
+- [JSONを返す](/entry/spring-boot/intro/response-json)
+- [静的コンテンツを返す](/entry/spring-boot/intro/response-static-content)
 - [jQueryでJSONを受信](/entry/spring-boot/intro/jquery-ajax-json)
 - [ファイルアップロード](/entry/spring-boot/intro/file-upload)
 - [外部のサービスに接続](/entry/spring-boot/intro/ex-service)
@@ -34,11 +32,28 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10
 - [MongoDBにアクセス](/entry/spring-boot/intro/mongodb)
 
 ### 4. その他
+- [アプリのjar作成](/entry/spring-boot/intro/create-jar)
 - [タスクのスケジューリング](/entry/spring-boot/intro/scheduling-task)
 - [アプリの管理やモニタリング](/entry/spring-boot/intro/monitoring-app)
-- [アプリのjar作成](/entry/spring-boot/intro/create-jar)
 
 
 ## 参考文献
 [Getting Started Guides - Spring](http://spring.io/guides)  
 ※ 公式の入門記事です。
+
+
+## 更新履歴
+### 1. Web関連
+- 2017.02.22：変更
+    - 記事「[静的コンテンツを返す](/entry/spring-boot/intro/response-static-content)」を追加
+    - ビルドシステムを Gradle から Maven に変更
+    - SpringBoot を 1.3.5 から 1.5.1 にバージョンアップ
+    - 記事の改善
+- 2017.06.10：新規作成
+
+### 4. その他
+- 2017.02.22：変更
+    - ビルドシステムを Gradle から Maven に変更
+    - SpringBoot を 1.3.5 から 1.5.1 にバージョンアップ
+    - 記事の改善
+- 2017.06.10：新規作成

@@ -2,24 +2,24 @@
 Title: SpringBoot入門：jQueryでJSONを受信
 Category:
 - Spring Boot 入門
-Date: 2016-06-10T16:15:00+09:00
+Date: 2017-02-16T16:15:00+09:00
 URL: http://web-dev.hatenablog.com/entry/spring-boot/intro/jquery-ajax-json
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179106284
 ---
 
-Spring Boot の Webアプリで、jQuery を使って JSON を受け取る方法を書きます。レスポンスの JSON は、記事「[JSONの返却](/entry/spring-boot/intro/response-json)」のコントローラから取得します。
+Spring Boot の Webアプリで、jQuery を使って JSON を受け取る方法を書きます。JSON は、記事「[JSONを返す](/entry/spring-boot/intro/response-json)」のコントローラから取得します。
 
 
 ## 前提
-この記事は、入門記事「[JSONの返却](/entry/spring-boot/intro/response-json)」の資源（ビルドファイル、クラス等）を利用しています。必要に応じて参照して頂けると嬉しいです。
+この記事は、入門記事「[JSONを返す](/entry/spring-boot/intro/response-json)」の資源（ビルドファイル、クラス等）を利用しています。必要に応じて参照して頂けると嬉しいです。
 
 
 ## 手順1. 画面の作成
-jQuery を使う画面を作成します。コントローラ（`/hello`）から JSON を取得して、DOM要素（` .message`） に表示します。
+HTML を作成して、`script` タグに jQuery を使う処理を書きます。
 
 `gssb/src/main/resources/public/jquery-ajax.html`
 
-```html
+```
 <!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -36,6 +36,7 @@ jQuery を使う画面を作成します。コントローラ（`/hello`）か�
 </body>
 <script src="https://code.jquery.com/jquery-1.12.1.min.js"></script>
 <script type="text/javascript">
+// JSON を取得して .message に表示。
 $(function() {
   $.ajax({
     url: '/hello',
@@ -49,14 +50,14 @@ $(function() {
 </html>
 ```
 
-Spring Boot の Web アプリは、`src/main/resources/public` or `src/main/resources/static` 配下に静的な資源（html, js, css, png, etc）を置くことが多いみたいです。
+HTML（静的コンテンツ）の置き場所は、記事「[静的コンテンツを返す](/entry/spring-boot/intro/response-static-content)」に書いてあります。
 
 
 ## 手順2. 起動
 次のコマンドでアプリを起動します。
 
 ```txt
-gssb > gradle bootRun
+gssb > mvn spring-boot:run
 ```
 
 

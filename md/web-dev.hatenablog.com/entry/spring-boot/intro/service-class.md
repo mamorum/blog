@@ -2,16 +2,16 @@
 Title: SpringBoot入門：サービスクラスを使う
 Category:
 - Spring Boot 入門
-Date: 2016-05-20T17:00:00+09:00
+Date: 2017-02-18T17:00:00+09:00
 URL: http://web-dev.hatenablog.com/entry/spring-boot/intro/service-class
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179105969
 ---
 
-ていきます。サービスクラスは「[ドメイン駆動設計](https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E9%A7%86%E5%8B%95%E8%A8%AD%E8%A8%88)」に登場するオブジェクトで、なんらかの処理（機能）を実装するものです。
+Spring Boot の Webアプリで、サービスクラスを使う方法を書きます。サービスクラスは「[ドメイン駆動設計 - Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E9%A7%86%E5%8B%95%E8%A8%AD%E8%A8%88)」に登場するオブジェクトで、なんらかの処理（機能）を実装するものです。
 
 
 ## 前提
-この記事は、入門記事「[JSONの返却](/entry/spring-boot/intro/response-json)」の資源（ビルドファイル、クラス等）を利用しています。必要に応じて参照して頂けると嬉しいです。
+この記事は、入門記事「[JSONを返す](/entry/spring-boot/intro/response-json)」の資源（ビルドファイル、クラス等）を利用しています。必要に応じて参照して頂けると嬉しいです。
 
 
 ## 手順1. サービスクラスの作成
@@ -27,10 +27,10 @@ import org.springframework.stereotype.Service;
 @Service  // サービスクラスに付与。
 public class RandomNumberService {
 
-	// 整数0-9の乱数を返却。
-	public int zeroToNine() {
-		return (int) (Math.random() * 10);
-	}
+  // 整数0-9の乱数を返却。
+  public int zeroToNine() {
+    return (int) (Math.random() * 10);
+  }
 }
 ```
 
@@ -57,33 +57,33 @@ import gssb.service.RandomNumberService;
 @RestController
 public class RandomNumberController {
 
-	// サービスクラスがＤＩされる。
-	@Autowired RandomNumberService random;
-	
-	// 乱数をレスポンスとして返却する。
-	@RequestMapping("/random")
-    public Map<String, Integer> random() {
-        int value = random.zeroToNine();
-        return Collections.singletonMap("value", value);
-    }
+  // サービスクラスがＤＩされる。
+  @Autowired RandomNumberService random;
+  
+  // 乱数をレスポンスとして返却する。
+  @RequestMapping("/random")
+  public Map<String, Integer> random() {
+    int value = random.zeroToNine();
+    return Collections.singletonMap("value", value);
+  }
 }
 ```
 
-先程のサービスクラスは、`@Autowired` が付いた同じ型の変数に設定（DI）されます。
+`@Autowired` が付いた変数 `random` に、 先程のサービスクラスが設定（DI）されます。
 
 
 ## 手順3. 起動
 次のコマンドでアプリを起動します。
 
 ```txt
-gssb > gradle bootRun
+gssb > mvn spring-boot:run
 ```
 
 
 ## 手順4. 確認
 `http://localhost:8080/random` にアクセスして、次のような JSON が返ってくれば成功です。
 
-```json
+```
 {"value":0}
 ```
 
