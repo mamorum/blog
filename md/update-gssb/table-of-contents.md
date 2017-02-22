@@ -1,6 +1,6 @@
 ---
 Title: SpringBoot入門：目次
-Date: 2017-02-11
+Date: 2017-02-22
 ---
 
 この記事には、SpringBoot 入門記事のリンクをまとめています。
@@ -28,9 +28,9 @@ Date: 2017-02-11
 - [MongoDBにアクセス](/entry/spring-boot/intro/mongodb)
 
 ### 4. その他
+- [アプリのjar作成](/entry/spring-boot/intro/create-jar)
 - [タスクのスケジューリング](/entry/spring-boot/intro/scheduling-task)
 - [アプリの管理やモニタリング](/entry/spring-boot/intro/monitoring-app)
-- [アプリのjar作成](/entry/spring-boot/intro/create-jar)
 
 
 ## 参考文献
@@ -40,7 +40,7 @@ Date: 2017-02-11
 
 ## 更新履歴
 ### 1. Web関連
-- 2017.02.15？：変更
+- 2017.02.22：変更
     - 記事「[静的コンテンツを返す](/entry/spring-boot/intro/response-static-content)」を追加
     - ビルドシステムを Gradle から Maven に変更
     - SpringBoot を 1.3.5 から 1.5.1 にバージョンアップ
@@ -48,7 +48,8 @@ Date: 2017-02-11
 - 2017.06.10：新規作成
 
 ### 4. その他
-- 2017.02.15？：変更
+- 2017.02.22：変更
     - ビルドシステムを Gradle から Maven に変更
     - SpringBoot を 1.3.5 から 1.5.1 にバージョンアップ
+    - 記事の改善
 - 2017.06.10：新規作成
