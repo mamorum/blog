@@ -16,21 +16,21 @@ import gssb.nosql.mongodb.repository.CustomerRepository;
 @RestController @RequestMapping(path="/customers")
 public class CustomerController {
 
-	@Autowired CustomerRepository repo;
+  @Autowired CustomerRepository repo;
 	
-	@RequestMapping(method=RequestMethod.POST)
-	public Map<String, String> create(
-		@RequestBody Customer customer
-	) {
-		Customer created = repo.save(customer);
-		return Collections.singletonMap("id", created.id);
+  @RequestMapping(method=RequestMethod.POST)
+  public Map<String, String> create(
+    @RequestBody Customer customer
+  ) {
+    Customer created = repo.save(customer);
+    return Collections.singletonMap("id", created.id);
 	}
-	
-	@RequestMapping(method=RequestMethod.GET)
-	public Map<String, Iterable<Customer>> find(
-		@RequestParam String lastName
-	) {
-		Iterable<Customer> finded = repo.findByLastName(lastName);
-		return Collections.singletonMap("customers", finded);
+
+  @RequestMapping(method=RequestMethod.GET)
+  public Map<String, Iterable<Customer>> find(
+    @RequestParam String lastName
+  ) {
+    Iterable<Customer> finded = repo.findByLastName(lastName);
+    return Collections.singletonMap("customers", finded);
 	}
 }
