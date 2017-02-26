@@ -2,6 +2,7 @@
 Title: Maven：CentOSにインストール
 Category:
 - Maven
+- Linux
 Date: 2016-04-01T18:04:00+09:00
 URL: http://web-dev.hatenablog.com/entry/maven/centos-install
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178885558
@@ -25,13 +26,13 @@ root でインストール先（例：`/opt`）に移動します。それから
 ダウンロードした圧縮ファイルを解凍します。
 
 ```
-# tar xzvf  apache-maven-3.3.9-bin.tar.gz
+# tar xzvf apache-maven-3.3.9-bin.tar.gz
 ```
 
 解凍が終わったら、圧縮ファイルは削除しても大丈夫です。
 
 ```
-# rm  apache-maven-3.3.9-bin.tar.gz
+# rm apache-maven-3.3.9-bin.tar.gz
 ```
 
 

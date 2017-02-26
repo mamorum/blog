@@ -2,6 +2,7 @@
 Title: JDK：Ubuntuにインストール
 Category:
 - JDK
+- Linux
 Date: 2016-11-04T22:25:18+09:00
 URL: http://web-dev.hatenablog.com/entry/java/jdk/ubuntu-install
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687192974484
