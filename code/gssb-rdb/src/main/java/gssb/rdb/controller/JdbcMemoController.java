@@ -11,8 +11,6 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import lombok.AllArgsConstructor;
-
 @RestController
 @RequestMapping(path="/jdbc/memos")
 public class JdbcMemoController {
@@ -40,10 +38,13 @@ public class JdbcMemoController {
 		);
 		return Collections.singletonMap("memo", memo);
 	}
-	
-	@AllArgsConstructor
+
 	public static class Memo {
 		public Long id;
 		public String name;
+		public Memo(Long id, String name) {
+		  this.id = id;
+		  this.name = name;
+		}
 	}
 }
