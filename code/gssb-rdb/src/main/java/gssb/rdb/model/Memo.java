@@ -10,14 +10,14 @@ import org.hibernate.validator.constraints.NotEmpty;
 
 @Entity    // JPAエンティティに必要。
 public class Memo extends TimestampEntity {
-	
-	// データ型 serial（PostgreSQL）。
-	@Id @GeneratedValue(strategy=GenerationType.IDENTITY)
-	public long id;
-	
-	@NotEmpty
-	public String text;
-	
-	@Version
-	public long version;    
+
+  // データ型 serial（PostgreSQL）。
+  @Id @GeneratedValue(strategy=GenerationType.IDENTITY)
+  public long id;
+
+  @NotEmpty
+  public String text;
+
+  @Version
+  public long version;    
 }
