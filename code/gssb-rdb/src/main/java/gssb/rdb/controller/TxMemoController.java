@@ -14,24 +14,24 @@ import gssb.rdb.repository.MemoRepository;
 @RequestMapping(path="/tx")
 public class TxMemoController {
 
-	@Autowired MemoRepository repository;
-	
-	// メモを１つ作成して、その後でエラーを発生させるメソッド
-	private void create(Memo memo) {
-		repository.save(memo);
-		repository.save(new Memo()); // text の NotEmpty でエラー。
-	}
-	
-	// トランザクションを管理する。
-	@Transactional
-    @RequestMapping(path="/on/memos", method=RequestMethod.POST)
-    public void txOn(@RequestBody Memo memo) {
-        create(memo);
-    }
-	
-	// トランザクションを管理しない。
-	@RequestMapping(path="/off/memos", method=RequestMethod.POST)
-    public void txOff(@RequestBody Memo memo) {
-		create(memo);
-    }
+  @Autowired MemoRepository repository;
+
+  // メモを１つ作成して、その後でエラーを発生させるメソッド
+  private void create(Memo memo) {
+    repository.save(memo);
+    repository.save(new Memo()); // text の NotEmpty でエラー。
+  }
+
+  // トランザクションを管理する。
+  @Transactional
+  @RequestMapping(path="/on/memos", method=RequestMethod.POST)
+  public void txOn(@RequestBody Memo memo) {
+    create(memo);
+  }
+
+  // トランザクションを管理しない。
+  @RequestMapping(path="/off/memos", method=RequestMethod.POST)
+  public void txOff(@RequestBody Memo memo) {
+    create(memo);
+  }
 }

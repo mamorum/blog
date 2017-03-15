@@ -5,5 +5,6 @@ import org.springframework.data.repository.CrudRepository;
 import gssb.rdb.model.Memo;
 
 public interface MemoRepository extends CrudRepository<Memo, Long> {
-	Iterable<Memo> findByText(String text);
+  // 引数の text に一致するエンティティを取得。
+  Iterable<Memo> findByText(String text);
 }
