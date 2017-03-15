@@ -2,7 +2,7 @@
 Title: SpringBoot入門：トランザクションの管理
 Category:
 - Spring Boot 入門
-Date: 2016-06-09T18:00:00+09:00
+Date: 2017-03-12T18:00:00+09:00
 URL: http://web-dev.hatenablog.com/entry/spring-boot/intro/transaction
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179110066
 ---
@@ -36,26 +36,26 @@ import gssb.rdb.repository.MemoRepository;
 @RequestMapping(path="/tx")
 public class TxMemoController {
 
-    @Autowired MemoRepository repository;
-    
-    // メモを１つ作成して、その後でエラーを発生させるメソッド
-    private void create(Memo memo) {
-        repository.save(memo);
-        repository.save(new Memo()); // text の NotEmpty でエラー。
-    }
-    
-    // トランザクションを管理する。
-    @Transactional
-    @RequestMapping(path="/on/memos", method=RequestMethod.POST)
-    public void txOn(@RequestBody Memo memo) {
-        create(memo);
-    }
-    
-    // トランザクションを管理しない。
-    @RequestMapping(path="/off/memos", method=RequestMethod.POST)
-    public void txOff(@RequestBody Memo memo) {
-        create(memo);
-    }
+  @Autowired MemoRepository repository;
+
+  // メモを１つ作成して、その後でエラーを発生させるメソッド
+  private void create(Memo memo) {
+    repository.save(memo);
+    repository.save(new Memo()); // text の NotEmpty でエラー。
+  }
+
+  // トランザクションを管理する。
+  @Transactional
+  @RequestMapping(path="/on/memos", method=RequestMethod.POST)
+  public void txOn(@RequestBody Memo memo) {
+    create(memo);
+  }
+
+  // トランザクションを管理しない。
+  @RequestMapping(path="/off/memos", method=RequestMethod.POST)
+  public void txOff(@RequestBody Memo memo) {
+    create(memo);
+  }
 }
 ```
 
@@ -65,10 +65,10 @@ public class TxMemoController {
 
 
 ## 手順2. 起動
-次のコマンドでアプリを起動します。
+事前に PostgreSQL を起動してから、次のコマンドでアプリを起動します。
 
 ```txt
-gssb-rdb > gradle bootRun
+gssb-rdb > mvn spring-boot:run
 ```
 
 

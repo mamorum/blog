@@ -2,7 +2,7 @@
 Title: SpringBoot入門：JPAでデータアクセス
 Category:
 - Spring Boot 入門
-Date: 2016-06-09T17:20:00+09:00
+Date: 2017-03-11T17:20:00+09:00
 URL: http://web-dev.hatenablog.com/entry/spring-boot/intro/jpa
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179107669
 ---
@@ -32,20 +32,20 @@ import org.hibernate.validator.constraints.NotEmpty;
 
 @Entity    // JPAエンティティに必要。
 public class Memo extends TimestampEntity {
-    
-    // データ型 serial（PostgreSQL）。
-    @Id @GeneratedValue(strategy=GenerationType.IDENTITY)
-    public long id;
-    
-    @NotEmpty
-    public String text;
-    
-    @Version
-    public long version;    
+
+  // データ型 serial（PostgreSQL）。
+  @Id @GeneratedValue(strategy=GenerationType.IDENTITY)
+  public long id;
+
+  @NotEmpty
+  public String text;
+
+  @Version
+  public long version;    
 }
 ```
 
-タイムスタンプ（作成日時、更新日時）は、次の親クラスで保持します。Insert前 と Update前（@PrePersist と @PreUpdate）に、日時を設定する処理を実装しています。
+タイムスタンプ（作成日時、更新日時）は、次の親クラスで保持します。Insert前 と Update前（`@PrePersist` と `@PreUpdate`）に、日時を設定する処理を実装しています。
 
 `gssb-rdb/src/main/java/gssb/rdb/model/TimestampEntity.java`
 
@@ -63,22 +63,22 @@ import javax.persistence.PreUpdate;
 @MappedSuperclass    // JPAエンティティの親に必要。
 public abstract class TimestampEntity {
 
-    public Timestamp updatedTime;
-    
-    @Column(updatable=false)
-    public Timestamp createdTime;
-    
-    @PrePersist
-    public void prePersist() {
-        Timestamp ts = new Timestamp((new Date()).getTime());
-        this.createdTime = ts;
-        this.updatedTime = ts;
+  public Timestamp updatedTime;
+
+  @Column(updatable=false)
+  public Timestamp createdTime;
+
+  @PrePersist
+  public void prePersist() {
+    Timestamp ts = new Timestamp((new Date()).getTime());
+    this.createdTime = ts;
+    this.updatedTime = ts;
     }
-    
-    @PreUpdate
-    public void preUpdate() {
-        this.updatedTime = new Timestamp((new Date()).getTime());
-    }
+
+  @PreUpdate
+  public void preUpdate() {
+    this.updatedTime = new Timestamp((new Date()).getTime());
+  }
 }
 ```
 
@@ -98,11 +98,12 @@ import org.springframework.data.repository.CrudRepository;
 import gssb.rdb.model.Memo;
 
 public interface MemoRepository extends CrudRepository<Memo, Long> {
-    Iterable<Memo> findByText(String text);
+  // 引数の text に一致するエンティティを取得。
+  Iterable<Memo> findByText(String text);
 }
 ```
 
-CrudRepository を継承すると、基本的なデータ操作（CRUD）用のメソッドが追加されます。また、規約に従ってメソッドを実装すると、where 句などを指定できます。
+`CrudRepository` を継承すると、基本的なデータ操作（CRUD）用のメソッドが追加されます。また、上の `findByText(String)` のように、Spring の命名規約に従ってメソッドを実装すると、CRUD の where 句などを指定できます。
 
 詳細は、[Spring Data JPA のドキュメント](http://docs.spring.io/spring-data/jpa/docs/current/reference/html/) に書かれています。
 
@@ -132,37 +133,36 @@ import gssb.rdb.repository.MemoRepository;
 @RequestMapping(path="/jpa/memos")
 public class JpaMemoController {
 
-    @Autowired MemoRepository repository;
-    
-    // リクエストの JSON を Memo にバインドして insert。
-    @RequestMapping(method=RequestMethod.POST)
-    public Map<String, Memo> create(@RequestBody Memo memo) {
-        Memo result = repository.save(memo);
-        return Collections.singletonMap("memo", result);
-    }
-    
-    // リクエストパラメータ text の内容と等しいデータを select。
-    @RequestMapping(method=RequestMethod.GET)
-    public Map<String, Iterable<Memo>> read(@RequestParam String text) {
-        Iterable<Memo> result = repository.findByText(text);
-        return Collections.singletonMap("memos", result);
-    }
-}
+  @Autowired MemoRepository repository;
 
+  // リクエストの JSON を Memo にバインドして insert。
+  @RequestMapping(method=RequestMethod.POST)
+  public Map<String, Memo> create(@RequestBody Memo memo) {
+    Memo result = repository.save(memo);
+    return Collections.singletonMap("memo", result);
+  }
+
+  // リクエストパラメータ text の内容と等しいデータを select。
+  @RequestMapping(method=RequestMethod.GET)
+  public Map<String, Iterable<Memo>> read(@RequestParam String text) {
+    Iterable<Memo> result = repository.findByText(text);
+    return Collections.singletonMap("memos", result);
+  }
+}
 ```
 
 
 ## 手順4. 起動
-次のコマンドでアプリを起動します。
+事前に PostgreSQL を起動してから、次のコマンドでアプリを起動します。
 
 ```txt
-gssb-rdb > gradle bootRun
+gssb-rdb > mvn spring-boot:run
 ```
 
 
 ## 手順5. 確認
 ### 手順5.1. メモの作成
-次のコマンドで、メモを１つ作成してみます（コントローラの create メソッド実行）。
+curl を使って、メモを１つ作成してみます（コントローラの create メソッド実行）。
 
 `実行コマンド（※ JSON 内のエスケープ文字「\」は Windows で必要）`
 
@@ -195,4 +195,3 @@ curl http://localhost:8080/jpa/memos?text=Data
 ## ソースコード
 [gssb-rdb - GitHub](https://github.com/mamorum/blog/tree/master/code/gssb-rdb)  
 ※ プロジェクト名の gssb は、Getting Started Spring Boot の略です。
-

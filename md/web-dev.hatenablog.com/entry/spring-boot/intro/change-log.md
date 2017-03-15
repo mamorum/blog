@@ -2,7 +2,7 @@
 Title: SpringBoot入門：更新履歴
 Category:
 - Spring Boot 入門
-Date: 2017-02-26T00:00:00+09:00
+Date: 2017-03-15T00:00:00+09:00
 URL: http://web-dev.hatenablog.com/entry/spring-boot/intro/change-log
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687221322871
 ---
@@ -15,6 +15,13 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10
     - ビルドシステムを Gradle から Maven に変更
     - SpringBoot を 1.3.5 から 1.5.1 にバージョンアップ
     - 記事の改善
+- 2017.06.10：新規作成
+
+## 2. RDB関連
+- 2017.03.15：変更
+    - ビルドシステムを Gradle から Maven に変更
+    - SpringBoot を 1.3.5 から 1.5.1 にバージョンアップ
+    - PostgreSQL を 9.4 から 9.6 にバージョンアップ
 - 2017.06.10：新規作成
 
 ## 3. NoSQL関連

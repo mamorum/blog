@@ -2,7 +2,7 @@
 Title: SpringBoot入門：FlywayでDBマイグレーション
 Category:
 - Spring Boot 入門
-Date: 2016-06-05T17:17:00+09:00
+Date: 2017-03-09T17:17:00+09:00
 URL: http://web-dev.hatenablog.com/entry/spring-boot/intro/flyway
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179106994
 ---
@@ -16,63 +16,65 @@ SpringBoot のアプリで Flyway を使うと、起動時にマイグレーシ�
 
 ## 環境・ツール
 - JDK 1.8 以上
-- Gradle 2.3 以上
-- PostgreSQL（執筆時 9.4）
+- Maven 3.0 以上（or Gradle 等）
+- PostgreSQL（執筆時 9.6）
 
 
 ## 手順1. ビルドファイルの作成
-Gradle のビルドファイルを作成します。アプリのルートディレクトリは `gssb-rdb` としています。
+Maven のビルドファイルを作成します。アプリのルートディレクトリは `gssb-rdb` としています。
 
-`gssb-rdb/build.gradle`
+`gssb-rdb/pom.xml`
 
-```gradle
-buildscript {
-    repositories {
-        mavenCentral()
-    }
-    dependencies {
-        classpath('org.springframework.boot:spring-boot-gradle-plugin:1.3.5.RELEASE')
-    }
-}
+```
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
 
-apply plugin: 'java'
-apply plugin: 'eclipse'
-apply plugin: 'idea'
-apply plugin: 'spring-boot'
-compileJava.options.encoding = 'UTF-8'
+  <groupId>com.github.mamorum</groupId>
+  <artifactId>gssb-rdb</artifactId>
+  <version>1.0.0</version>
 
-sourceCompatibility = 1.8
-targetCompatibility = 1.8
+  <parent>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-parent</artifactId>
+    <version>1.5.1.RELEASE</version>
+  </parent>
 
-jar {
-    baseName = 'gssb-rdb'
-    version = '0.0.1'
-}
+  <dependencies>
+    <dependency>
+      <groupId>org.springframework.boot</groupId>
+      <artifactId>spring-boot-starter-web</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>org.springframework.boot</groupId>
+      <artifactId>spring-boot-starter-data-jpa</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>org.flywaydb</groupId>
+      <artifactId>flyway-core</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>org.postgresql</groupId>
+      <artifactId>postgresql</artifactId>
+    </dependency>
+  </dependencies>
 
-configurations {
-    provided
-}
-sourceSets {
-    main.compileClasspath += configurations.provided
-    test.compileClasspath += configurations.provided
-}
-eclipse.classpath {
-    plusConfigurations += [configurations.provided]
-}
+  <properties>
+    <java.version>1.8</java.version>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
 
-repositories {
-    mavenCentral()
-}
-dependencies {
-    provided 'org.projectlombok:lombok:1.16.6'
-    compile 'org.springframework.boot:spring-boot-starter-web'
-    compile 'org.springframework.boot:spring-boot-starter-data-jpa'
-    compile 'org.flywaydb:flyway-core'
-    compile 'org.postgresql:postgresql'
-}
+  <build>
+    <plugins>
+      <plugin>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-maven-plugin</artifactId>
+      </plugin>
+    </plugins>
+  </build>
+</project>
 ```
 
-依存性に `postgresql（ドライバ）`, `flyway-core` を定義しています。`lombok`, `spring-boot-starter-web`, `spring-boot-starter-data-jpa` も、追加しています（関連記事で使用するため）。
+依存性に `postgresql（ドライバ）`, `flyway-core` を定義しています。あとは、関連記事で使う `spring-boot-starter-web`, `spring-boot-starter-data-jpa` も追加しています。
 
 
 ## 手順2. SQLファイルの作成
@@ -82,17 +84,17 @@ dependencies {
 
 ```sql
 create table memo (
-	id serial primary key,
-	text varchar(255) not null,
-	version integer not null default 0,
-	updated_time timestamp not null default current_timestamp,
-	created_time timestamp not null default current_timestamp
+  id serial primary key,
+  text varchar(255) not null,
+  version integer not null default 0,
+  updated_time timestamp not null default current_timestamp,
+  created_time timestamp not null default current_timestamp
 );
 ```
 
 ファイルの命名規約は次の通りです。
 
-```txt
+```
 V<Version>__<NAME>.sql
 ```
 
@@ -130,18 +132,18 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class App {
-	public static void main(String[] args) {
-		SpringApplication.run(App.class);
-	}
+  public static void main(String[] args) {
+    SpringApplication.run(App.class);
+  }
 }
 ```
 
 
 ## 手順5. 起動
-次のコマンドでアプリを起動します。（事前に PostgreSQL をローカルで起動している想定です。）
+事前に PostgreSQL を起動してから、次のコマンドでアプリを起動します。
 
-```txt
-gssb-rdb > gradle bootRun
+```
+gssb-rdb > mvn spring-boot:run
 
 ・・・Started Application in 4.525 seconds (JVM running for 5.188)
 ```

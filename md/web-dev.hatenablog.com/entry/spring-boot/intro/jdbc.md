@@ -2,7 +2,7 @@
 Title: SpringBoot入門：JDBCでデータアクセス
 Category:
 - Spring Boot 入門
-Date: 2016-06-09T17:00:00+09:00
+Date: 2017-03-10T17:00:00+09:00
 URL: http://web-dev.hatenablog.com/entry/spring-boot/intro/jdbc
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179107417
 ---
@@ -21,7 +21,6 @@ SpringBoot の Webアプリで、JDBC 機能を使う方法を書いていきま
 
 ```java
 package gssb.rdb.controller;
-package gssb.rdb.controller;
 
 import java.util.Collections;
 import java.util.Map;
@@ -34,41 +33,43 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import lombok.AllArgsConstructor;
-
 @RestController
 @RequestMapping(path="/jdbc/memos")
 public class JdbcMemoController {
 
-	@Autowired JdbcTemplate jdbc;
-	
-	// リクエストパラメータ text を insert。
-	@RequestMapping(method=RequestMethod.POST)
-	public Map<String, Long> create(@RequestParam String text) {
-		Long id = jdbc.queryForObject(
-			"insert into memo (text) values (?) returning id",
-			new Object[] {text},
-			(rs, num) -> rs.getLong("id")
-		);
-		return Collections.singletonMap("id", id);
-	}
-	
-	// リクエストＵＲＬ末尾のＩＤと等しいデータを select。
-	@RequestMapping(path="/{id}", method=RequestMethod.GET)
-	public Map<String, Memo> read(@PathVariable Long id) {
-		Memo memo = jdbc.queryForObject(
-			"select id, text from memo where id = ?",
-			new Object[] {id},
-			(rs, num) -> new Memo(rs.getLong("id"), rs.getString("text"))
-		);
-		return Collections.singletonMap("memo", memo);
-	}
-	
-	@AllArgsConstructor
-	public static class Memo {
-		public Long id;
-		public String name;
-	}
+  @Autowired JdbcTemplate jdbc;
+
+  // リクエストパラメータ text を insert。
+  @RequestMapping(method=RequestMethod.POST)
+  public Map<String, Long> create(@RequestParam String text) {
+    Long id = jdbc.queryForObject(
+      "insert into memo (text) values (?) returning id",
+      new Object[] {text},
+      (rs, num) -> rs.getLong("id")
+    );
+    return Collections.singletonMap("id", id);
+  }
+
+  // リクエストＵＲＬ末尾のＩＤと等しいデータを select。
+  @RequestMapping(path="/{id}", method=RequestMethod.GET)
+  public Map<String, Memo> read(@PathVariable Long id) {
+    Memo memo = jdbc.queryForObject(
+      "select id, text from memo where id = ?",
+      new Object[] {id},
+      (rs, num) -> new Memo(rs.getLong("id"), rs.getString("text"))
+    );
+    return Collections.singletonMap("memo", memo);
+  }
+
+  // JDBC で操作するエンティティ。
+  public static class Memo {
+    public Long id;
+    public String name;
+    public Memo(Long id, String name) {
+      this.id = id;
+      this.name = name;
+    }
+  }
 }
 ```
 
@@ -76,44 +77,44 @@ public class JdbcMemoController {
 
 
 ## 手順2. 起動
-次のコマンドでアプリを起動します。
+事前に PostgreSQL を起動してから、次のコマンドでアプリを起動します。
 
 ```txt
-gssb-rdb > gradle bootRun
+gssb-rdb > mvn spring-boot:run
 ```
 
 
 ## 手順3. 確認
-### 手順3.1. メモの作成
+### 手順3.1. メモの作成（insert）
 次のコマンドで、メモを１つ作成してみます。
 
 `実行コマンド`
 
-```txt
+```
 curl http://localhost:8080/jdbc/memos -X POST -d "text=Test"
 ```
 
 `実行結果`
 
-```json
+```
 {"id":1}
 ```
 
 ID=1 のメモが作成されました。
 
 
-### 手順3.2. メモの検索
+### 手順3.2. メモの検索（select）
 作成したメモを検索してみます。
 
 `実行コマンド`
 
-```txt
+```
 curl http://localhost:8080/jdbc/memos/1
 ```
 
 `実行結果`
 
-```json
+```
 {"memo":{"id":1,"name":"Test"}}
 ```
 
