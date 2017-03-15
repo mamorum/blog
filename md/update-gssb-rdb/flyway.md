@@ -12,8 +12,8 @@ SpringBoot のアプリで Flyway を使うと、起動時にマイグレーシ�
 
 ## 環境・ツール
 - JDK 1.8 以上
-- Gradle 2.3 以上
 - Maven 3.0 以上（or Gradle 等）
+- PostgreSQL（執筆時 9.6）
 
 
 ## 手順1. ビルドファイルの作成
