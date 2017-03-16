@@ -2,12 +2,12 @@
 Title: Maven：エンコーディング設定
 Category:
 - Maven
-Date: 2016-09-19T21:18:08+09:00
+Date: 2017-03-16T09:25:08+09:00
 URL: http://web-dev.hatenablog.com/entry/maven/encoding-setting
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687185213865
 ---
 
-Maven の pom.xml で、Java コードやリソースのエンコーディングを設定したいときがあります。設定方法はいくつかありますが、良さそうな設定方法を調査してみました。
+Maven の pom.xml で、ソースやレポート出力のエンコーディングを設定したいときがあります。設定方法はいくつかありますが、良さそうな設定方法を調査してみました。
 
 
 ## 設定方法
@@ -16,6 +16,7 @@ Maven の pom.xml で、Java コードやリソースのエンコーディング
 ```txt
 <properties>
   <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 </properties>
 ```
 
@@ -25,15 +26,16 @@ Maven の pom.xml で、Java コードやリソースのエンコーディング
 
 ```txt
 <plugin>
-  ...
+  <groupId>org.apache.maven.plugins</groupId>
+  <artifactId>maven-resources-plugin</artifactId>
+  <version>3.0.2</version>
   <configuration>
     <encoding>UTF-8</encoding>
   </configuration>
-  ...
 </plugin>
 ```
 
-maven-resources-plugin や maven-compiler-plugin は、プロパティのエンコーディング設定を参照するみたいです。
+`maven-resources-plugin`, `maven-compiler-plugin` などのプラグインは、プロパティのエンコーディング設定を参照するみたいです。
 
 
 ## 補足
@@ -49,6 +51,5 @@ maven-resources-plugin や maven-compiler-plugin は、プロパティのエン�
 
 
 ## 参考文献
-[Specifying a character encoding scheme - Maven Resources Plugin](https://maven.apache.org/plugins/maven-resources-plugin/examples/encoding.html)
-
-[Optional Parameters - Maven Compiler Plugin](https://maven.apache.org/plugins/maven-compiler-plugin/compile-mojo.html)
+- [Specifying a character encoding scheme - Maven Resources Plugin](https://maven.apache.org/plugins/maven-resources-plugin/examples/encoding.html)
+- [Optional Parameters - Maven Compiler Plugin](https://maven.apache.org/plugins/maven-compiler-plugin/compile-mojo.html)
