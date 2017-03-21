@@ -41,6 +41,7 @@ Oracle が配布していた古いバージョンは、次のページからダ�
 
 
 ## 参考文献
+- [クライアント・テクノロジ - Java SE 8](https://docs.oracle.com/javase/jp/8/javase-clienttechnologies.htm)
 - [Bye Bye JavaFX Scene Builder, Welcome Gluon Scene Builder 8.0.0 - DZone Java](https://dzone.com/articles/bye-bye-javafx-scene-builder)
 - [Scene Builder 8.3.0 Out Now - Gluon](http://gluonhq.com/scene-builder-8-3-0-now/)
 - [[JavaFX][NetBeans]JavaFX Scene Builderのバイナリ入手先 - Hatena Diary](http://d.hatena.ne.jp/torutk/20150313/p1)
