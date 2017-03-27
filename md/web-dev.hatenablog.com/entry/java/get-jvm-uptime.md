@@ -13,7 +13,7 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10
 ## Javaコード
 ```
 long uptime =
-  ManagementFactory.getRuntimeMXBean().getUptime()
+  ManagementFactory.getRuntimeMXBean().getUptime();
 ```
 
 ## 補足
