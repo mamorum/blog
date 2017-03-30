@@ -2,23 +2,30 @@
 Title: Java：どのテンプレートエンジンを使うか？
 Category:
 - Java
-Date: 2016-08-05T08:24:00+09:00
+Date: 2017-03-30T08:24:00+09:00
 URL: http://web-dev.hatenablog.com/entry/java/select-template-engine
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179116435
 ---
 
-Java の Web アプリ開発で、どのテンプレートエンジンを使うか考えてみました。あくまで私個人の考えなので、広い心で見て頂けると嬉しいです。
+Web アプリ開発（サーバサイド Java）で、どのテンプレートエンジンを使うか考えてみました。あくまで私個人の考えなので、広い心で見て頂けると嬉しいです。
 
-
-## 結論
-最近だと「Java のテンプレートエンジンは、HTML のレンダリングで極力使わないようにしよう。」と考えるようになりました。
-
-タイトルの回答になってなくてすみません。
+## 現時点（2017.03.30）
+今は、[jmustache](https://github.com/samskivert/jmustache) （[Mustache](http://mustache.github.io/) の Java実装）を使いたいと思っています。
 
 
 ## 理由
+### 1. シンプル
+Mustache はシンプルで、すぐ使うことができます。テンプレートエンジン特有のカスタムタグとかはなく、HTML 以外の学習コストはかからないと思います。
+
+### 2. JavaScript実装もある
+JavaScript だと [mustache.js](https://github.com/janl/mustache.js/) が使えます。サーバサイドとクライアントサイドを Mustache に統一できるのは嬉しいです。
+
+最近の傾向からすると、クライアント側でもテンプレートを使うことが多いと思います。サーバサイドの役割も変わってきて、HTML を返すだけではなくなってきました。
+
+
+## 最近の傾向
 ### 1. Webフロントエンドの進化
-HTML5, CSS3, altJS, JavaScript/CSS フレームワーク, DOM操作, Ajax, 等々、昔とは状況が変わってきました。画面遷移の回数が少ない SPA（Single Page Application）なども登場してきましたた。
+HTML5, CSS3, altJS, JavaScript/CSS フレームワーク, DOM操作, Ajax, 等々、昔とは状況が変わってきました。画面遷移の回数が少ない SPA（Single Page Application）なども登場してきました。
 
 ### 2. サーバサイドの役割変化
 REST や RESTful API が広まり、画面（HTML）ではなくデータ（JSONなど）を返すことが求められている気がします。
@@ -26,28 +33,23 @@ REST や RESTful API が広まり、画面（HTML）ではなくデータ（JSON
 ### 3. クライアントの多様化
 ブラウザ以外のアプリ（デスクトップアプリ、スマホアプリ、等）も、Web アプリ（Web サービス）に接続してきます。こういったアプリにも、データを返すことになると思います。
 
-## Java フレームワークの傾向
-Spring Boot, Play Framework, Dropwizard なども、JSON をサポートしています。いくつかのドキュメントを見ると、画面遷移よりも JSON を返すサンプルが先に書かれています。
+
+## 補足1. Mustache 関連記事
+以下の記事では、mustache.js を使っています。
+
+- [JS：mustache.js 入門](/entry/js/mustache/quick-start)
+- [SpringBoot アプリ開発](/entry/spring-boot/dev-web-app/table-of-contents)
 
 
-## 代替案
-画面（HTML）周りは、Java のテンプレートエンジンを使う代わりに、フロントエンドの技術を使うことが多くなると思います。
+## 補足2. Spring Boot について
+Spring Boot は、現時点だと以下のテンプレートエンジンをサポートしているようでした。
 
-当ブログの [SpringBoot アプリ開発](/entry/spring-boot/dev-web-app/table-of-contents) でも、mustache.js（JavaScript のテンプレートエンジン）を使って、Web アプリを作ったりしています。
+- FreeMarker
+- Groovy
+- Thymeleaf
+- Mustache
 
+詳細は、[Template engines - Spring Boot Reference](http://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#boot-features-spring-mvc-template-engines) に書かれています。
 
-## 例外
-サーバサイドのテキスト生成（メールの文面）などで、Java のテンプレートエンジンを使うと便利だったりします。FreeMarker や Velocity などは、テキストのレンダリングにも対応しています。
-
-
-## Spring Boot を使う場合
-### 1. JSP は避けたほうが無難
-[SpringBoot のドキュメント](http://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#boot-features-spring-mvc-template-engines) に、できれば JSP は避けたほうが良いと書かれています。
-
-### 2. CSRF トークンの取得
-テンプレートエンジンを使って取ることになりそうです。自分も FreeMarker で書いたことがあります（次の２行）。
-
-```txt
-<meta name="_csrf" content="${_csrf.token}"/>
-<meta name="_csrf_header" content="${_csrf.headerName}"/>
-```
+JSP は避けたほうが良いと書かれていました。
+組み込みのサーブレットコンテナ等で制限があるみたいです。
