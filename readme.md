@@ -3,7 +3,6 @@
 
 1. [http://java-poml.blogspot.com/](http://java-poml.blogspot.com/)
 2. [http://web-dev.hatenablog.com/](http://web-dev.hatenablog.com/)
-3. [http://mamorum.hatenablog.jp/](http://mamorum.hatenablog.jp/)
 
 
 ## 資源の場所
@@ -13,10 +12,6 @@
 ### 2. http://web-dev.hatenablog.com/
 - Markdown -> md ディレクトリ
 - Code -> code ディレクトリ
-- Image -> はてなフォトライフ
-
-### 3. http://mamorum.hatenablog.jp/
-- Markdown -> md ディレクトリ
 - Image -> はてなフォトライフ
 
 
