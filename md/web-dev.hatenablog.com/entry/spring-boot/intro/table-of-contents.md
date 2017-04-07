@@ -2,7 +2,7 @@
 Title: SpringBoot入門：目次
 Category:
 - Spring Boot 入門
-Date: 2017-02-22T11:30:00+09:00
+Date: 2017-04-07T14:50:00+09:00
 URL: http://web-dev.hatenablog.com/entry/spring-boot/intro/table-of-contents
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179112311
 ---
@@ -13,11 +13,16 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10
 
 ## 1. Web関連
 - [JSONを返す](/entry/spring-boot/intro/response-json)
-- [静的コンテンツを返す](/entry/spring-boot/intro/response-static-content)
-- [jQueryでJSONを受信](/entry/spring-boot/intro/jquery-ajax-json)
-- [ファイルアップロード](/entry/spring-boot/intro/file-upload)
-- [外部のサービスに接続](/entry/spring-boot/intro/ex-service)
-- [サービスクラスを使う](/entry/spring-boot/intro/service-class)
+- 静的コンテンツ
+  - [静的コンテンツを返す](/entry/spring-boot/intro/response-static-content)
+  - [jQueryでJSONを受信](/entry/spring-boot/intro/jquery-ajax-json)
+- テンプレートエンジン
+  - [Mustacheを使う](/entry/spring-boot/intro/mustache-template)
+- その他
+  - [ファイルアップロード](/entry/spring-boot/intro/file-upload)
+  - [外部のサービスに接続](/entry/spring-boot/intro/ex-service)
+  - [サービスクラスを使う](/entry/spring-boot/intro/service-class)
+
 
 ## 2. RDB関連
 - [FlywayでDBマイグレーション](/entry/spring-boot/intro/flyway)
