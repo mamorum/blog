@@ -1,14 +1,24 @@
-Java の Webアプリケーションフレームワーク「[Spark Framework](http://sparkjava.com/)」を使って、Hello World を返す方法を書いてみます。
+---
+Title: Spark FW：HelloWorldを返す
+Category:
+- Spark FW
+Date: 2017-04-11T13:40:39+09:00
+URL: http://web-dev.hatenablog.com/entry/spark-fw/intro/hello-world
+EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687236217788
+---
 
-Spark Framework は、軽量・ラムダでシンプルに書ける・[Express](http://expressjs.com/)（Node.js の Webアプリケーションフレームワーク）のように書ける・等々といった特徴があります。
+最近、Java の [Spark Framework](http://sparkjava.com/)（Webアプリケーションフレームワーク）を少しだけ使ってみました。
 
+Spark Framework の特徴としては、軽量・ラムダで書ける・[Express](http://expressjs.com/)（Node.js の Webアプリケーションフレームワーク）のように書ける・等々です。
+
+これから、Spark で Hello World を返す方法を書いてみます。
 
 ## 手順1. ビルドファイルの作成
 プロジェクトのディレクトリ（例. `sprkgs`）の下に `pom.xml` を作成します。
 
 `sprkgs/pom.xml`
 
-```xml
+```
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
@@ -66,9 +76,7 @@ sprkgs > mvn exec:java -Dexec.mainClass=sprkgs.Main
 ```
 
 ## 手順4. 確認
-ブラウザで `http://localhost:4567/hello` にアクセスすると `Hello World` が表示されます。
-
-レスポンスヘッダのコンテントタイプは、`Content-Type:text/html;charset=utf-8` でした。
+ブラウザで `http://localhost:4567/hello` にアクセスすると `Hello World` が表示されます。レスポンスのコンテントタイプは `text/html` でした。
 
 
 ## 参考文献
@@ -76,3 +84,4 @@ sprkgs > mvn exec:java -Dexec.mainClass=sprkgs.Main
 
 
 ## コード
+[sprkgs - GitHub](https://github.com/mamorum/blog/tree/master/code/sprkgs)
