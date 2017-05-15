@@ -2,7 +2,7 @@
 Title: SpringBoot：MessageSource を使う
 Category:
 - Spring Boot 入門
-Date: 2015-06-11T18:06:00+09:00
+Date: 2017-05-11T18:06:00+09:00
 URL: http://web-dev.hatenablog.com/entry/spring-boot/intro/message-source
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179613894
 ---
@@ -29,7 +29,9 @@ spring.messages.encoding=UTF-8
 key=こんにちは。
 ```
 
-`messages_ja.properties` も、クラスパス直下に作成します。Gradle や Maven を使っている場合は、`src/main/resources` に用意すれば大丈夫です。あと、日本語の場合は、`native2ascii` をする必要があります。
+`messages_ja.properties` も、クラスパス直下に作成します。Gradle や Maven を使っている場合は、`src/main/resources` に用意すれば大丈夫です。
+
+あと、プロパティファイルは native2ascii しなくて大丈夫みたいです（Java SE 6 から。詳細は [こちら](http://d.hatena.ne.jp/shin/20090707/p4)。）。
 
 
 ## 手順3. Java でメッセージを取得
