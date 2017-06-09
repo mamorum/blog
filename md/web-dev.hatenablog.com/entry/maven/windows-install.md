@@ -1,17 +1,21 @@
 ---
-Title: Maven：Windowsにインストール
+Title: Maven：Win7にインストール
 Category:
 - Maven
-Date: 2016-04-01T17:00:00+09:00
+Date: 2017-06-09T17:00:00+09:00
 URL: http://web-dev.hatenablog.com/entry/maven/windows-install
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178896795
 ---
 
-Maven を Windows にインストールする手順を書いていきます。手順は、[JDK をインストール](/entry/java/jdk/windows-install) して、[環境変数を設定](/entry/java/jdk/windows-variables) していることが前提となります。
+Maven を Windows7 64bit にインストールする手順を書いていきます。
+
+
+## 前提
+[JDK をインストール](/entry/java/jdk/windows-install) して、[環境変数を設定](/entry/java/jdk/windows-variables) していることが前提となります。
 
 
 ## 手順1. ダウンロード
-[Maven のダウンロードページ](https://maven.apache.org/download.cgi) から、安定版（執筆時は 3.3.3）の「Binary Zip archive（apache-maven-3.3.3-bin.zip）」をダウンロードします。
+[Maven のダウンロードページ](https://maven.apache.org/download.cgi) から、安定版の「Binary Zip archive」をダウンロードします。記事作成日（2016.04.01）の安定版は 3.3.3 で、ファイル名は `apache-maven-3.3.3-bin.zip` でした。
 
 
 ## 手順2. 解凍

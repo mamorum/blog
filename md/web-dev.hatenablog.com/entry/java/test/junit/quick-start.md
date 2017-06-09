@@ -1,17 +1,17 @@
 ---
-Title: 単体テスト：JUnit 入門
+Title: Javaテスト：JUnitで単体テスト
 Category:
-- Java テスト
+- Java
 Date: 2016-04-22T17:00:00+09:00
 URL: http://web-dev.hatenablog.com/entry/java/test/junit/quick-start
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179058059
 ---
 
-Java の単体テストで、JUnit を使う方法を書いていきます。JUnit は、単体テストを実行するためのフレームワークです。
+JUnit で Java の単体テストをする方法を書いていきます。JUnit は、単体テストを実行するためのフレームワークです。
 
 
 ## 手順1. テストクラスの作成
-単体テストは、Java のプログラムとして書いていきます。プログラムなので、繰り返し自動でテストすることが容易です。
+JUnit を使って、単体テストをプログラムとして書いていきます。プログラムなので、繰り返し自動でテストすることが容易です。
 
 `gsjt/src/test/java/gsjt/JunitTest.java`
 

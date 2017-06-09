@@ -1,7 +1,7 @@
 ---
-Title: 単体テスト：AssertJ 入門
+Title: Javaテスト：AssertJでアサーション
 Category:
-- Java テスト
+- Java
 Date: 2016-04-22T17:10:00+09:00
 URL: http://web-dev.hatenablog.com/entry/java/test/assertj/quick-start
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179058458

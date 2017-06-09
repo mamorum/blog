@@ -31,3 +31,7 @@ Oracle の [ダウンロードページ](http://www.oracle.com/technetwork/java/
 [f:id:mamorums:20170608120948p:plain]
 
 JRE は JDK（開発ツール）に含まれているので、パブリックJRE はインストールしないことにしてます。
+
+
+## 関連記事
+[JDK8：Win10の環境変数設定](/entry/java/jdk/8/windows10-env-variables)（JDKを使うための設定）
