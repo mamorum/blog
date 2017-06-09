@@ -1,13 +1,13 @@
 ---
-Title: JDK：Windowsにインストール
+Title: JDK8：Win7にインストール
 Category:
-- JDK
-Date: 2016-02-02T12:37:00+09:00
+- Java
+Date: 2017-06-08T12:37:00+09:00
 URL: http://web-dev.hatenablog.com/entry/java/jdk/windows-install
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178825401
 ---
 
-JDK の バージョン 8u71 を Windows 64bit にインストールする手順を書いています。バージョンが多少違っていても、同じ方法でインストールできると思います。
+JDK8（バージョン 8u71）を、Windows7 64bit にインストールする手順を書いています。
 
 
 ## 手順1. インストーラのダウンロード
@@ -36,6 +36,8 @@ Oracle の [JDK ダウンロードページ](http://www.oracle.com/technetwork/j
 
 ![install-folder](http://cdn-ak.f.st-hatena.com/images/fotolife/m/mamorums/20160812/20160812223133.png)
 
+※ 画像の「パブリックJRE」をインストールしないようにすると、JREのコピー（次の画面・手順）を回避できそうです。
+
 
 ### 2. JREのコピー
 
@@ -44,3 +46,7 @@ Oracle の [JDK ダウンロードページ](http://www.oracle.com/technetwork/j
 ![jre-copy-folder](http://cdn-ak.f.st-hatena.com/images/fotolife/m/mamorums/20160812/20160812223134.png)
 
 JDK に JRE が入っているので、これは不要だったりします。
+
+
+## 関連文書
+[JDK8：Win7の環境変数設定](/entry/java/jdk/windows-variables)（JDKを使うための設定）

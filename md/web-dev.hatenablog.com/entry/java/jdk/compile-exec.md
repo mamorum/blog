@@ -1,7 +1,7 @@
 ---
 Title: JDK：コンパイルと実行
 Category:
-- JDK
+- Java
 Date: 2016-01-26T14:00:00+09:00
 URL: http://web-dev.hatenablog.com/entry/java/jdk/compile-exec
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178883877

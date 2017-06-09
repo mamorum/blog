@@ -1,16 +1,17 @@
 ---
-Title: JDK：CentOSにインストール
+Title: JDK8：CentOSにインストール
 Category:
-- JDK
-Date: 2016-03-28T14:13:00+09:00
+- Java
+- Linux
+Date: 2017-06-09T14:13:00+09:00
 URL: http://web-dev.hatenablog.com/entry/java/jdk/centos-install
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178823348
 ---
 
-Oracle JDK を CentOS にインストールする手順を書いていきます。
+JDK8（Oracle の 8u77） を、CentOS にインストールする手順を書いていきます。
 
-今回の手順は、JDK がインストールされていない CentOS を使って書きました。既に OpenJDK などがインストールされている場合、
-事前にアンインストールしたほうが良いかもしれません。
+## 前提
+今回の手順は、JDK がインストールされていない CentOS を使って書きました。既に OpenJDK などがインストールされている場合、事前にアンインストールしたほうが良いかもしれません。
 
 
 ## 手順1. rpm をダウンロード
@@ -20,7 +21,7 @@ wget コマンドで、JDK の rpm を取得します。
 $ wget --no-check-certificate --no-cookies - --header "Cookie: oraclelicense=accept-securebackup-cookie" http://download.oracle.com/otn-pub/java/jdk/8u77-b03/jdk-8u77-linux-x64.rpm
 ```
 
-JDK のバージョンは 8u77 でした。最新版をインストールする場合は、[Oracle のダウンロードページ](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) で URL を確認できます。
+最新版の JDK をインストールする場合は、コマンドの URL を変更します。URL は [Oracle のダウンロードページ](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) で確認できます。
 
 
 ## 手順2. インストール
