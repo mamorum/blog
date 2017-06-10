@@ -1,2 +1,2 @@
-bin\blogsync pull web-dev.hatenablog.com
+blogsync.exe pull web-dev.hatenablog.com
 pause
