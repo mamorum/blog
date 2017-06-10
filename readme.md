@@ -5,17 +5,7 @@
 2. [http://web-dev.hatenablog.com/](http://web-dev.hatenablog.com/)
 
 
-## 資源の場所
-### 1. http://java-poml.blogspot.com/
-- Markdown -> md ディレクトリ
+## はてなブログとの同期
+はてなブログに投稿した記事（Markdown）は、`sync.bat` で取得（同期）しています。
 
-### 2. http://web-dev.hatenablog.com/
-- Markdown -> md ディレクトリ
-- Code -> code ディレクトリ
-- Image -> はてなフォトライフ
-
-
-## はてなブログの Markdown について
-はてなに投稿した Markdown を、`sync-md.bat` で取得しています。
-
-`sync-md.bat` は、記事「[blogsync ではてなブログのエントリをローカルと同期する](http://motemen.hatenablog.com/entry/2014/12/22/blogsync)」のツール `bin/blogsync.exe` を利用しています。
+`sync.bat` は、記事「[blogsync ではてなブログのエントリをローカルと同期する](http://motemen.hatenablog.com/entry/2014/12/22/blogsync)」のツール `blogsync.exe` を利用しています。
