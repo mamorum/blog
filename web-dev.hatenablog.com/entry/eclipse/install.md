@@ -1,13 +1,20 @@
 ---
-Title: Eclipse：インストール手順
+Title: Eclipse：Win7にインストール
 Category:
 - Eclipse
-Date: 2016-02-01T18:48:00+09:00
+Date: 2017-06-11T18:48:00+09:00
 URL: http://web-dev.hatenablog.com/entry/eclipse/install
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179017803
 ---
 
-Eclipse IDE for Java Developers の バージョン Mars (4.5.1) をインストールする手順を書いています。バージョンが多少違っていても、同じ手順でインストールできると思います。
+Eclipse IDE for Java Developers の バージョン Mars (4.5.1) を、Windows7 にインストールする手順を書いていきます。Eclipse のバージョンが多少違っていても、同じ手順でインストールできると思います。
+
+## 前提
+JDK がインストールされていることが前提となります。JDK のインストール方法は、以下の記事を参照して頂けると嬉しいです。
+
+- [JDK8：Win7にインストール](/entry/java/jdk/windows-install)
+- [JDK8：Win7の環境変数設定](/entry/java/jdk/windows-variables)
+
 
 ## 手順１. ZIPのダウンロード
 [Eclipse のページ](https://eclipse.org/downloads/) を開いて、対象のパッケージを表示します。

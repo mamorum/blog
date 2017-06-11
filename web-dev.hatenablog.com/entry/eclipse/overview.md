@@ -2,12 +2,12 @@
 Title: Eclipse：概要
 Category:
 - Eclipse
-Date: 2016-02-01T10:34:00+09:00
+Date: 2017-06-11T10:34:00+09:00
 URL: http://web-dev.hatenablog.com/entry/eclipse/overview
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179018365
 ---
 
-Eclipse の概要や、Eclipse の使用前に知っておきたいことを書いています。
+Eclipse の概要や、Eclipse の使用前に知っておきたいことを書いていきます。
 
 
 ## 1. Eclipse は IDE
@@ -20,21 +20,19 @@ Eclipse は、IDE（統合開発環境）と呼ばれるプロダクトです。
 Eclipse の画面から、プログラムを実行したり、デバッグすることもできます。画像内のコンソールには、プログラムの実行結果が表示されています。
 
 
+## 2. JDK が必要
+Eclipse を利用するには、コンピュータに JDK がインストールされている必要があります。JDK の記事は、以下のリンク先にまとめているので、必要に応じて参照して頂けると嬉しいです。
 
-## 2. Eclipse には JDK が必要
-Eclipse を利用するには、コンピュータに JDK がインストールされている必要があります。JDK をインストールする場合は、次の記事を参照して頂けると嬉しいです。
-
-- [JDK：Windowsにインストール](/entry/java/jdk/windows-install)
-- [JDK：Windowsの環境変数設定](/entry/java/jdk/windows-variables)
+[JDK：記事の一覧](/entry/java/jdk/table-of-contents)
 
 
-## 3. Eclipse のパッケージは多い
-Eclipse には、開発目的に応じたパッケージ（種類）がたくさんあります。[Eclipse のページ](https://eclipse.org/downloads/) を開くと、どれをダウンロードするか迷ったりもします。
+## 3. パッケージが多い
+Eclipse には、開発目的に応じたパッケージがたくさんあります。[Eclipse のページ](https://eclipse.org/downloads/eclipse-packages/) を開くと、どれをダウンロードするか迷ったりもします。
 
 ![page-eclipse-downlad](http://cdn-ak.f.st-hatena.com/images/fotolife/m/mamorums/20160814/20160814085926.png)
 
 
-## 4. Eclipse の Java開発パッケージ
+## 4. Java開発パッケージ
 Java 開発の場合は、次のパッケージを選択することが多いです。
 
 - Eclipse IDE for Java EE Developers
