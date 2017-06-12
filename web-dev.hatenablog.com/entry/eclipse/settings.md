@@ -12,18 +12,6 @@ Eclipse を使いやすくする設定をいくつか書いていきます。興
 今回の設定は、Eclipse メニューの「ウインドウ（Window）→ プリファレンス（Preferences）」を開いて行います。
 
 
-## エンコーディング
-最近は UTF-8 に設定することが多そうです。Windows 7 だと MS932 がデフォルトでした。
-
-![encoding](http://cdn-ak.f.st-hatena.com/images/fotolife/m/mamorums/20160814/20160814092755.png)
-
-
-## メモリ使用状況の表示
-画面下に、Eclipse のヒープ使用状況が表示されます。
-
-![heap-status](http://cdn-ak.f.st-hatena.com/images/fotolife/m/mamorums/20160814/20160814092756.png)
-
-
 ## エディタの行数表示
 行数は最初から表示されてた気もします。
 
