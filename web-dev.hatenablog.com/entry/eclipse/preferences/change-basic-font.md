@@ -1,3 +1,12 @@
+---
+Title: Eclipse：エディタのフォント変更
+Category:
+- Eclipse
+Date: 2017-06-06T09:00:00+09:00
+URL: http://web-dev.hatenablog.com/entry/eclipse/preferences/change-basic-font
+EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/13355765958055338245
+---
+
 Eclipse のエディタのフォントを変更する方法を書いていきます。
 
 事前に、メニューバーの ウィンドウ（Window）から、プリファレンス（Preferences）を開いておきます。

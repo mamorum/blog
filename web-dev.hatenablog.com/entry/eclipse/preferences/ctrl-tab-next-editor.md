@@ -1,3 +1,12 @@
+---
+Title: Eclipse：Ctrl+Tabでエディタ切替え
+Category:
+- Eclipse
+Date: 2017-06-13T08:10:08+09:00
+URL: http://web-dev.hatenablog.com/entry/eclipse/preferences/ctrl-tab-next-editor
+EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/13355765958055336828
+---
+
 `Ctrl + Tab` で、Eclipse のエディタを切替える方法を書いていきます。
 
 設定前に、プリファレンス（Preferences）を開いておきます。プリファレンスは、メニューバーの ウィンドウ（Window）から開くことができます。
