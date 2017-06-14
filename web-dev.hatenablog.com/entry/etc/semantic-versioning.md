@@ -3,7 +3,7 @@ Title: バージョン番号の振り方（GitHub推奨）
 Category:
 - etc
 Date: 2017-05-15T14:31:41+09:00
-URL: http://web-dev.hatenablog.com/entry/etc/semantic-_versioning
+URL: http://web-dev.hatenablog.com/entry/etc/semantic-versioning
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687246536763
 ---
 
