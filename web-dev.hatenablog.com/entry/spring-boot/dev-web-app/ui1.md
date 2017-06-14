@@ -1,13 +1,13 @@
 ---
-Title: SpringBoot アプリ開発：5. ＵＩ（HTML, mustache）
+Title: SpringBoot アプリ開発：6.ＵＩ（HTML, mustache）
 Category:
-- Spring Boot アプリ開発
+- SpringBoot
 Date: 2016-06-23T22:30:00+09:00
 URL: http://web-dev.hatenablog.com/entry/spring-boot/dev-web-app/ui1
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179183836
 ---
 
-つぶやきアプリ（[こちら](/entry/spring-boot/dev-web-app/table-of-contents) のアプリ）の ＵＩを作成していきます。HTML ファイルは１つで、その中にマークアップと mustache のテンプレートを書いていきます。
+つぶやきアプリ（[こちら](/entry/spring-boot/dev-web-app/overview) のアプリ）の ＵＩを作成していきます。HTML ファイルは１つで、その中にマークアップと mustache のテンプレートを書いていきます。
 
 
 ## HTML の作成

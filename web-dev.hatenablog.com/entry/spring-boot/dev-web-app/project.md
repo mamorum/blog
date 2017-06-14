@@ -1,13 +1,13 @@
 ---
-Title: SpringBoot アプリ開発：2. プロジェクト作成
+Title: SpringBoot アプリ開発：3.プロジェクト作成
 Category:
-- Spring Boot アプリ開発
+- SpringBoot
 Date: 2016-06-23T22:10:00+09:00
 URL: http://web-dev.hatenablog.com/entry/spring-boot/dev-web-app/project
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179183467
 ---
 
-つぶやきアプリ（[こちら](/entry/spring-boot/dev-web-app/table-of-contents) のアプリ）の ディレクトリ構成や、ビルドファイル・設定ファイルを作成していきます。
+つぶやきアプリ（[こちら](/entry/spring-boot/dev-web-app/overview) のアプリ）の ディレクトリ構成や、ビルドファイル・設定ファイルを作成していきます。
 
 
 ## ディレクトリ構成

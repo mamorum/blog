@@ -1,13 +1,13 @@
 ---
-Title: SpringBoot：アプリの起動・停止スクリプト
+Title: SpringBoot：アプリの起動・停止シェルスクリプト
 Category:
-- Spring Boot
+- SpringBoot
 Date: 2016-12-19T14:15:07+09:00
 URL: http://web-dev.hatenablog.com/entry/spring-boot/start-stop-script-chkconfig
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687199812058
 ---
 
-以前、Spring Boot のアプリを CentOS のサービスとして起動・停止するスクリプトを作成したことがありました。これからその内容を書いていこうと思います。
+以前、Spring Boot のアプリを CentOS のサービスとして起動・停止するシェル（スクリプト）を作成したことがありました。これからその内容を書いていこうと思います。
 
 
 ## 補足

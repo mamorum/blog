@@ -1,7 +1,7 @@
 ---
 Title: SpringBoot：Remember-Me 認証を使う
 Category:
-- Spring Boot
+- SpringBoot
 Date: 2015-04-25T23:00:00+09:00
 URL: http://web-dev.hatenablog.com/entry/spring-boot/security/remember-me
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179332433

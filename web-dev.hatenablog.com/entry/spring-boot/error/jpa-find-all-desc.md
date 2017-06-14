@@ -1,7 +1,7 @@
 ---
 Title: SpringBoot：findAllOrderBy…Desc のエラー対応
 Category:
-- Spring Boot
+- SpringBoot
 Date: 2016-07-30T20:55:00+09:00
 URL: http://web-dev.hatenablog.com/entry/spring-boot/error/jpa-find-all-desc
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178787646

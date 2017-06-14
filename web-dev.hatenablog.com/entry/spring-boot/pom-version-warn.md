@@ -1,7 +1,7 @@
 ---
 Title: SpringBoot：pom.xml の version で警告
 Category:
-- Spring Boot
+- SpringBoot
 Date: 2016-07-12T12:40:00+09:00
 URL: http://web-dev.hatenablog.com/entry/spring-boot/pom-version-warn
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178793234

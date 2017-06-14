@@ -1,7 +1,7 @@
 ---
 Title: SpringBoot：MavenでJavaバージョンを指定
 Category:
-- Spring Boot
+- SpringBoot
 - Maven
 Date: 2017-03-16T13:48:34+09:00
 URL: http://web-dev.hatenablog.com/entry/spring-boot/maven-java-version

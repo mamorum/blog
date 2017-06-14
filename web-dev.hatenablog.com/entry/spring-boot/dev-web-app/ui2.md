@@ -1,13 +1,13 @@
 ---
-Title: SpringBoot アプリ開発：6. ＵＩ（CSS, JavaScript）
+Title: SpringBoot アプリ開発：7.ＵＩ（CSS, JavaScript）
 Category:
-- Spring Boot アプリ開発
+- SpringBoot
 Date: 2016-06-24T19:00:00+09:00
 URL: http://web-dev.hatenablog.com/entry/spring-boot/dev-web-app/ui2
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179185878
 ---
 
-つぶやきアプリ（[こちら](/entry/spring-boot/dev-web-app/table-of-contents) のアプリ）の ＵＩを作成していきます。今回は、CSS と JavaScript を１つずつ作成します。
+つぶやきアプリ（[こちら](/entry/spring-boot/dev-web-app/overview) のアプリ）の ＵＩを作成していきます。今回は、CSS と JavaScript を１つずつ作成します。
 
 
 ## CSS の作成

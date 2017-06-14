@@ -1,13 +1,13 @@
 ---
-Title: SpringBoot アプリ開発：3. Java（モデル・リポジトリ）
+Title: SpringBoot アプリ開発：4.Java（モデル・リポジトリ）
 Category:
-- Spring Boot アプリ開発
+- SpringBoot
 Date: 2016-06-23T22:20:00+09:00
 URL: http://web-dev.hatenablog.com/entry/spring-boot/dev-web-app/java1
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179182407
 ---
 
-つぶやきアプリ（[こちら](/entry/spring-boot/dev-web-app/table-of-contents) のアプリ）の モデルやリポジトリを、Java で作成していきます。また、事前にテーブル作成用の SQL を用意しておきます。
+つぶやきアプリ（[こちら](/entry/spring-boot/dev-web-app/overview) のアプリ）の モデルやリポジトリを、Java で作成していきます。また、事前にテーブル作成用の SQL を用意しておきます。
 
 
 ## SQLファイルの作成

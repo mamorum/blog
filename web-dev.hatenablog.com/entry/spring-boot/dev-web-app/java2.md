@@ -1,13 +1,13 @@
 ---
-Title: SpringBoot アプリ開発：4. Java（コントローラ）
+Title: SpringBoot アプリ開発：5.Java（コントローラ）
 Category:
-- Spring Boot アプリ開発
+- SpringBoot
 Date: 2016-06-23T22:25:00+09:00
 URL: http://web-dev.hatenablog.com/entry/spring-boot/dev-web-app/java2
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179183195
 ---
 
-つぶやきアプリ（[こちら](/entry/spring-boot/dev-web-app/table-of-contents) のアプリ）の コントローラを、Java で作成していきます。コントローラは、リクエストに対応する処理を実行して、処理結果（≒レスポンス）を返却するクラスです。
+つぶやきアプリ（[こちら](/entry/spring-boot/dev-web-app/overview) のアプリ）の コントローラを、Java で作成していきます。コントローラは、リクエストに対応する処理を実行して、処理結果（≒レスポンス）を返却するクラスです。
 
 
 ## コントローラの作成
