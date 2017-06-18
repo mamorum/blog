@@ -10,13 +10,13 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/85
 この記事には、Spring Boot の記事のリンクをまとめています。
 
 
-## 入門記事
+## 入門
 基本的な使い方（Web層, DBアクセス, 等々）を書いています。
 
 [SpringBoot 入門：目次](/entry/spring-boot/intro/table-of-contents)
 
 
-## アプリ開発記事
+## アプリ開発
 Webアプリをつくる方法を書いています。
 
 [SpringBoot アプリ開発：目次](/entry/spring-boot/dev-web-app/table-of-contents)
