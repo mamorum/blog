@@ -1,7 +1,7 @@
 ---
 Title: SpringBoot入門：JSONを返す
 Category:
-- Spring Boot 入門
+- SpringBoot
 Date: 2017-02-15T16:10:00+09:00
 URL: http://web-dev.hatenablog.com/entry/spring-boot/intro/response-json
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179105567

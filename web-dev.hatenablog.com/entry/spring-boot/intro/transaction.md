@@ -1,7 +1,7 @@
 ---
 Title: SpringBoot入門：トランザクションの管理
 Category:
-- Spring Boot 入門
+- SpringBoot
 Date: 2017-03-12T18:00:00+09:00
 URL: http://web-dev.hatenablog.com/entry/spring-boot/intro/transaction
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179110066

@@ -1,7 +1,7 @@
 ---
 Title: SpringBoot入門：バリデーションをする
 Category:
-- Spring Boot 入門
+- SpringBoot
 Date: 2016-07-25T16:40:00+09:00
 URL: http://web-dev.hatenablog.com/entry/spring-boot/validation/quick-start
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179545113

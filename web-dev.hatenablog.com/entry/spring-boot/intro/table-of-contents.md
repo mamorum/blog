@@ -1,7 +1,7 @@
 ---
 Title: SpringBoot入門：目次
 Category:
-- Spring Boot 入門
+- SpringBoot
 Date: 2017-04-07T14:50:00+09:00
 URL: http://web-dev.hatenablog.com/entry/spring-boot/intro/table-of-contents
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179112311
@@ -13,16 +13,13 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10
 
 ## 1. Web関連
 - [JSONを返す](/entry/spring-boot/intro/response-json)
-- 静的コンテンツ
-  - [静的コンテンツを返す](/entry/spring-boot/intro/response-static-content)
-  - [jQueryでJSONを受信](/entry/spring-boot/intro/jquery-ajax-json)
-- テンプレートエンジン
-  - [Mustacheを使う](/entry/spring-boot/intro/mustache-template)
-- その他
-  - [ファイルアップロード](/entry/spring-boot/intro/file-upload)
-  - [外部のサービスに接続](/entry/spring-boot/intro/ex-service)
-  - [サービスクラスを使う](/entry/spring-boot/intro/service-class)
-
+- [静的コンテンツを返す](/entry/spring-boot/intro/response-static-content)
+- [jQueryでJSONを受信](/entry/spring-boot/intro/jquery-ajax-json)
+- [バリデーションをする](/entry/spring-boot/validation/quick-start)
+- [Mustacheを使う](/entry/spring-boot/intro/mustache-template)
+- [ファイルアップロード](/entry/spring-boot/intro/file-upload)
+- [サービスクラスを使う](/entry/spring-boot/intro/service-class)
+- [MessageSource を使う](/entry/spring-boot/intro/message-source)
 
 ## 2. RDB関連
 - [FlywayでDBマイグレーション](/entry/spring-boot/intro/flyway)
@@ -31,17 +28,10 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10
 - [トランザクションの管理](/entry/spring-boot/intro/transaction)
 - [mockitoで単体テスト](/entry/spring-boot/intro/mockito)
 
-## 3. NoSQL関連
-- [MongoDBにアクセス](/entry/spring-boot/intro/mongodb)
-
-## 4. その他
+## 3. その他
 - [アプリのjar作成](/entry/spring-boot/intro/create-jar)
 - [タスクのスケジューリング](/entry/spring-boot/intro/scheduling-task)
 - [アプリの管理やモニタリング](/entry/spring-boot/intro/monitoring-app)
-
-
-## 更新履歴
-[更新履歴](/entry/spring-boot/intro/change-log)
 
 ## 参考文献
 [Getting Started Guides - Spring](http://spring.io/guides)  

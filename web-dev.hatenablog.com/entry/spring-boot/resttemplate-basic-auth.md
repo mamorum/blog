@@ -1,5 +1,5 @@
 ---
-Title: SpringBoot：Basic認証のサービスに接続
+Title: SpringBoot：Basic認証の外部サービスに接続
 Category:
 - SpringBoot
 Date: 2016-07-12T15:41:00+09:00

@@ -1,7 +1,7 @@
 ---
 Title: SpringBoot入門：FlywayでDBマイグレーション
 Category:
-- Spring Boot 入門
+- SpringBoot
 Date: 2017-03-09T17:17:00+09:00
 URL: http://web-dev.hatenablog.com/entry/spring-boot/intro/flyway
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179106994

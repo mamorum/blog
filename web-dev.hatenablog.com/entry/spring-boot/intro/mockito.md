@@ -1,7 +1,7 @@
 ---
 Title: SpringBoot入門：mockitoで単体テスト
 Category:
-- Spring Boot 入門
+- SpringBoot
 Date: 2017-03-14T16:00:00+09:00
 URL: http://web-dev.hatenablog.com/entry/spring-boot/intro/mockito
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179107954
