@@ -2,14 +2,14 @@
 Title: Eclipse：lombokインストール手順
 Category:
 - Eclipse
-Date: 2016-02-07T13:05:00+09:00
+Date: 2017-06-19T00:30:00+09:00
 URL: http://web-dev.hatenablog.com/entry/eclipse/lombok
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179020064
 ---
 
-Eclipse は、lombok をインストールしないと、lombok に関連するエラーが発生します。
+Eclipse は、lombok をインストールしないと、lombok に関連するエラーが発生します。下の画像はその例で、lombok が生成しているはずの setter がないと言われています。
 
-![eclipse-error-lombok-not-installed](http://cdn-ak.f.st-hatena.com/images/fotolife/m/mamorums/20160814/20160814092026.png)
+[f:id:mamorums:20170619152021p:plain]
 
 これから、Eclipse に lombok をインストールする手順を書いていきます。
 
@@ -41,8 +41,7 @@ lombok.jar をダブルクリックして、インストール画面を起動し
 ## 手順4. Eclipse 再起動
 Eclipse を再起動して、lombok 関連のエラーが出なくなれば成功です。エラーが消えない場合は、プロジェクトの再ビルド（クリーンなど）すると良さそうです。
 
-![eclipse-lombok-installed](http://cdn-ak.f.st-hatena.com/images/fotolife/m/mamorums/20160814/20160814092029.png)
-
+[f:id:mamorums:20170619152054p:plain]
 
 ## 補足. eclipse.ini の設定
 インストールが完了すると、eclipse.ini に `-javaagent:lombok.jar` が自動的に追加されています。エラーが消えない場合や、違うパラメータで起動している場合は、こちらの設定を確認してみると良さそうです。
