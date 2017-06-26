@@ -1,5 +1,5 @@
 ---
-Title: Maven：Java のバージョン設定
+Title: Maven：コンパイラのバージョン設定
 Category:
 - Maven
 Date: 2017-03-16T13:20:31+09:00
@@ -7,7 +7,7 @@ URL: http://web-dev.hatenablog.com/entry/maven/java-version-setting
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687227480771
 ---
 
-Maven の pom.xml で、Java のバージョンを設定する方法を書いていきます。
+Maven の pom.xml で、コンパイラのバージョン（javac の -source と -target）を設定する方法を書いていきます。
 
 
 ## 設定方法
