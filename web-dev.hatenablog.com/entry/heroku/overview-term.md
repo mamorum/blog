@@ -1,7 +1,7 @@
 ---
 Title: Heroku の概要と用語
 Category:
-- Heroku
+- 環境
 Date: 2015-05-27T08:30:00+09:00
 URL: http://web-dev.hatenablog.com/entry/heroku/overview-term
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179197753

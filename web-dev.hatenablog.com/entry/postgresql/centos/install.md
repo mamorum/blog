@@ -1,7 +1,7 @@
 ---
 Title: PostgreSQL：CentOSにインストール
 Category:
-- PostgreSQL
+- 環境
 Date: 2016-03-23T12:10:00+09:00
 URL: http://web-dev.hatenablog.com/entry/postgresql/centos/install
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178926175

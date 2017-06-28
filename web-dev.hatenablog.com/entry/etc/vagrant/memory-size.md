@@ -1,7 +1,7 @@
 ---
 Title: Vagrant：仮想マシンのメモリサイズ設定
 Category:
-- etc
+- 環境
 Date: 2016-04-04T14:52:00+09:00
 URL: http://web-dev.hatenablog.com/entry/etc/vagrant/memory-size
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178930175

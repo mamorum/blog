@@ -25,6 +25,8 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/85
 ## 入門
 - [1.プロジェクトの作成と実行](/entry/maven/intro/create-prj-and-exec)
 - [2.エンコーディングとコンパイラの設定](/entry/maven/intro/encoding-and-javac-version)
+- [3.Eclipseにインポート](/entry/maven/intro/import-prj-to-eclipse)
+- [4.依存性の追加](/entry/maven/intro/add-dependency)
 
 ## Tips
 ### エンコーディング

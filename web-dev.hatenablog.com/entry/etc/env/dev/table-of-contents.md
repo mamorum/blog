@@ -1,7 +1,7 @@
 ---
 Title: 開発環境構築：概要・目次
 Category:
-- etc
+- 環境
 Date: 2016-05-02T14:20:00+09:00
 URL: http://web-dev.hatenablog.com/entry/etc/env/dev/table-of-contents
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179202826

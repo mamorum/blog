@@ -1,7 +1,7 @@
 ---
 Title: Ubuntu：xvfbとfirefoxのインストール
 Category:
-- Linux
+- OS
 Date: 2016-11-18T17:45:39+09:00
 URL: http://web-dev.hatenablog.com/entry/linux/ubuntu/install-firefox-xvfb
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687194917557

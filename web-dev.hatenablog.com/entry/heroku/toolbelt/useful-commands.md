@@ -1,7 +1,7 @@
 ---
 Title: Heroku Toolbelt の便利コマンド
 Category:
-- Heroku
+- 環境
 Date: 2015-08-19T01:00:00+09:00
 URL: http://web-dev.hatenablog.com/entry/heroku/toolbelt/useful-commands
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179197031

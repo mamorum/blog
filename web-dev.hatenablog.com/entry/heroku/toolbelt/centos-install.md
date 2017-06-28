@@ -1,7 +1,7 @@
 ---
 Title: HerokuToolbelt：CentOS にインストール
 Category:
-- Heroku
+- 環境
 Date: 2016-05-15T12:10:00+09:00
 URL: http://web-dev.hatenablog.com/entry/heroku/toolbelt/centos-install
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179194863

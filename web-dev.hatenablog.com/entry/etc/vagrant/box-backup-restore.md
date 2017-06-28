@@ -1,7 +1,7 @@
 ---
 Title: Vagrant：Boxのバックアップ・リストア
 Category:
-- etc
+- 環境
 Date: 2017-05-24T20:19:19+09:00
 URL: http://web-dev.hatenablog.com/entry/etc/vagrant/box-backup-restore
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687251917027

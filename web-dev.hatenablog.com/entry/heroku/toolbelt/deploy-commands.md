@@ -1,7 +1,7 @@
 ---
 Title: Heroku Toolbelt のデプロイ関連コマンド
 Category:
-- Heroku
+- 環境
 Date: 2015-08-18T13:49:00+09:00
 URL: http://web-dev.hatenablog.com/entry/heroku/toolbelt/deploy-commands
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179195263

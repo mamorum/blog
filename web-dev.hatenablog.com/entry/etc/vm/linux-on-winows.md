@@ -1,7 +1,7 @@
 ---
 Title: 仮想化環境：WindowsでLinuxを動かす
 Category:
-- etc
+- 環境
 Date: 2016-03-25T16:41:00+09:00
 URL: http://web-dev.hatenablog.com/entry/etc/vm/linux-on-winows
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179202208
