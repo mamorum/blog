@@ -2,7 +2,7 @@
 Title: Maven：記事の一覧
 Category:
 - Maven
-Date: 2017-06-26T10:31:22+09:00
+Date: 2017-07-03T10:31:22+09:00
 URL: http://web-dev.hatenablog.com/entry/maven/table-of-contents
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812274098483
 ---
@@ -27,6 +27,8 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/85
 - [2.エンコーディングとコンパイラの設定](/entry/maven/intro/encoding-and-javac-version)
 - [3.Eclipseにインポート](/entry/maven/intro/import-prj-to-eclipse)
 - [4.依存性の追加](/entry/maven/intro/add-dependency)
+- [5.フェイズについて](/entry/maven/intro/phases)
+
 
 ## Tips
 ### エンコーディング
@@ -38,10 +40,7 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/85
 - [コンパクト・プロファイルを使う](/entry/maven/plugin/compiler-compact-profile)
 
 ### パッケージング
-<!--
-- [fatjarの作成](新規作成)
--->
-
+- [fatjarの作成](/entry/maven/plugin/assembly-create-fatjar)
 - [テストしないで package する](/entry/maven/skip-tests)
 
 ### アプリ実行
