@@ -1,7 +1,7 @@
 ---
 Title: JS：CommonJS と Modules の概要
 Category:
-- JavaScript
+- JS
 Date: 2016-08-08T14:25:00+09:00
 URL: http://web-dev.hatenablog.com/entry/js/commonjs-modules
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178877880

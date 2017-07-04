@@ -1,7 +1,7 @@
 ---
 Title: gulp：less コンパイルとブラウザ更新の自動化
 Category:
-- JavaScript
+- JS
 Date: 2015-05-23T11:00:00+09:00
 URL: http://web-dev.hatenablog.com/entry/js/node/gulp/auto-compile-less-reload
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178901464

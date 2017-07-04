@@ -1,7 +1,7 @@
 ---
 Title: JS：クロスドメインとYQL
 Category:
-- JavaScript
+- JS
 Date: 2017-06-19T11:25:54+09:00
 URL: http://web-dev.hatenablog.com/entry/js/cross-domain-and-yql
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812271654568

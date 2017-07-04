@@ -1,7 +1,7 @@
 ---
 Title: JS：クロスドメインとiframe
 Category:
-- JavaScript
+- JS
 Date: 2017-06-22T14:54:09+09:00
 URL: http://web-dev.hatenablog.com/entry/js/cross-domain-and-iframe
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812272842522
