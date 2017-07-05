@@ -23,6 +23,16 @@ export PS1="\w\$ "
 - \$: コマンド入力前の記号（$ or #）
 
 
+## 設定の反映
+`source` コマンドで反映できます。
+
+```
+vagrant@vagrant-ubuntu-trusty-64:~$ source .bashrc
+```
+
+もしくは、再ログインでも反映されます。
+
+
 ## 変更前
 ```
 vagrant@vagrant-ubuntu-trusty-64:~$
