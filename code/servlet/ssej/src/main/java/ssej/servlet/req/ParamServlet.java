@@ -1,4 +1,4 @@
-package ssej.servlet;
+package ssej.servlet.req;
 
 import java.io.IOException;
 
@@ -8,16 +8,16 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-@WebServlet("/html")
+@WebServlet("/req/param")
 @SuppressWarnings("serial")
-public class HtmlServlet extends HttpServlet {
+public class ParamServlet extends HttpServlet {
   public void doGet(HttpServletRequest req, HttpServletResponse res)
     throws ServletException, IOException
   {
-    res.setContentType("text/html");
+    res.setContentType("text/plain");
     res.setCharacterEncoding("utf-8");
     res.getWriter().println(
-      "<html><body><p>Hello!</p></body></html>"
+      req.getParameter("msg")
     );
   }
 }
