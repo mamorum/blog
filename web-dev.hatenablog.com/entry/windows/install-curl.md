@@ -2,17 +2,16 @@
 Title: Windows：cURL のインストール
 Category:
 - OS
-Date: 2017-03-14T22:35:00+09:00
+Date: 2017-07-27T10:00:00+09:00
 URL: http://web-dev.hatenablog.com/entry/windows/install-curl
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179200904
 ---
 
 curl は、色んなプロトコルでデータをやりとりできるツールです。今回は、curl を Windows 7（64bit）にインストールする手順を書きます。
 
-## 補足
-Windows に GitHub Desktop などをインストールしている場合、Git Shell で curl を使うことができました（curl のインストール不要）。以下のリンクに、その方法を記載しています。
 
-[Windows：git の curl を使う](/entry/windows/git-shell-curl)
+## Win10 について（2017.07.27 追記）
+Windows 10（64bit）も、同じインストール手順で大丈夫そうでした。自分がインストールした curl のバージョンは `7.46.0` で、ファイル名は `curl-7.46.0-win64.zip` でした。
 
 
 ## 手順1. ダウンロード

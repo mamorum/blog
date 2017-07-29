@@ -9,10 +9,6 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10
 
 Remember-Me 認証は、ログイン状態を長期間保持する認証です。この認証をすると、ブラウザを閉じても認証している状態が保持されます。ユーザは、ブラウザを再起動してアクセスしても、再度認証する必要がありません。
 
-色々な Web サービスで実装されていて、例えば Google アカウントの認証でも、ログイン状態を保持することができます。
-
-![google-account-auth](http://cdn-ak.f.st-hatena.com/images/fotolife/m/mamorums/20160816/20160816123826.png)
-
 これから、Spring Boot アプリで Remember-Me 認証を使う手順を書いていきます。
 
 
