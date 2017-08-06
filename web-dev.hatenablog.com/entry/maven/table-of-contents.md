@@ -35,6 +35,7 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/85
 
 ### パッケージング
 - [fatjarの作成](/entry/maven/plugin/assembly-create-fatjar)
+- [warの作成](/entry/maven/plugin/war)
 - [テストしないで package する](/entry/maven/skip-tests)
 
 ### アプリ実行

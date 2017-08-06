@@ -1,5 +1,5 @@
 ---
-Title: Servlet：組込Jettyの起動
+Title: 組込Jetty：Servletを動かす
 Category:
 - Java
 Date: 2017-07-18T12:00:25+09:00
