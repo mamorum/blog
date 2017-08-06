@@ -40,6 +40,7 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/85
 
 ### アプリ実行
 - [Java プログラムの実行](/entry/maven/plugin/exec-java)
+- [test配下のMainクラス実行](/entry/maven/plugin/exec-java-test)
 
 ### Central Repository 関連
 - [GPGプラグインのスキップ](/entry/maven/plugin/skip-gpg-sign)
