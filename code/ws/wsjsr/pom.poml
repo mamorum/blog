@@ -1,0 +1,5 @@
+pkg=com.domain:wsjsr:1.0.0:war
+depend=
+  org.eclipse.jetty.websocket:javax-websocket-server-impl:9.4.6.v20170531
+properties=&encoding>UTF-8, &compiler>1.8
+info=description>Web Socket JSR Sample
