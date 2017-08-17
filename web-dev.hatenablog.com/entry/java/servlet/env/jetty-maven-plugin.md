@@ -1,5 +1,5 @@
 ---
-Title: Servlet：動作環境構築（Jetty Maven Plugin）
+Title: Servlet API：動作環境構築（Jetty Maven Plugin）
 Category:
 - Java
 Date: 2017-08-02T10:00:00+09:00
