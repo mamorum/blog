@@ -1,4 +1,4 @@
-package ssjp.res;
+package ssjp.servlet;
 
 import java.io.IOException;
 

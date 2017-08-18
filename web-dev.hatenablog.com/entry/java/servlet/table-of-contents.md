@@ -18,6 +18,7 @@ Servlet API に関連する記事をいくつか書いたので、そのリン�
 - [JSONを返す](/entry/java/servlet/response/json)
 
 ## Event Listener（イベント・リスナー）
+- [ServletContextListener：起動時の処理追加](/entry/java/servlet/listener/servlet-context)
 - [HttpSessionListener：実行タイミング](/entry/java/servlet/listener/session-timeout-and-destroyed)
 
 ## その他

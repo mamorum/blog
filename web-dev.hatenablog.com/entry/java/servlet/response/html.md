@@ -11,7 +11,7 @@ Java のサーブレットで、HTML を返す方法を書いてみます。
 
 
 ## 前提
-サーブレットの動作環境（コンテナ）が必要になります。環境がない場合は、下の記事などを参照して頂けると嬉しいです。
+記事内のコードを実行する場合、サーブレットの動作環境（コンテナ）が必要になります。環境がない場合は、下の記事などを参照して頂けると嬉しいです。
 
 [Servlet：動作環境構築（Jetty Maven Plugin）](/entry/java/servlet/env/jetty-maven-plugin)
 
@@ -19,10 +19,10 @@ Java のサーブレットで、HTML を返す方法を書いてみます。
 ## 手順1. サーブレットの作成
 プロジェクトのルートディレクトリ `ssjp` の下にサーブレット作成します。
 
-`ssjp/src/main/java/ssjp/res/HtmlServlet.java`
+`ssjp/src/main/java/ssjp/servlet/HtmlServlet.java`
 
 ```java
-package ssjp.res;
+package ssjp.servlet;
 
 import java.io.IOException;
 

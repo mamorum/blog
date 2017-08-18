@@ -1,4 +1,4 @@
-package ssjp.res;
+package ssjp.servlet;
 
 import java.io.IOException;
 import java.util.Collections;
@@ -20,12 +20,8 @@ public class JsonServlet extends HttpServlet {
   {
     res.setContentType("application/json");
     res.setCharacterEncoding("utf-8");
-    String name = req.getParameter("name");
-    String msg = (
-      new StringBuilder("Hello, ")
-    ).append(name).toString();
     res.getWriter().println(gson.toJson(
-      Collections.singletonMap("msg", msg)
+      Collections.singletonMap("msg", "Hello!")
     ));
   }
 }
