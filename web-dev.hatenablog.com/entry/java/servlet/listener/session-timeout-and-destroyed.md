@@ -24,6 +24,8 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/85
 以下のリスナークラスを使いました。
 
 ```java
+package ssjp.listener;
+
 import java.time.LocalDateTime;
 
 import javax.servlet.annotation.WebListener;
@@ -64,3 +66,13 @@ public class SessionListener implements HttpSessionListener {
 タイムアウト時間が経過したら、勝手にサーバが `#sessionDestroyed(HttpSessionEvent)` を実行してくれると思い込んでました。
 
 設定方法次第ではそうできるのかもしれませんが、ひとまず今回の調査はここまでにしてみました。
+
+
+## 補足：コード・環境
+今回のコードは GitHub にも置いています。
+
+[GitHub - ssjp](https://github.com/mamorum/blog/tree/master/code/servlet/ssjp)（※ Servlet Sample Jetty Plugin）
+
+コードを実行する場合、動作環境（サーブレットコンテナ）が必要になります。環境がない場合、以下の記事を参照して頂けると嬉しいです。
+
+[Servlet：動作環境構築（Jetty Maven Plugin）](/entry/java/servlet/env/jetty-maven-plugin)
