@@ -3,13 +3,15 @@ Title: BenQモニタ：信号なし青画面回避（HDMI）
 Category:
 - etc
 Date: 2017-07-04T08:56:41+09:00
-URL: http://web-dev.hatenablog.com/entry/hardware/output-device/avoid-benq-blue-screen
+URL: http://web-dev.hatenablog.com/entry/hardware/monitor/benq-avoid-blue-screen
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812276580994
 ---
 
 BenQ の液晶ディスプレイ [RL2460](http://www.benq.co.jp/product/gaminggears/rl2460/) を使っていて、HDMI の信号がなくなると明るい青画面が表示されました。
 
-ちょっと刺激が強いので、明るい青画面を回避する方法を書いていきます。
+目に対する刺激が強いので、青画面を回避する方法を書いていきます。
+
+[asin:B01M06DH0F:detail]
 
 
 ## 手順1. HDMI自動切換の設定

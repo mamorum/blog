@@ -3,7 +3,7 @@ Title: マウス・キーボード：メーカーサポート窓口
 Category:
 - etc
 Date: 2017-05-22T08:30:38+09:00
-URL: http://web-dev.hatenablog.com/entry/hardware/input-device/maker-support
+URL: http://web-dev.hatenablog.com/entry/hardware/device-maker-support
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687250916541
 ---
 
