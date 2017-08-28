@@ -2,12 +2,16 @@
 Title: YQLエラー：フィードが取得できない
 Category:
 - JS
-Date: 2017-08-26T10:20:24+09:00
+Date: 2017-08-28T10:40:24+09:00
 URL: http://web-dev.hatenablog.com/entry/js/yql-returns-no-feed
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812292069505
 ---
 
-2017年8月23日くらいから、[YQL](https://developer.yahoo.com/yql/) でフィードが取得できなくなったので事象などをまとめてみました。
+2017年8月24日くらいから、[YQL](https://developer.yahoo.com/yql/) でフィードが取得できなくなったので事象などをまとめてみました。
+
+## 追記
+### 2017.08.28 10:30頃
+以前の URL で YQL でフィードが取得できました。ただ、何度か試していると取得できなくなりました。まだ不安定なのかもしれません。
 
 
 ## 1. 事象
