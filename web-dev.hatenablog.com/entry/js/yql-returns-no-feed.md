@@ -10,6 +10,9 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/85
 2017年8月24日くらいから、[YQL](https://developer.yahoo.com/yql/) でフィードが取得できなくなったので事象などをまとめてみました。
 
 ## 追記
+### 2017.08.29 19:40頃
+28日10時半以降、全く取得できない状態が続いています。
+
 ### 2017.08.28 10:30頃
 以前の URL で YQL でフィードが取得できました。ただ、何度か試していると取得できなくなりました。まだ不安定なのかもしれません。
 
