@@ -14,6 +14,7 @@ Servlet API に関連する記事をいくつか書いたので、そのリン�
 - [動作環境構築（Jetty Maven Plugin）](/entry/java/servlet/env/jetty-maven-plugin)
 
 ## HttpServlet（サーブレット）
+- [リクエストの受信](/entry/java/servlet/request/accept)
 - [リクエストパラメーターの取得](/entry/java/servlet/request/param)
 - [HTMLを返す](/entry/java/servlet/response/html)
 - [JSONを返す](/entry/java/servlet/response/json)
