@@ -7,9 +7,9 @@ URL: http://web-dev.hatenablog.com/entry/hardware/bluetooth-device-demerit
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812293879273
 ---
 
-最近 Bluetooth の周辺機器（キーボードとイヤホン）を買ったのですが、有線のデバイスが捨てれず、最終的には有線に戻してしまいました。
+最近 Bluetooth の周辺機器（キーボードとイヤホン）を買ったのですが、USBキーボードと有線イヤホンを捨てられないことに気づいてきました。
 
-そこで、Bluetoothのデメリットをまとめてみました。
+これから、Bluetoothのデメリットをまとめていこうと思います。
 
 
 ## 1. マウス・キーボード

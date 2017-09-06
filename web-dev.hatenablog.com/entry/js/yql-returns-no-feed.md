@@ -1,20 +1,21 @@
 ---
-Title: YQLエラー：フィードが取得できない
+Title: 解決済：YQLでフィードが取得できない
 Category:
 - JS
-Date: 2017-08-28T10:40:24+09:00
+Date: 2017-09-05T09:40:24+09:00
 URL: http://web-dev.hatenablog.com/entry/js/yql-returns-no-feed
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812292069505
 ---
 
-2017年8月24日くらいから、[YQL](https://developer.yahoo.com/yql/) でフィードが取得できなくなったので事象などをまとめてみました。
+2017年の8/24～8/30頃まで、[YQL](https://developer.yahoo.com/yql/) でフィードが取得できないことがありました。この記事は、その詳細についてまとめています。
 
-## 追記
-### 2017.08.29 19:40頃
-28日10時半以降、全く取得できない状態が続いています。
 
-### 2017.08.28 10:30頃
-以前の URL で YQL でフィードが取得できました。ただ、何度か試していると取得できなくなりました。まだ不安定なのかもしれません。
+## 経過
+- 8/24頃: フィードが取得できなくなった。
+- 8/28頃: 何回か取得できたが安定しない。
+- 8/30以降: フィードが取得できるようになった。
+
+8/30くらいから、対応なしで復旧しました。フィード取得用のURL（YQL の API）は変更しなくて大丈夫そうです。
 
 
 ## 1. 事象
@@ -33,7 +34,10 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/85
 [f:id:mamorums:20170826101728p:plain]
 
 
-## 2. 対応
+## 2. エラー発生時の対応
+今回は対応なしで復旧したんですが、フィードが取得できないときに試したことを残しておきます。
+
+### 2.1. 対応
 YQL コンソールで API（URL）を再作成しました。
 
 [f:id:mamorums:20170826101747p:plain]
@@ -43,14 +47,12 @@ YQL コンソールで API（URL）を再作成しました。
 [https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20rss%20where%20url%3D%22https%3A%2F%2Fnews.yahoo.co.jp%2Fpickup%2Frss.xml%22](https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20rss%20where%20url%3D%22https%3A%2F%2Fnews.yahoo.co.jp%2Fpickup%2Frss.xml%22)
 
 
-## 3. 結果
+### 2.2. 結果
 新しい API（URL）でも、フィードは取得できませんでした。エラー内容は以下の通りす。
 
 [f:id:mamorums:20170826101805p:plain]
 
-エラーではないんですが、中身が空っぽみたいです。YQL コンソールだと取得できた感じだったのに。
-
-何か回避方法があると良いのですが・・・。
+エラーではないんですが、中身が空っぽみたいです。YQL コンソールの結果と異なるようです。
 
 
 ## 関連記事
