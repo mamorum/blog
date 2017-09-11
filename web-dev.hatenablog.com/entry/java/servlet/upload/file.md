@@ -1,4 +1,11 @@
-java/servlet/upload/file
+---
+Title: Servlet：ファイルアップロード
+Category:
+- Java
+Date: 2017-09-07T08:04:53+09:00
+URL: http://web-dev.hatenablog.com/entry/java/servlet/upload/file
+EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812295702900
+---
 
 Servlet API（バージョン 3.1）のファイルアップロードを使って、サーバー上にファイルを保存する方法を書いていきます。
 
@@ -96,9 +103,9 @@ public class FileUploadServlet extends HttpServlet {
 </html>
 ```
 
-画面項目のID（`name="id"`）は、いつものように `req.getParameter("id")`（サーバサイド）で取得でるみたいです。ファイルは `Part` クラスを使います。
+画面項目のID（`name="id"`）は、いつものように `req.getParameter("id")`（サーバサイド）で取得できるみたいです。ファイルは `Part` クラスを使います。
 
-※ サンプルなので、画面内容や項目が微妙なのは勘弁してくだせぇ。
+※ サンプルなので、画面内容や項目が微妙なのは勘弁してください。
 
 
 ## 手順3. 確認
@@ -120,7 +127,7 @@ ssjp> mvn jetty:run
 ## 補足
 ファイルを一時ファイルとして保存したい場合は、`@MultipartConfig(location=...)` と `Part#write(...)` を使うと良いかと思います。
 
-あと、サンプルだとエラーやセキュリティ面などは考慮していないです。
+あと、今回のコードはサンプルなので、エラーやセキュリティ面などは考慮していないです。
 
 
 ## 参考文献
