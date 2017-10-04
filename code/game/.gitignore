@@ -1,3 +1,6 @@
+# Processing
+**/build-tmp/
+
 # maven, eclipse
 **/target/
 **/.settings/
