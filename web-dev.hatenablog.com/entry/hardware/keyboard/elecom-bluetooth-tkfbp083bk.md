@@ -1,5 +1,5 @@
 ---
-Title: Bluetoothキーボード：TK-FBP083BK
+Title: Elecom TK-FBP083BK：Bluetoothキーボード
 Category:
 - etc
 Date: 2017-08-27T10:23:57+09:00

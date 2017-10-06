@@ -45,7 +45,6 @@ Webアプリをつくる方法を書いています。
 ### 認証・セキュリティ
 - [View のロール判定](/entry/spring-boot/security/role-judgment-in-view)
 - [ロール名と認可の設定](/entry/spring-boot/security/role-name)
-- [Remember-Me 認証を使う](/entry/spring-boot/security/remember-me)
 
 ### その他
 - [アプリの起動・停止シェルスクリプト](/entry/spring-boot/start-stop-script-chkconfig)

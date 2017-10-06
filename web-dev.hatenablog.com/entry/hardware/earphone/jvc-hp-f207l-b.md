@@ -1,5 +1,5 @@
 ---
-Title: イヤホン：JVC HP-F207L-B
+Title: JVC HP-F207L-B：有線オープン型イヤホン
 Category:
 - etc
 Date: 2017-08-30T08:45:34+09:00

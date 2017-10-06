@@ -1,5 +1,5 @@
 ---
-Title: イヤホン：TaoTronics TT-BH07
+Title: TaoTronics TT-BH07：Bluetoothイヤホン
 Category:
 - etc
 Date: 2017-08-25T09:24:00+09:00

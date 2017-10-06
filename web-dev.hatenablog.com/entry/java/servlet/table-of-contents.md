@@ -18,6 +18,7 @@ Servlet API のバージョン 3.1 に関連する記事をいくつか書いた
 - [リクエストパラメーターの取得](/entry/java/servlet/request/param)
 - [HTMLを返す](/entry/java/servlet/response/html)
 - [JSONを返す](/entry/java/servlet/response/json)
+- [セッションを使う](/entry/java/servlet/session/attribute-set-get)
 - [ファイルアップロード](/entry/java/servlet/upload/file)
 
 ## Filter（フィルター）

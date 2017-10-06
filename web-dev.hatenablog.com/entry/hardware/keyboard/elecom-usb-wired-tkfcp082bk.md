@@ -1,5 +1,5 @@
 ---
-Title: USB有線キーボード：TK-FCP080BK
+Title: Elecom TK-FCP082BK：USB有線キーボード
 Category:
 - etc
 Date: 2017-08-29T08:31:35+09:00
@@ -7,9 +7,9 @@ URL: http://web-dev.hatenablog.com/entry/hardware/keyboard/elecom-usb-wired-tkfc
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812292995193
 ---
 
-Elecom の USBキーボード「TK-FCP080BK」を購入して使ってみた感想などを書いていきます。
+Elecom の USBキーボード「TK-FCP082BK」を購入して使ってみた感想などを書いていきます。
 
-[asin:B00S7HX61S:detail]
+[asin:B00S7HX618:detail]
 
 
 ## 1. 購入理由
