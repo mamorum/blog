@@ -1,5 +1,9 @@
 package ejs;
 
+import java.util.EnumSet;
+
+import javax.servlet.DispatcherType;
+
 import org.eclipse.jetty.server.Server;
 import org.eclipse.jetty.servlet.ServletContextHandler;
 
@@ -12,6 +16,9 @@ public class AppServer {
     svr.setHandler(ctx);
     ctx.setContextPath("/");
     ctx.addServlet(HelloServlet.class, "/hello");
+    ctx.addFilter(
+      LogFilter.class, "/*", EnumSet.of(DispatcherType.REQUEST)
+    );
     svr.start();
     svr.join();
   }
