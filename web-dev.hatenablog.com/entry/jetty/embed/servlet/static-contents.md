@@ -1,5 +1,5 @@
 ---
-Title: 組込Jetty：静的コンテンツを返す
+Title: 組込Jetty：Servletで静的コンテンツを返す
 Category:
 - Java
 Date: 2017-10-10T15:35:42+09:00
