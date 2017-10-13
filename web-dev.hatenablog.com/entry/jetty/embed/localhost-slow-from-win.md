@@ -1,5 +1,5 @@
 ---
-Title: Jetty：localhostだと遅い
+Title: Jetty：ホスト名がlocalhostだと遅い
 Category:
 - Java
 Date: 2017-07-25T20:33:46+09:00

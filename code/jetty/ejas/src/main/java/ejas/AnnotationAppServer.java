@@ -1,4 +1,4 @@
-package ssej;
+package ejas;
 
 import org.eclipse.jetty.annotations.AnnotationConfiguration;
 import org.eclipse.jetty.plus.webapp.EnvConfiguration;
@@ -11,10 +11,11 @@ import org.eclipse.jetty.webapp.WebAppContext;
 import org.eclipse.jetty.webapp.WebInfConfiguration;
 import org.eclipse.jetty.webapp.WebXmlConfiguration;
 
-public class Main {
+public class AnnotationAppServer {
   public static void main(String[] args) throws Exception {
     Server svr = new Server(8080);
     WebAppContext ctx = new WebAppContext();
+    //-> アノテーション設定を有効にする
     ctx.setConfigurations(new Configuration[] {
       new AnnotationConfiguration(),
       new WebXmlConfiguration(),
@@ -24,9 +25,9 @@ public class Main {
       new PlusConfiguration()
     });
     ctx.setContextPath("/");
-    // ↓ssej のコードをアプリのクラスパスに追加
+    //-> プロジェクトのコードをコンテナのクラスパスに追加
     ctx.setExtraClasspath("./");
-    // ↓静的コンテンツはクラスパスの public 配下に置く
+    //-> 静的コンテンツはクラスパスの public 配下に置く
     ctx.setBaseResource(
       Resource.newClassPathResource("/public")
     );

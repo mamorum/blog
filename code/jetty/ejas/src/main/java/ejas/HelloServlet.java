@@ -1,4 +1,4 @@
-package ssej.servlet;
+package ejas;
 
 import java.io.IOException;
 
@@ -8,14 +8,14 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-@WebServlet("/text")
+@WebServlet("/hello")
 @SuppressWarnings("serial")
-public class TextServlet extends HttpServlet {
+public class HelloServlet extends HttpServlet {
   public void doGet(HttpServletRequest req, HttpServletResponse res)
     throws ServletException, IOException
   {
     res.setContentType("text/plain");
     res.setCharacterEncoding("utf-8");
-    res.getWriter().println("Hello World.");
+    res.getWriter().println("Hello!");
   }
 }

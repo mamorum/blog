@@ -1,5 +1,0 @@
-pkg=com.domain:ssej:1.0.0:jar
-depend=
-  org.eclipse.jetty:jetty-annotations:9.4.6.v20170531,
-  com.google.code.gson:gson:2.8.1
-properties=&encoding>UTF-8, &compiler>1.8

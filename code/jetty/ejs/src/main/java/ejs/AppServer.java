@@ -15,6 +15,7 @@ public class AppServer {
     );
     svr.setHandler(ctx);
     ctx.setContextPath("/");
+    ctx.getSessionHandler().setMaxInactiveInterval(1800);
     ctx.addServlet(HelloServlet.class, "/hello");
     ctx.addFilter(
       LogFilter.class, "/*", EnumSet.of(DispatcherType.REQUEST)
