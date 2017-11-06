@@ -13,7 +13,7 @@ PostgreSQL のインストールや設定に関する記事（リンク）を、
 ## Windows 向け
 - [Windowsにインストール](/entry/postgresql/windows/install)
 - [WindowsでユーザとDBを作成](/entry/postgresql/windows/create-user-db)
-
+- [WindowsでSQL実行（psql）](/entry/postgresql/windows/exec-sql-using-psql)
 
 ## CentOS 向け
 - [CentOSにインストール](/entry/postgresql/centos/install)

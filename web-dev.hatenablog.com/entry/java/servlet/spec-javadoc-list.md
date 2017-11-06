@@ -1,5 +1,5 @@
 ---
-Title: Servlet API：資料（仕様書・Javadoc等）
+Title: Servlet API：資料一覧（仕様書・Javadoc等）
 Category:
 - Java
 Date: 2017-08-12T11:32:58+09:00

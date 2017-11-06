@@ -9,9 +9,8 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/85
 
 Servlet API のバージョン 3.1 に関連する記事をいくつか書いたので、そのリンクをまとめてみました。
 
-## 資料・環境
-- [仕様書・Javadoc等](/entry/java/servlet/spec-javadoc-list)
-- [動作環境構築（Jetty Maven Plugin）](/entry/java/servlet/env/jetty-maven-plugin)
+## 参考資料
+- [資料一覧（仕様書・Javadoc等）](/entry/java/servlet/spec-javadoc-list)
 
 ## HttpServlet（サーブレット）
 - [リクエストの受信](/entry/java/servlet/request/accept)
