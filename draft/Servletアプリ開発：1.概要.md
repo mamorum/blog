@@ -25,3 +25,14 @@ APIの処理が正常終了したら、HTTPステータス200を返します。�
 
 ## データについて
 現時点ではDBなどにメモを永続化せず、メモリでメモを保持するようにしています。Servlet のことを中心に書いていこうと思って、DBアクセス等は省略しています。
+
+
+## 環境について
+開発環境としては、JDK8・Maven がインストールされていることが前提となります。
+
+- [JDK のインストール方法など](/entry/java/jdk/table-of-contents)
+- [Maven のインストール方法など](/entry/maven/table-of-contents)
+
+あと、Eclipse などの IDE をインストールしておくと便利だったりします。
+
+- [Eclipse のインストール方法など](/entry/eclipse/table-of-contents)
