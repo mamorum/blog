@@ -1,12 +1,17 @@
 ## Servlet アプリ開発
-
-[Servletアプリ開発：目次](/entry/java/servlet/dev-restful-app/table-of-contents)
-
-[Servletアプリ開発：1.概要](/entry/java/servlet/dev-restful-app/overview)
-[Servletアプリ開発：2.プロジェクト作成](/entry/java/servlet/dev-restful-app/create-project)
+### 要作成
 [Servletアプリ開発：3.Java開発１（モデル・リポジトリ）](/entry/java/servlet/dev-restful-app/java1)
 [Servletアプリ開発：4.Java開発２（RESTful API）](/entry/java/servlet/dev-restful-app/java2)
 [Servletアプリ開発：5.動作確認](/entry/java/servlet/dev-restful-app/check)
+
+
+[Servletアプリ開発：1.概要](/entry/java/servlet/dev-restful-app/overview)
+[Servletアプリ開発：2.プロジェクト作成](/entry/java/servlet/dev-restful-app/create-project)
+->TODO記事確認。予約投稿済み。
+
+
+[Servletアプリ開発：目次](/entry/java/servlet/dev-restful-app/table-of-contents)
+-> 未作成。記事がある程度準備できたら投稿する。
 
 
 - アプリ
