@@ -1,3 +1,12 @@
+---
+Title: Servletアプリ開発：2.プロジェクト作成
+Category:
+- Java
+Date: 2017-11-09T07:00:00+09:00
+URL: http://web-dev.hatenablog.com/entry/java/servlet/dev-restful-app/create-project
+EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812315254264
+---
+
 サーブレットアプリ（RESTful API）を開発するために、プロジェクトのディレクトリ構成やビルドファイルを作成していきます。
 
 ※ アプリの概要は、以下のリンク先に書いてあります。
@@ -15,7 +24,7 @@ servlet-rest
           └─java
 ```
 
-`src/main/java` にプロダクトコードを置いてきます。
+`src/main/java` に、サーブレットなどのプロダクトコードを置いてきます。
 
 
 ## ビルドファイルの作成
@@ -73,13 +82,13 @@ servlet-rest
 XML のタグ要素ごとに、詳細を書いていきます。
 
 ### packaging
-サーブレットアプリで、コンテナにも配備できるように packaging を war にしています。
+サーブレットアプリなので、Servletコンテナにも配備できるように packaging を war にしています。
 
 ### dependencies
 `javax.servlet-api` を `provided` にして、アプリの war に梱包されないようにしています。`gson` は JSON のレスポンスを返したりするときに使います。
 
 ### plugins
-今回は web.xml を使わないので、`maven-war-plugin` を `3.1.0` にしてます。古いバージョンだと web.xml がないとビルドでエラーになったりします。
+今回は web.xml を使わないので、`maven-war-plugin` を `3.1.0` にしてます。warプラグインのバージョンが古いと、web.xml がなくてビルドエラーになったりします。
 
 `jetty-maven-plugin` を使うと、`mvn jetty:run` でコンテナ（Jetty）が起動してサーブレットアプリを実行することができます。動作確認で使うため定義しています。
 

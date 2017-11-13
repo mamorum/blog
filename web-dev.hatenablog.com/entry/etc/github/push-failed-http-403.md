@@ -1,7 +1,7 @@
 ---
 Title: GitHub：push で 403 エラー
 Category:
-- etc
+- Git
 Date: 2016-10-02T13:06:50+09:00
 URL: http://web-dev.hatenablog.com/entry/etc/github/push-failed-http-403
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687187383744

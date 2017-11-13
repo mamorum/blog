@@ -1,5 +1,5 @@
 ---
-Title: Servlet API 3.1：記事の一覧
+Title: Servlet API：記事の一覧
 Category:
 - Java
 Date: 2017-08-03T22:00:00+09:00

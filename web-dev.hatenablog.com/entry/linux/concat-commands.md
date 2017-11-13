@@ -1,5 +1,5 @@
 ---
-Title: Linux：コマンドの連結
+Title: Linux：コマンドの連結（&& や ||）
 Category:
 - OS
 Date: 2016-03-30T17:00:00+09:00
