@@ -140,7 +140,7 @@ try節（`try (Cooection con = ....`）は、 `Connection` を使い終わった
 
 
 ### 手順4.2. 動作確認クラスの実行
-事前に PostgreSQL を起動して、データベースとユーザを作成しておきます。作成方法は記事「[JDBC：DB環境の準備](/entry/java/jdbc/postgresql/db-env)」に書いていますので、必要に応じて参照して頂けると嬉しいです。 
+事前に PostgreSQL を起動して、データベースとユーザを作成しておきます。作成方法は記事「[DB環境の準備](/entry/java/db-access/postgresql/db-env)」に書いていますので、必要に応じて参照して頂けると嬉しいです。 
 
 それから上の `ConnectMain` クラスを実行すると、以下のように表示されます。
 

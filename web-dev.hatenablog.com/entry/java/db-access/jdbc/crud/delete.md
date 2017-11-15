@@ -13,8 +13,8 @@ JDBC を使って、Java からデータベースに対して DELETE文を実行
 ## 前提
 この記事のサンプルプログラムを実行するには、以下記事のDB環境や資源（プロジェクト、Javaクラス、等）が必要になります。
 
-- [DB環境の準備](/entry/java/jdbc/postgresql/db-env)
-- [Java共通資源の作成](/entry/java/jdbc/postgresql/java-project-common-class)
+- [DB環境の準備](/entry/java/db-access/postgresql/db-env)
+- [Java共通資源の作成](/entry/java/db-access/postgresql/java-project-common-class)
 
 
 ## 手順1. DELETE実行クラスの作成
@@ -52,7 +52,7 @@ public class DeleteMain {
 }
 ```
 
-`java.sql.Connection` を取得するために、記事「[JDBC：Java共通資源の作成](/entry/java/jdbc/postgresql/java-project-common-class)」で作成したDB接続メソッド `Pg.connect()` を使っています。
+`java.sql.Connection` を取得するために、記事「[Java共通資源の作成](/entry/java/db-access/postgresql/java-project-common-class)」で作成したDB接続メソッド `Pg.connect()` を使っています。
 
 このクラスを実行すると、txt の値が `update-test` に一致する行を全て削除します。
 

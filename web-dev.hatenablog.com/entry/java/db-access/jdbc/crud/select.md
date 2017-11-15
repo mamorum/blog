@@ -13,8 +13,8 @@ JDBC を使って、Java からデータベースに対して SELECT文を実行
 ## 前提
 この記事のサンプルプログラムを実行するには、以下記事のDB環境や資源（プロジェクト、Javaクラス、等）が必要になります。
 
-- [DB環境の準備](/entry/java/jdbc/postgresql/db-env)
-- [Java共通資源の作成](/entry/java/jdbc/postgresql/java-project-common-class)
+- [DB環境の準備](/entry/java/db-access/postgresql/db-env)
+- [Java共通資源の作成](/entry/java/db-access/postgresql/java-project-common-class)
 
 
 ## 手順1. SELECT実行クラスの作成
@@ -59,7 +59,7 @@ public class SelectMain {
 }
 ```
 
-`java.sql.Connection` を取得するために、記事「[JDBC：Java共通資源の作成](/entry/java/jdbc/postgresql/java-project-common-class)」で作成したDB接続メソッド `Pg.connect()` を使っています。
+`java.sql.Connection` を取得するために、記事「[Java共通資源の作成](/entry/java/db-access/postgresql/java-project-common-class)」で作成したDB接続メソッド `Pg.connect()` を使っています。
 
 処理内容としては、txt の値が `insert-test` に一致する行を全て表示する感じです。select した行の値は、`rs.getLong("id")`, `rs.getString("txt")` 等で取得してます。
 
