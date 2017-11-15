@@ -3,7 +3,7 @@ Title: Java DBアクセス：DB環境の準備
 Category:
 - Java
 Date: 2017-11-01T19:10:32+09:00
-URL: http://web-dev.hatenablog.com/entry/java/jdbc/postgresql/db-env
+URL: http://web-dev.hatenablog.com/entry/java/db-access/postgresql/db-env
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812313767665
 ---
 

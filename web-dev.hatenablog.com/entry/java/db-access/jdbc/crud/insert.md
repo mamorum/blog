@@ -3,7 +3,7 @@ Title: JDBC：INSERT文の実行
 Category:
 - Java
 Date: 2017-11-02T16:12:38+09:00
-URL: http://web-dev.hatenablog.com/entry/java/jdbc/postgresql/crud/insert
+URL: http://web-dev.hatenablog.com/entry/java/db-access/jdbc/crud/insert
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812313768173
 ---
 

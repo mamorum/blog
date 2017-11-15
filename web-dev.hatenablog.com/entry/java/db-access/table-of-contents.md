@@ -3,7 +3,7 @@ Title: Java DBアクセス：目次
 Category:
 - Java
 Date: 2017-11-03T11:31:47+09:00
-URL: http://web-dev.hatenablog.com/entry/java/db/table-of-contents
+URL: http://web-dev.hatenablog.com/entry/java/db-access/table-of-contents
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812314001883
 ---
 
@@ -13,22 +13,19 @@ Java を使って RDB（リレーショナルデータベース）にアクセ�
 
 
 ## 準備
-事前に環境を準備して頂けると、各記事のサンプルプログラムを実行することができます。
+事前に DB と Javaの共通資源を準備して頂けると、各記事のサンプルプログラムを実行することができます。
 
-- [DB環境の準備](/entry/java/jdbc/postgresql/db-env)
+- [DB環境の準備](/entry/java/db-access/postgresql/db-env)
+- [Java共通資源の作成](/entry/java/db-access/postgresql/java-project-common-class)
 
 
 ## 1. JDBC
-JDBC で PostgreSQL に接続する記事をまとめています。共通資源を準備して頂くと、CRUD記事のサンプルプログラムを実行することができます。
+JDBC で PostgreSQL に接続して、CRUDを実行する記事をまとめています。
 
-### 1.1. 準備
-- [Java共通資源の作成](/entry/java/jdbc/postgresql/java-project-common-class)
-
-### 1.2. CRUD
-- [INSERT文の実行（Create）](/entry/java/jdbc/postgresql/crud/insert)
-- [SELECT文の実行（Read）](/entry/java/jdbc/postgresql/crud/select)
-- [UPDATE文の実行（Update）](/entry/java/jdbc/postgresql/crud/update)
-- [DELETE文の実行（Delete）](/entry/java/jdbc/postgresql/crud/delete)
+- [INSERT文の実行（Create）](/entry/java/db-access/jdbc/crud/insert)
+- [SELECT文の実行（Read）](/entry/java/db-access/jdbc/crud/select)
+- [UPDATE文の実行（Update）](/entry/java/db-access/jdbc/crud/update)
+- [DELETE文の実行（Delete）](/entry/java/db-access/jdbc/crud/delete)
 
 
 ## 2. ライブラリ

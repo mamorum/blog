@@ -1,13 +1,13 @@
 ---
-Title: JDBC：Java共通資源の作成
+Title: Java DBアクセス：Java共通資源の作成
 Category:
 - Java
 Date: 2017-11-03T10:45:15+09:00
-URL: http://web-dev.hatenablog.com/entry/java/jdbc/postgresql/java-project-common-class
+URL: http://web-dev.hatenablog.com/entry/java/db-access/postgresql/java-project-common-class
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812313993351
 ---
 
-JDBC を使うための Java のプロジェクトや、PostgreSQL（RDBMS）に接続する共通的なクラスを作成していきます。
+Java で PostgreSQL（RDBMS）に接続するためのプロジェクトを作成していきます。また、JDBC の記事で使う、共通的なクラスを作成します（手順3 以降）。
 
 
 ## 手順1. プロジェクトの作成
@@ -58,8 +58,8 @@ Maven でビルドできるように、以下の `pom.xml` を作成します。
 PostgreSQL の JDBC ドライバを使うので、`dependencies` タグを使って依存するようにしています。
 
 
-## 手順3. DB接続クラスの作成
-DBに接続するための共通クラスを作成します。メソッドを１つ用意して、`java.sql.Connection` を返すようにしています。
+## 手順3. 共通クラスの作成
+JDBC でコネクションを取得するための共通クラスを作成します。メソッドを１つ用意して、`java.sql.Connection` を返すようにしています。
 
 `jdbc-pg/src/main/java/basic/Pg.java`
 

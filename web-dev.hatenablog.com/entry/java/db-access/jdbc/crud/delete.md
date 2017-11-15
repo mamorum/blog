@@ -1,13 +1,13 @@
 ---
-Title: JDBC：UPDATE文の実行
+Title: JDBC：DELETE文の実行
 Category:
 - Java
-Date: 2017-11-06T06:30:00+09:00
-URL: http://web-dev.hatenablog.com/entry/java/jdbc/postgresql/crud/update
-EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812314576010
+Date: 2017-11-07T07:00:00+09:00
+URL: http://web-dev.hatenablog.com/entry/java/db-access/jdbc/crud/delete
+EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812314585789
 ---
 
-JDBC を使って、Java からデータベースに対して UPDATE文を実行する方法を書いていきます。データベースは、RDBMS の PostgreSQL を使いました。
+JDBC を使って、Java からデータベースに対して DELETE文を実行する方法を書いていきます。データベースは、RDBMS の PostgreSQL を使いました。
 
 
 ## 前提
@@ -17,10 +17,10 @@ JDBC を使って、Java からデータベースに対して UPDATE文を実行
 - [Java共通資源の作成](/entry/java/jdbc/postgresql/java-project-common-class)
 
 
-## 手順1. UPDATE実行クラスの作成
+## 手順1. DELETE実行クラスの作成
 Prepared文（PreparedStatement）で SQL を実行するクラスを作成します。
 
-`jdbc-pg/src/main/java/basic/UpdateMain.java`
+`jdbc-pg/src/main/java/basic/DeleteMain.java`
 
 ```java
 package basic;
@@ -29,22 +29,21 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
-public class UpdateMain {
+public class DeleteMain {
   public static void main(String[] args)
     throws ClassNotFoundException, SQLException
   {
     try (Connection con = Pg.connect()) {
-      //-> データを更新するSQLを準備
+      //-> データを削除するSQLを準備
       PreparedStatement ps = con.prepareStatement(
-        "update memo set txt = ? where txt = ?"
+        "delete from memo where txt = ?"
       );
       //-> SQLの?に文字列を設定
       ps.setString(1, "update-test");
-      ps.setString(2, "insert-test");
       //-> SQLを実行して更新件数を取得
       int count = ps.executeUpdate();
       //-> 更新件数を表示
-      System.out.print("UPDATE ");
+      System.out.print("DELETE ");
       System.out.println(count);
       //-> 後処理
       ps.close();
@@ -55,30 +54,35 @@ public class UpdateMain {
 
 `java.sql.Connection` を取得するために、記事「[JDBC：Java共通資源の作成](/entry/java/jdbc/postgresql/java-project-common-class)」で作成したDB接続メソッド `Pg.connect()` を使っています。
 
-txt の値が `insert-test` に一致する行を全て更新する感じです。更新後の txt の値は `update-test` になります。
+このクラスを実行すると、txt の値が `update-test` に一致する行を全て削除します。
 
 
 ## 手順2. 動作確認
 事前に PostgreSQL を起動して、psql 等で `test` データベースにデータを投入しておきます。
 
 ```
-test=> insert into memo (txt) values ('insert-test');
+test=> insert into memo (txt) values ('update-test');
 INSERT 0 1
+test=> select count(id) from memo where txt = 'update-test';
+ count
+-------
+     1
+(1 行)
 ```
 
-クラス `UpdateMain` を実行すると、更新した行数が表示されます。
+クラス `DeleteMain` を実行すると、更新した行数が表示されます。
 
 ```
-UPDATE 1
+DELETE 1
 ```
 
-psql で更新されたことを確認します。
+psql でデータが削除されたことを確認します。
 
 ```
-test=> select id, txt from memo where txt = 'update-test';
- id |     txt
-----+-------------
- 29 | update-test
+test=> select count(id) from memo where txt = 'update-test';
+ count
+-------
+     0
 (1 行)
 ```
 
