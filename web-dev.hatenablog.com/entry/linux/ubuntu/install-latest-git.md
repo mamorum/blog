@@ -5,7 +5,6 @@ Category:
 Date: 2017-11-15T06:00:00+09:00
 URL: http://web-dev.hatenablog.com/entry/linux/ubuntu/install-latest-git
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812316416575
-Draft: true
 ---
 
 最新版の Git をビルドして、Ubuntu 14 にインストールする方法を書いていきます。動作確認は Vagrant Box の `ubuntu/trusty64` で行っています。

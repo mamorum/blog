@@ -1,5 +1,5 @@
 ---
-Title: JDBC：DB環境の準備
+Title: Java DBアクセス：DB環境の準備
 Category:
 - Java
 Date: 2017-11-01T19:10:32+09:00
@@ -7,7 +7,7 @@ URL: http://web-dev.hatenablog.com/entry/java/jdbc/postgresql/db-env
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812313767665
 ---
 
-JDBC関連の記事で、Javaから接続するデータベース（PostgreSQL）の準備をしていきます。
+Java の DBアクセス関連記事で、接続するデータベース（PostgreSQL）の準備をしていきます。
 
 
 ## PostgreSQL のインストール
