@@ -1,15 +1,17 @@
-package basic;
+package jdbc;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
+import jdbc.base.Driver;
+
 public class SelectMain {
   public static void main(String[] args)
     throws ClassNotFoundException, SQLException
   {
-    try (Connection con = Pg.connect()) {
+    try (Connection con = Driver.connect()) {
       //-> データを取得するSQLを準備
       PreparedStatement ps = con.prepareStatement(
         "select id, txt, updated from memo where txt = ?"

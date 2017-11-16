@@ -1,10 +1,10 @@
-package basic;
+package jdbc.base;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-public class Pg {
+public class Driver {
   public static Connection connect()
     throws ClassNotFoundException, SQLException
   {

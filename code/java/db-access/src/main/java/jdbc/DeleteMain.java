@@ -1,14 +1,16 @@
-package basic;
+package jdbc;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
+import jdbc.base.Driver;
+
 public class DeleteMain {
   public static void main(String[] args)
     throws ClassNotFoundException, SQLException
   {
-    try (Connection con = Pg.connect()) {
+    try (Connection con = Driver.connect()) {
       //-> データを削除するSQLを準備
       PreparedStatement ps = con.prepareStatement(
         "delete from memo where txt = ?"

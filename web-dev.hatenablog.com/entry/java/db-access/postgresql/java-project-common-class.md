@@ -11,30 +11,28 @@ Java で PostgreSQL（RDBMS）に接続するためのプロジェクトを作�
 
 
 ## 手順1. プロジェクトの作成
-`jdbc-pg` というディレクトリを作成して、その配下に `src/main/java` というディレクトリ階層を作成します。
+`db-access` というディレクトリを作成して、その配下に `src/main/java` ディレクトリを作成します。
 
 ```
-jdbc-pg/
+db-access/
   - pom.xml
   - src/
     - main/
       - java/
 ```
 
-`src/main/java` には、ソースコードを置いていきます。
-
 
 ## 手順2. pom.xml の作成
 Maven でビルドできるように、以下の `pom.xml` を作成します。
 
-`jdbc-pg/pom.xml`
+`db-access/pom.xml`
 
 ```
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.github.mamorum</groupId>
-  <artifactId>jdbc-pg</artifactId>
+  <groupId>com.domain</groupId>
+  <artifactId>db-access</artifactId>
   <version>1.0.0</version>
   <packaging>jar</packaging>
 
@@ -55,22 +53,22 @@ Maven でビルドできるように、以下の `pom.xml` を作成します。
 </project>
 ```
 
-PostgreSQL の JDBC ドライバを使うので、`dependencies` タグを使って依存するようにしています。
+`dependencies` に PostgreSQL の JDBC ドライバを追加してます。
 
 
 ## 手順3. 共通クラスの作成
 JDBC でコネクションを取得するための共通クラスを作成します。メソッドを１つ用意して、`java.sql.Connection` を返すようにしています。
 
-`jdbc-pg/src/main/java/basic/Pg.java`
+`db-access/src/main/java/jdbc/base/Driver.java`
 
 ```java
-package basic;
+package jdbc.base;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-public class Pg {
+public class Driver {
   public static Connection connect()
     throws ClassNotFoundException, SQLException
   {
@@ -98,10 +96,10 @@ SQL（select, update, etc）を実行するときに `Connection` が必要に�
 ### 手順4.1. 動作確認クラスの作成
 `Connection` を取得して、簡単な SQL を実行するクラスを作成します。
 
-`jdbc-pg/src/main/java/basic/ConnectMain.java`
+`db-access/src/main/java/jdbc/base/ConnectMain.java`
 
 ```java
-package basic;
+package jdbc.base;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -112,7 +110,7 @@ public class ConnectMain {
   public static void main(String[] args)
     throws ClassNotFoundException, SQLException
   {
-    try (Connection con = Pg.connect()) {
+    try (Connection con = Driver.connect()) {
       //-> 現在日時を取得するSQLを準備
       PreparedStatement ps = con.prepareStatement(
         "select current_timestamp"
@@ -122,7 +120,7 @@ public class ConnectMain {
       //-> データのカーソルを１つ進める
       rs.next();
       //-> データを表示
-      System.out.print("Now ");
+      System.out.print("NOW ");
       System.out.println(rs.getTimestamp("now"));
       //-> 後処理
       rs.close();
@@ -145,5 +143,5 @@ try節（`try (Cooection con = ....`）は、 `Connection` を使い終わった
 それから上の `ConnectMain` クラスを実行すると、以下のように表示されます。
 
 ```
-Now 2017-11-03 10:28:14.25525
+NOW 2017-11-03 10:28:14.25525
 ```

@@ -1,4 +1,4 @@
-package basic;
+package jdbc.base;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -9,7 +9,7 @@ public class ConnectMain {
   public static void main(String[] args)
     throws ClassNotFoundException, SQLException
   {
-    try (Connection con = Pg.connect()) {
+    try (Connection con = Driver.connect()) {
       //-> 現在日時を取得するSQLを準備
       PreparedStatement ps = con.prepareStatement(
         "select current_timestamp"

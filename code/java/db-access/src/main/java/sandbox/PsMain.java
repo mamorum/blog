@@ -1,15 +1,15 @@
-package bak;
+package sandbox;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
-import basic.Pg;
+import jdbc.base.Driver;
 
 public class PsMain {
   public static void main(String[] args) throws ClassNotFoundException, SQLException {
-    try (Connection con = Pg.connect()) {
+    try (Connection con = Driver.connect()) {
       long id = insert(con, "insert");
       select(con, id);
       update(con, id, "update");

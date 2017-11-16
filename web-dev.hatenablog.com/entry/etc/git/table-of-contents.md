@@ -5,7 +5,6 @@ Category:
 Date: 2017-11-16T07:00:00+09:00
 URL: http://web-dev.hatenablog.com/entry/etc/git/table-of-contents
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812317305052
-Draft: true
 ---
 
 Git や GitHub関連の記事をいくつか書いたので、その記事のリンクをまとめてみました。

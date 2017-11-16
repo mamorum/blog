@@ -20,21 +20,23 @@ JDBC を使って、Java からデータベースに対して SELECT文を実行
 ## 手順1. SELECT実行クラスの作成
 Prepared文（PreparedStatement）で SQL を実行するクラスを作成します。
 
-`jdbc-pg/src/main/java/basic/SelectMain.java`
+`db-access/src/main/java/jdbc/SelectMain.java`
 
 ```java
-package basic;
+package jdbc;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
+import jdbc.base.Driver;
+
 public class SelectMain {
   public static void main(String[] args)
     throws ClassNotFoundException, SQLException
   {
-    try (Connection con = Pg.connect()) {
+    try (Connection con = Driver.connect()) {
       //-> データを取得するSQLを準備
       PreparedStatement ps = con.prepareStatement(
         "select id, txt, updated from memo where txt = ?"
@@ -59,7 +61,7 @@ public class SelectMain {
 }
 ```
 
-`java.sql.Connection` を取得するために、記事「[Java共通資源の作成](/entry/java/db-access/postgresql/java-project-common-class)」で作成したDB接続メソッド `Pg.connect()` を使っています。
+`java.sql.Connection` を取得するために、記事「[Java共通資源の作成](/entry/java/db-access/postgresql/java-project-common-class)」で作成したDB接続メソッド `Driver.connect()` を使っています。
 
 処理内容としては、txt の値が `insert-test` に一致する行を全て表示する感じです。select した行の値は、`rs.getLong("id")`, `rs.getString("txt")` 等で取得してます。
 

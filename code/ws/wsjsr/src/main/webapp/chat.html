@@ -26,7 +26,7 @@
       return;
     }
     // Create a websocket
-    webSocket = new WebSocket("ws://localhost:8080/chat");
+    webSocket = new WebSocket("ws://localhost:8080/wsjsr/chat");
 
     webSocket.onopen = function(event) {
       updateOutput("Connected!");

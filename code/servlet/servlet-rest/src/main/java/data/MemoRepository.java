@@ -12,23 +12,31 @@ public class MemoRepository {
   private static LinkedHashMap<Long, Memo> data = new LinkedHashMap<>();
   private static AtomicLong id = new AtomicLong(0);
   public static List<Memo> readAll() {
-    return new ArrayList<>(data.values());
+    synchronized (data) {
+      return new ArrayList<>(data.values());
+    }
   }
   public static Memo create(String txt) {
     Memo memo = new Memo(
       id.getAndIncrement(), txt, new Date()
     );
-    data.put(memo.id, memo);
+    synchronized (data) {
+      data.put(memo.id, memo);
+    }
     return memo;
   }
   public static Memo update(Long id, String txt) {
-    Memo memo = data.get(id);
-    if (memo == null) return null;
-    memo.txt = txt;
-    memo.updated = new Date();
-    return memo;
+    synchronized (data) {
+      Memo memo = data.get(id);
+      if (memo == null) return null;
+      memo.txt = txt;
+      memo.updated = new Date();
+      return memo;
+    }
   }
   public static Memo delete(Long id) {
-    return data.remove(id);
+    synchronized (data) {
+      return data.remove(id);
+    }
   }
 }

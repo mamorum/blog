@@ -1,16 +1,15 @@
-package fw;
+package sandbox;
 
 import java.sql.Connection;
-import java.sql.ResultSet;
 import java.sql.SQLException;
 
-import basic.Pg;
+import jdbc.base.Driver;
 
 public class Main {
   public static void main(String[] args)
     throws ClassNotFoundException, SQLException
   {
-    try (Connection c = Pg.connect()) {
+    try (Connection c = Driver.connect()) {
       Sql.query(
         c, "select * from memo where id = ?",
         (ps) -> {

@@ -20,20 +20,22 @@ JDBC を使って、Java からデータベースに対して DELETE文を実行
 ## 手順1. DELETE実行クラスの作成
 Prepared文（PreparedStatement）で SQL を実行するクラスを作成します。
 
-`jdbc-pg/src/main/java/basic/DeleteMain.java`
+`db-access/src/main/java/jdbc/DeleteMain.java`
 
 ```java
-package basic;
+package jdbc;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
+import jdbc.base.Driver;
+
 public class DeleteMain {
   public static void main(String[] args)
     throws ClassNotFoundException, SQLException
   {
-    try (Connection con = Pg.connect()) {
+    try (Connection con = Driver.connect()) {
       //-> データを削除するSQLを準備
       PreparedStatement ps = con.prepareStatement(
         "delete from memo where txt = ?"
@@ -52,7 +54,7 @@ public class DeleteMain {
 }
 ```
 
-`java.sql.Connection` を取得するために、記事「[Java共通資源の作成](/entry/java/db-access/postgresql/java-project-common-class)」で作成したDB接続メソッド `Pg.connect()` を使っています。
+`java.sql.Connection` を取得するために、記事「[Java共通資源の作成](/entry/java/db-access/postgresql/java-project-common-class)」で作成したDB接続メソッド `Driver.connect()` を使っています。
 
 このクラスを実行すると、txt の値が `update-test` に一致する行を全て削除します。
 

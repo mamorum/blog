@@ -7,9 +7,9 @@ URL: http://web-dev.hatenablog.com/entry/java/db-access/table-of-contents
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812314001883
 ---
 
-Java を使って RDB（リレーショナルデータベース）にアクセスする記事をまとめました。JDBC を直接使う方法と、ライブラリを使ってアクセスする方法について書いています。
+Java を使って RDB（リレーショナルデータベース）にアクセスする記事を書いたので、そのリンクを一覧形式でまとめました。
 
-記事は JDBC から読んで頂いても、ライブラリから読んで頂いても大丈夫です。ただ、ライブラリの記事では、少しだけ JDBC を使ったりしています。
+JDBC を直接使う方法とライブラリを使う方法を書いていて、どちらから読んで頂いても大丈夫です。ただ、ライブラリの記事では、少しだけ JDBC を使ったりしています。
 
 
 ## 準備

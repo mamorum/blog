@@ -1,14 +1,16 @@
-package basic;
+package jdbc;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
+import jdbc.base.Driver;
+
 public class InsertMain {
   public static void main(String[] args)
     throws ClassNotFoundException, SQLException
   {
-    try (Connection con = Pg.connect()) {
+    try (Connection con = Driver.connect()) {
       //-> データを1件登録するSQLを準備
       PreparedStatement ps = con.prepareStatement(
         "insert into memo (txt) values (?)"

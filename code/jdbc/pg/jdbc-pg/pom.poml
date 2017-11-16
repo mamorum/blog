@@ -1,4 +1,0 @@
-pkg=com.github.mamorum:jdbc-pg:1.0.0:jar
-depend=
-  org.postgresql:postgresql:42.1.4
-properties=&encoding>UTF-8, &compiler>1.8

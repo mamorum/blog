@@ -1,5 +1,8 @@
 pkg=com.domain:wsjsr:1.0.0:war
 depend=
-  org.eclipse.jetty.websocket:javax-websocket-server-impl:9.4.6.v20170531
+  org.eclipse.jetty.websocket:javax-websocket-server-impl:9.4.6.v20170531:provided
 properties=&encoding>UTF-8, &compiler>1.8
-info=description>Web Socket JSR Sample
+build.base=finalName>${project.artifactId}
+plugin=$war
+# use war plugin 3.1.0 for no web.xml
+$war=:maven-war-plugin:3.1.0

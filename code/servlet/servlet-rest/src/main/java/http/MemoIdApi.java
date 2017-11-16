@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServletResponse;
 
 import data.MemoRepository;
 
-@WebServlet("/memo/*") //-> "/memo:id"
+@WebServlet("/memo/*") //-> "/memo/:id"
 @SuppressWarnings("serial")
 public class MemoIdApi extends HttpServlet {
   public void doPut(HttpServletRequest req, HttpServletResponse res)
