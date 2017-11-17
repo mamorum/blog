@@ -5,7 +5,6 @@ Category:
 Date: 2017-11-17T06:30:00+09:00
 URL: http://web-dev.hatenablog.com/entry/hardware/ssd/transcend-tlc-ts240gssd220s
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812318203201
-Draft: true
 ---
 
 ノートPC が古くなってきて、もうちょっと速くならんかなと思い、SSD を使ってみることにしました。SSD に交換した後は、速さや静音性に感動して、はやく交換すれば良かったと思いました。
