@@ -5,7 +5,6 @@ Category:
 Date: 2017-11-21T06:30:00+09:00
 URL: http://web-dev.hatenablog.com/entry/java/db-access/lib/hikaricp-quick-start
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812318013162
-Draft: true
 ---
 
 [HikariCP](http://brettwooldridge.github.io/HikariCP/) でコネクションプールを生成して、PostgreSQL に対して簡単な SQL を実行する方法を書いていきます。

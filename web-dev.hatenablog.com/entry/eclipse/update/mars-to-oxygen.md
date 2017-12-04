@@ -5,7 +5,6 @@ Category:
 Date: 2017-11-27T06:30:00+09:00
 URL: http://web-dev.hatenablog.com/entry/eclipse/update/mars-to-oxygen
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812318909695
-Draft: true
 ---
 
 Eclipse の 新バージョン [Oxygen](https://www.eclipse.org/oxygen/) をインストールして使ってみることにしました。もともと Mars.3 を使っていたので、Mars.3 から Oxygen.1a に更新した方法（自己流）を書いていこうと思います。

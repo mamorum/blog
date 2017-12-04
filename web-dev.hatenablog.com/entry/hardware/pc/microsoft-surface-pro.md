@@ -5,7 +5,6 @@ Category:
 Date: 2017-11-24T07:00:00+09:00
 URL: http://web-dev.hatenablog.com/entry/hardware/pc/microsoft-surface-pro
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812318496937
-Draft: true
 ---
 
 PCを購入するときに、Microsoft の Surface Pro が欲しいと思って色々検討しました。そのとき考えたことを、忘れないようにまとめていこうと思います。
@@ -13,7 +12,7 @@ PCを購入するときに、Microsoft の Surface Pro が欲しいと思って�
 [Surface Pro - Microsoft](https://www.microsoft.com/ja-jp/surface/devices/surface-pro/overview)
 
 
-※ Surface 買ったのか、どのPCを買ったのか、といった結論的なことは書いてません。あくまで検討内容（考えたこと）を書いてます。
+※ Surface 買ったのか、どのPCを買ったのか、といった結論的なことは書いてません。検討内容（考えたこと）について書いてます。
 
 
 ## Surface を検討した理由

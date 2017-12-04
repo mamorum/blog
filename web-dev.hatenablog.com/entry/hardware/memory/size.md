@@ -5,7 +5,6 @@ Category:
 Date: 2017-11-30T06:30:00+09:00
 URL: http://web-dev.hatenablog.com/entry/hardware/memory/size
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812318510610
-Draft: true
 ---
 
 最近の Windows PC を購入する場合、メモリ（RAMの）容量は４～３２GBの間で選べたりします（一般的に 4GB, 8GB, 16GB, 32GB）。ただ、容量が大きくなると値段が高くなるので、PC購入前にメモリ使用容量をタスクマネージャーで調べておきました。

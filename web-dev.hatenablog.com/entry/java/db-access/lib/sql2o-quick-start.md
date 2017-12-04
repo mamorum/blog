@@ -5,7 +5,6 @@ Category:
 Date: 2017-11-23T06:30:00+09:00
 URL: http://web-dev.hatenablog.com/entry/java/db-access/lib/sql2o-quick-start
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812318574041
-Draft: true
 ---
 
 [sql2o](https://www.sql2o.org/) を使って、PostgreSQL に対して簡単な SQL を実行する方法を書いていきます。sql2o を使うと、

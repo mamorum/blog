@@ -31,7 +31,7 @@ JDBC で PostgreSQL に接続して、CRUDを実行する記事をまとめて�
 ## 2. ライブラリ
 Java のライブラリを使って PostgreSQL に接続する記事をまとめています。ライブラリを使うと、JDBC よりも多くの機能が使えたり、簡単にSQLを実行できたりします。
 
-- 【記事作成中】sql2oでSQL実行
+- [sql2oでSQL実行](/entry/java/db-access/lib/sql2o-quick-start)
 - 【記事作成中】FlywayでDBマイグレーション
-- 【記事作成中】HikariCPのコネクションプールを使う
+- [HikariCPのコネクションプールを使う](/entry/java/db-access/lib/hikaricp-quick-start)
 - 【記事作成中】HikariCP, Flyway, sql2oでDBアクセス
