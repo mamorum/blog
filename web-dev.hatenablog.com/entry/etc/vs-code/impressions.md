@@ -5,7 +5,6 @@ Category:
 Date: 2017-12-08T06:30:00+09:00
 URL: http://web-dev.hatenablog.com/entry/etc/vs-code/impressions
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812322428859
-Draft: true
 ---
 
 Sublime Text 3 の日本語入力に難があるので、Visual Studio Code を使ってみました。以前使ったときは動きがモッサリしたように感じたんですが、今はサクサク動いたので乗り換えました。

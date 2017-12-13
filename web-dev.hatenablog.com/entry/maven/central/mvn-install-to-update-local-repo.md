@@ -5,7 +5,6 @@ Category:
 Date: 2017-12-07T05:30:00+09:00
 URL: http://web-dev.hatenablog.com/entry/maven/central/mvn-install-to-update-local-repo
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812322137699
-Draft: true
 ---
 
 Maven プロジェクトをビルドして、ローカルリポジトリの資源（jar など）を更新する方法を書いていきます。

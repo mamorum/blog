@@ -5,7 +5,6 @@ Category:
 Date: 2017-12-05T07:00:00+09:00
 URL: http://web-dev.hatenablog.com/entry/maven/central/release-snapshot
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812321481536
-Draft: true
 ---
 
 Maven で SNAPSHOT をリリースする方法を書いていきます。
