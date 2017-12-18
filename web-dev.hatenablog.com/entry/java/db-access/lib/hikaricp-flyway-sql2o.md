@@ -5,7 +5,6 @@ Category:
 Date: 2017-12-14T06:30:00+09:00
 URL: http://web-dev.hatenablog.com/entry/java/db-access/lib/hikaricp-flyway-sql2o
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812324456055
-Draft: true
 ---
 
 [HikariCP](http://brettwooldridge.github.io/HikariCP/) のコネクションプールを使って、
