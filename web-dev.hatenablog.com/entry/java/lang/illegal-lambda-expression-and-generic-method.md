@@ -5,7 +5,6 @@ Category:
 Date: 2017-12-22T06:00:00+09:00
 URL: http://web-dev.hatenablog.com/entry/java/lang/illegal-lambda-expression-and-generic-method
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812327582443
-Draft: true
 ---
 
 関数型インターフェイス（`@FunctionalInterface`）で総称型を使うメソッドを定義して、それをラムダで表現するとエラーが発生しました。

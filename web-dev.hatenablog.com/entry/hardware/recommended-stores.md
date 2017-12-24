@@ -3,7 +3,6 @@ Title: PC・ハード：おすすめの通販サイト
 Date: 2017-12-21T06:30:00+09:00
 URL: http://web-dev.hatenablog.com/entry/hardware/recommended-stores
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812326161555
-Draft: true
 ---
 
 自分が利用しているおすすめの通販サイトについてまとめてみました。購入する品物としては、主にPC周辺機器や電子機器などのハードウェアを想定してます。
