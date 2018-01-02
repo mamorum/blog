@@ -1,13 +1,13 @@
 ---
-Title: Vagrant：仮想マシンのメモリサイズ設定
+Title: Vagrant：仮想マシンのメモリサイズ変更
 Category:
 - 環境
-Date: 2016-04-04T14:52:00+09:00
-URL: http://web-dev.hatenablog.com/entry/etc/vagrant/memory-size
+Date: 2018-01-02T14:52:00+09:00
+URL: http://web-dev.hatenablog.com/entry/env/vagrant/change-memory-size
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178930175
 ---
 
-Vagrant で作成した仮想マシンの、メモリサイズ変更手順を書いていきます。
+Vagrant で作成した仮想マシンの、メモリサイズ変更方法を書いていきます。
 
 
 ## 手順1. メモリサイズ設定の有効化
@@ -51,7 +51,9 @@ Vagrantfile を開いて、次の箇所を表示します。
 
 
 ## 手順3. 確認
-仮想マシンを起動して、VirtualBox の GUI を立ち上げます。
+設定変更した仮想マシンを起動します（`vagrant up`）。
+
+それから、VirtualBox の GUI を立ち上げてメモリを確認します。
 
 ![virtualbox-gui-cheking-memory](http://cdn-ak.f.st-hatena.com/images/fotolife/m/mamorums/20160813/20160813162956.png)
 

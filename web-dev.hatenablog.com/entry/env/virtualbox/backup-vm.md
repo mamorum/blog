@@ -5,7 +5,6 @@ Category:
 Date: 2017-12-29T07:30:00+09:00
 URL: http://web-dev.hatenablog.com/entry/env/virtualbox/backup-vm
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812329318984
-Draft: true
 ---
 
 Virtual Box の仮想マシンをバックアップする方法を書いていきます。ブログ執筆時の環境は以下の通りです。

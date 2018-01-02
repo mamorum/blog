@@ -5,7 +5,6 @@ Category:
 Date: 2017-12-26T07:00:00+09:00
 URL: http://web-dev.hatenablog.com/entry/env/virtualbox/ubuntu16-network-ssh
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812329267872
-Draft: true
 ---
 
 仮想マシンのネットワークとSSHを設定して、Windows の SSHクライアントから接続する方法を書いていきます。仮想マシンは Windows の VirtualBox 上に作成していて、その OS は Ubuntu16 になります。

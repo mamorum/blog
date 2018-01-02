@@ -5,7 +5,6 @@ Category:
 Date: 2017-12-25T07:30:00+09:00
 URL: http://web-dev.hatenablog.com/entry/env/virtualbox/ubuntu16-install
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812329263512
-Draft: true
 ---
 
 Virtual Box の仮想マシンに、Ubuntu16（サーバー）をインストールする方法を書いていきます。仮想マシンは Windows 上に作成している前提で、環境やプロダクトのバージョンは以下の通りです。
