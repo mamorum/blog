@@ -5,7 +5,6 @@ Category:
 Date: 2018-01-03T09:00:00+09:00
 URL: http://web-dev.hatenablog.com/entry/env/virtualbox/run-ubuntu16
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812332391748
-Draft: true
 ---
 
 Virtual Box を使って、Windows で Ubuntu16（Xenial Xerus）のサーバーを動かす手順をまとめてみました。
