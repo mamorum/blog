@@ -11,8 +11,10 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/85
 
 Poml は、以下の２つから構成されています。
 
-1. `pom.poml`（Poml ファイル）を書くための構文
+1. `pom.poml` を書くための構文
 2. `pom.poml` を `pom.xml` に変換するツール
+
+`pom.poml` は、Poml ファイルと呼んでいます。
 
 
 ## 目次

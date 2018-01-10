@@ -1,7 +1,7 @@
 ---
 Title: PostgreSQL：CentOSでユーザとDBを作成
 Category:
-- 環境
+- DB
 Date: 2016-03-26T18:50:00+09:00
 URL: http://web-dev.hatenablog.com/entry/postgresql/centos/create-user-db
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178926887
