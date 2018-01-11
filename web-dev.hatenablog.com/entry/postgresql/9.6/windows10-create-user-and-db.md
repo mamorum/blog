@@ -5,7 +5,6 @@ Category:
 Date: 2018-01-11T07:00:00+09:00
 URL: http://web-dev.hatenablog.com/entry/postgresql/9.6/windows10-create-user-and-db
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812335852433
-Draft: true
 ---
 
 Windows の PostgreSQL 9.6 で、ユーザ（ログインロール）とデータベースを作成する方法を書いていきます。
