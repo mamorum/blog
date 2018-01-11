@@ -1,5 +1,5 @@
 ---
-Title: Poml：はじめに
+Title: Poml：Maven pom.xml の簡略記法
 Category:
 - Poml
 Date: 2018-01-09T12:07:00+09:00
@@ -7,7 +7,7 @@ URL: http://web-dev.hatenablog.com/entry/poml/readme
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812335360855
 ---
 
-[Poml](https://github.com/mamorum/poml) を使うと、[Maven](https://maven.apache.org/index.html) の `pom.xml`（プロジェクト定義ファイル）をシンプルに書くことができます。
+[Poml](https://github.com/mamorum/poml) を使うと、[Maven](https://maven.apache.org/index.html) の定義ファイル `pom.xml` をテキスト形式でシンプルに書くことができます。
 
 Poml は、以下の２つから構成されています。
 
