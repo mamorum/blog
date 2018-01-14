@@ -11,17 +11,18 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/85
 
 Poml は、以下の２つから構成されています。
 
-1. Poml ファイル `pom.poml` を書くための構文
+1. Pomlファイル `pom.poml` を書くための構文
 2. `pom.poml` を `pom.xml` に変換するツール
 
 
 ## リンク集
-- [ダウンロード（リリース）](https://github.com/mamorum/poml/releases)
-- インストール方法（記事作成中）
+- [ダウンロード（リリースページ）](https://github.com/mamorum/poml/releases)
+- [インストール方法](/entry/poml/doc/installation-guide)
 - [Poml Blog](http://java-poml.blogspot.com/)
 
 
 ## サンプル
+### 1. Poml ファイルの作成
 `pom.poml` を作成して、下のテキストを保存します。
 
 ```
@@ -32,6 +33,7 @@ depend=
 properties=&encoding>UTF-8, &compiler>1.8
 ```
 
+### 2. Poml コマンドの実行
 ファイルを作成したディレクトリで、`poml` コマンドを実行します。
 
 ```
@@ -40,6 +42,7 @@ properties=&encoding>UTF-8, &compiler>1.8
 [INFO] Created pom.xml @30ms
 ```
 
+### 3. XML の確認
 以下の内容で `pom.xml` が生成されます。
 
 ```

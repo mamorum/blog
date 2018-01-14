@@ -2,7 +2,7 @@
 Title: JDK9：Win10にインストール
 Category:
 - Java
-Date: 2017-11-29T06:30:00+09:00
+Date: 2018-01-13T06:30:00+09:00
 URL: http://web-dev.hatenablog.com/entry/java/jdk/9/windows10-install
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812321647660
 ---
@@ -38,6 +38,10 @@ JDK9（9.0.1）を Windows10 64bit にインストールする手順を書いて
 | 作成    | `JAVA_HOME` | `C:\opt\jdk-9.0.1` |
 | 値追加 | `Path`       | `%JAVA_HOME%\bin` |
 
+環境変数の設定方法は、以下の記事にもまとめています。
+
+[JDK：Win10の環境変数設定](/entry/java/jdk/8/windows10-env-variables)
+
 
 ## 手順4. 確認
 コマンドラインで `java -version` を実行してみました。
@@ -48,11 +52,3 @@ java version "9.0.1"
 Java(TM) SE Runtime Environment (build 9.0.1+11)
 Java HotSpot(TM) 64-Bit Server VM (build 9.0.1+11, mixed mode)
 ```
-
-
-## 補足. 環境変数について
-環境変数の設定方法は、以下の記事に書いたりしています。
-
-[JDK8：Win10の環境変数設定](/entry/java/jdk/8/windows10-env-variables)
-
-JDK8 の記事ですが、設定方法は変わらないので必要に応じて参照して頂けると嬉しいです。

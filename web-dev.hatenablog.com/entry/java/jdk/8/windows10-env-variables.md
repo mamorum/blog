@@ -1,8 +1,8 @@
 ---
-Title: JDK8：Win10の環境変数設定
+Title: JDK：Win10の環境変数設定
 Category:
 - Java
-Date: 2017-06-09T08:31:37+09:00
+Date: 2018-01-13T08:31:37+09:00
 URL: http://web-dev.hatenablog.com/entry/java/jdk/8/windows10-env-variables
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/13355765958053540311
 ---
@@ -11,9 +11,10 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/13
 
 
 ## 前提
-Windows10 に JDK8 をインストールしていることが前提となります。インストール方法は、以下の記事を参照して頂けると嬉しいです。
+Windows10 に JDK をインストールしていることが前提となります。インストール方法は、以下の記事を参照して頂けると嬉しいです。
 
-[JDK8：Win10にインストール](/entry/java/jdk/8/windows10-install)
+- [JDK9 のインストール](/entry/java/jdk/9/windows10-install)
+- [JDK8 のインストール](/entry/java/jdk/8/windows10-install)
 
 
 ## 手順1. 環境変数の表示
