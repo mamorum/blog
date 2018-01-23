@@ -1,7 +1,7 @@
 ---
 Title: PC購入検討：Surface Pro（Microsoft）
 Category:
-- etc
+- ハード
 Date: 2017-11-24T07:00:00+09:00
 URL: http://web-dev.hatenablog.com/entry/hardware/pc/microsoft-surface-pro
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812318496937

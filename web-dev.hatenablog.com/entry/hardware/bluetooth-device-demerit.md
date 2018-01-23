@@ -1,13 +1,13 @@
 ---
-Title: 周辺機器：Bluetoothのデメリット
+Title: PC周辺機器：Bluetoothのデメリット
 Category:
-- etc
+- ハード
 Date: 2017-09-01T08:53:36+09:00
 URL: http://web-dev.hatenablog.com/entry/hardware/bluetooth-device-demerit
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812293879273
 ---
 
-最近 Bluetooth の周辺機器（キーボードとイヤホン）を買ったのですが、USBキーボードと有線イヤホンを捨てられないことに気づいてきました。
+最近 Bluetooth の PC周辺機器（キーボードとイヤホン）を買ったのですが、USBキーボードと有線イヤホンを捨てられないことに気づいてきました。
 
 これから、Bluetoothのデメリットをまとめていこうと思います。
 

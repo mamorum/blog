@@ -1,7 +1,7 @@
 ---
 Title: SpringBoot：View のロール判定
 Category:
-- SpringBoot
+- Spring
 Date: 2015-06-06T00:30:00+09:00
 URL: http://web-dev.hatenablog.com/entry/spring-boot/security/role-judgment-in-view
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179340970

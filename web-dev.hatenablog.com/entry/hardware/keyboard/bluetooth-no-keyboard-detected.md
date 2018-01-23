@@ -1,7 +1,7 @@
 ---
 Title: Bluetoothキーボード：No Keyboard Detected
 Category:
-- etc
+- ハード
 Date: 2017-08-24T09:00:00+09:00
 URL: http://web-dev.hatenablog.com/entry/hardware/keyboard/bluetooth-no-keyboard-detected
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812292743659

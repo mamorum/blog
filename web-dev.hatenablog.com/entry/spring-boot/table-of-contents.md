@@ -1,7 +1,7 @@
 ---
 Title: SpringBoot：記事の一覧
 Category:
-- SpringBoot
+- Spring
 Date: 2017-06-18T13:49:50+09:00
 URL: http://web-dev.hatenablog.com/entry/spring-boot/table-of-contents
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812271333405

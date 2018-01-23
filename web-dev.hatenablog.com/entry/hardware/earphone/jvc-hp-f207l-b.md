@@ -1,7 +1,7 @@
 ---
 Title: JVC HP-F207L-B：有線オープン型イヤホン
 Category:
-- etc
+- ハード
 Date: 2017-08-30T08:45:34+09:00
 URL: http://web-dev.hatenablog.com/entry/hardware/earphone/jvc-hp-f207l-b
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812293303989

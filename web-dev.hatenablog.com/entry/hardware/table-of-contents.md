@@ -1,7 +1,7 @@
 ---
-Title: PC周辺機器：目次
+Title: PC関連：目次
 Category:
-- etc
+- ハード
 Date: 2017-09-10T10:30:00+09:00
 URL: http://web-dev.hatenablog.com/entry/hardware/table-of-contents
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812296955455

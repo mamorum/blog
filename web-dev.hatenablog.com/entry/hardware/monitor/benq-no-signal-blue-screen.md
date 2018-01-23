@@ -1,7 +1,7 @@
 ---
 Title: BenQモニタ：信号なし青画面
 Category:
-- etc
+- ハード
 Date: 2017-12-22T09:50:00+09:00
 URL: http://web-dev.hatenablog.com/entry/hardware/monitor/benq-no-signal-blue-screen
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812276580994

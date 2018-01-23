@@ -1,7 +1,7 @@
 ---
 Title: SpringBoot：MongoDBにアクセス
 Category:
-- SpringBoot
+- Spring
 Date: 2017-02-26T16:48:00+09:00
 URL: http://web-dev.hatenablog.com/entry/spring-boot/intro/mongodb
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179109191

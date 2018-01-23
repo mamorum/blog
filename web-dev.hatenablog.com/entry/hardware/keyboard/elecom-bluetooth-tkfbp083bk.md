@@ -1,7 +1,7 @@
 ---
 Title: Elecom TK-FBP083BK：Bluetoothキーボード
 Category:
-- etc
+- ハード
 Date: 2017-08-27T10:23:57+09:00
 URL: http://web-dev.hatenablog.com/entry/hardware/keyboard/elecom-bluetooth-tkfbp083bk
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812292432459
@@ -26,9 +26,9 @@ Elecom の Bluetoothキーボード「TK-FBP083BK」を購入して使ってみ�
 
 ## 2. 気になる点
 ### 2.1. 接続がすぐ切れる
-ネット閲覧、動画視聴などでよく接続が切れます。１０分くらい使わないと切れるような感じがします。
+１０分くらい使わないと、接続が切れるような感じがします。動画やネットを見てると、よく接続が切れました。
 
-Bluetooth 設定で「コンピューターでこのデバイスの電源をオフにできる」はオフにしているので、ＰＣ側から切っているわけではなさそうです。
+Bluetooth 設定で「コンピューターでこのデバイスの電源をオフにできる」はオフにしても接続が切れます。キーボード側から接続を切っている感じがします。
 
 ### 2.2. BIOS で USB キーボードが必要
 BIOS のタイミングだと Bluetooth 使えないことが多く、USB 等のキーボードが必要になることがあります。運が悪いとＰＣ起動時に「No Keyboard Detected」というエラー画面が表示されることもあります。

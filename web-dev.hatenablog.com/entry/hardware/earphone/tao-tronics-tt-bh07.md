@@ -1,7 +1,7 @@
 ---
 Title: TaoTronics TT-BH07：Bluetoothイヤホン
 Category:
-- etc
+- ハード
 Date: 2017-08-25T09:24:00+09:00
 URL: http://web-dev.hatenablog.com/entry/hardware/earphone/tao-tronics-tt-bh07
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812291765891

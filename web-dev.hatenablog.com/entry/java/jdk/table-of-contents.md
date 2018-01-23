@@ -10,23 +10,23 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10
 JDK の記事（リンク）を、一覧形式でまとめています。JDK の概要、インストール手順、環境変数の設定手順、使用例、などの記事があります。
 
 
-## 1. Windows にインストール
-### 1.1. Win10
+## Windows にインストール
+### Win10
 - [JDK9 のインストール](/entry/java/jdk/9/windows10-install)
 - [JDK8 のインストール](/entry/java/jdk/8/windows10-install)
 - [Win10 の環境変数設定（JDK9 と JDK8 で共通）](/entry/java/jdk/8/windows10-env-variables)
 
-### 1.2. Win7
+### Win7
 - [JDK8 のインストール](/entry/java/jdk/windows-install)
 - [Win7 の環境変数設定](/entry/java/jdk/windows-variables)
 
 
-## 2. Linux にインストール
+## Linux にインストール
 - [JDK8 を Ubuntu14 にインストール](/entry/java/jdk/ubuntu-install)
 - [JDK8 を CentOS にインストール](/entry/java/jdk/centos-install)
 
 
-## 3. JDK や環境変数について
+## JDK や環境変数について
 - [JDKの概要](/entry/java/jdk/overview)
 - [変数・環境変数の解説](/entry/java/jdk/variables)
 - [JAVA_HOME・Pathの設定理由](/entry/java/jdk/java-home-path)

@@ -1,7 +1,7 @@
 ---
 Title: Elecom TK-FCP082BK：USB有線キーボード
 Category:
-- etc
+- ハード
 Date: 2017-08-29T08:31:35+09:00
 URL: http://web-dev.hatenablog.com/entry/hardware/keyboard/elecom-usb-wired-tkfcp082bk
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812292995193

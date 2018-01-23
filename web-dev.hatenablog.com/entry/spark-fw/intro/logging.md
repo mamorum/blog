@@ -1,7 +1,7 @@
 ---
 Title: Spark FW：ログ出力
 Category:
-- SparkFW
+- Spark
 Date: 2017-04-12T11:06:42+09:00
 URL: http://web-dev.hatenablog.com/entry/spark-fw/intro/logging
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687236396030

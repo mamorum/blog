@@ -1,7 +1,7 @@
 ---
 Title: SpringBoot：Basic認証の外部サービスに接続
 Category:
-- SpringBoot
+- Spring
 Date: 2016-07-12T15:41:00+09:00
 URL: http://web-dev.hatenablog.com/entry/spring-boot/resttemplate-basic-auth
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178793756

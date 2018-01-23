@@ -1,7 +1,7 @@
 ---
 Title: Transcend の TLC SSD に交換（TS240GSSD220S）
 Category:
-- etc
+- ハード
 Date: 2017-11-17T06:30:00+09:00
 URL: http://web-dev.hatenablog.com/entry/hardware/ssd/transcend-tlc-ts240gssd220s
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812318203201

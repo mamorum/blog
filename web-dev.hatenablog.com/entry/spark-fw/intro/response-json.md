@@ -1,7 +1,7 @@
 ---
 Title: Spark FW：JSONを返す
 Category:
-- SparkFW
+- Spark
 Date: 2017-04-19T11:10:24+09:00
 URL: http://web-dev.hatenablog.com/entry/spark-fw/intro/response-json
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687238002871
