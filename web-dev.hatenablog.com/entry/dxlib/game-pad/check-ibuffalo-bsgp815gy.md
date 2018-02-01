@@ -7,7 +7,7 @@ URL: http://web-dev.hatenablog.com/entry/dxlib/game-pad/check-ibuffalo-bsgp815gy
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812341525037
 ---
 
-DXライブラリの関数 `GetJoypadInputState` を使って、iBUFFALOゲームパッド BSGP815GY の入力値（入力状態）を確認したのでまとめていきます。
+[DXライブラリ](http://dxlib.o.oo7.jp/) の [関数 GetJoypadInputState](http://dxlib.o.oo7.jp/function/dxfunc_input.html) を使って、iBUFFALOゲームパッド BSGP815GY の入力値（入力状態）を確認したのでまとめていきます。
 
 
 ゲームパッドの情報はこちら。
@@ -64,16 +64,16 @@ if (key & PAD_INPUT_UP) {
 
 （例）下と左の同時押し -> 戻り値 3（1 + 2）
 
-下の例だと、左下が押されている場合は 1. と 2.（の両方）を通ります。
+下の例だと、左下が押されている場合は 1 と 2 の両方を通ります。
 
 ```
 if (key & PAD_INPUT_DOWN) {
-  // 1. 下ボタンが押されている
+  // 1.下ボタンが押されている
 } else {
   // 押されていない
 }
 if (key & PAD_INPUT_LEFT) {
-  // 2. 左ボタンが押されている
+  // 2.左ボタンが押されている
 } else {
   // 押されていない
 }
