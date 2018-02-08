@@ -17,7 +17,8 @@ public class EchoSocket {
   }
   //-> クライアントがメッセージを送ってきたときの処理
   @OnMessage public String msg(String msg) {
-    System.out.println("@OnMessage: " + msg);
+    System.out.println("@OnMessage:");
+    System.out.println(msg);
     return msg;
   }
   //-> クライアントが接続を閉じてきたときの処理
