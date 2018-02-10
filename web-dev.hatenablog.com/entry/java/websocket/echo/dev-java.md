@@ -7,12 +7,24 @@ URL: http://web-dev.hatenablog.com/entry/java/websocket/echo/dev-java
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812344377668
 ---
 
-Java の WebSocket で、エコーアプリを作ってみることにしました。エコーアプリは、ブラウザからメッセージを送信して、サーバーがメッセージをそのままクライアントに返すような感じです。
+Java の WebSocket を使って、エコーアプリを作ってみることにしました。
 
-今回は、ソースを保存していくプロジェクトの作成方法と、サーバサイドの Java開発について書いていきます。
+今回は、
+
+1. アプリの概要
+2. プロジェクトの作成
+3. サーバサイドの Java開発
+
+について書いていきます。
 
 
-## 1. プロジェクトの作成
+## 1. アプリの概要
+これから作っていくアプリは、ブラウザからメッセージを送信して、サーバーがメッセージをそのままクライアントに返すような感じです。
+
+画面のイメージは、[こちら](/entry/java/websocket/echo/dev-ui) に掲載しています。
+
+
+## 2. プロジェクトの作成
 Maven プロジェクトとして、以下のディレクトリ階層を作成します。
 
 ```
@@ -67,7 +79,7 @@ ws-echo
 組込みJetty でも動かせるように、依存性に `javax-websocket-server-impl` を追加しています。Tomcat にも配備したいので、パッケージは `war` にしています。依存性のスコープは `provided` で、`war` に含めないようにしています。
 
 
-## 2. Java資源の作成
+## 3. Java資源の作成
 `javax.websocket.*` を使って、サーバサイドのプログラムを作成します。
 
 `ws-echo/src/main/java/sample/ws/echo/EchoSocket.java`
@@ -92,7 +104,8 @@ public class EchoSocket {
   }
   //-> クライアントがメッセージを送ってきたときの処理
   @OnMessage public String msg(String msg) {
-    System.out.println("@OnMessage: " + msg);
+    System.out.println("@OnMessage:");
+    System.out.println(msg);
     return msg;
   }
   //-> クライアントが接続を閉じてきたときの処理
@@ -111,5 +124,6 @@ public class EchoSocket {
 
 
 ## 次回
-次回は、エコーアプリの画面（クライアントサイド）を、HTML や JavaScript を使って実装していこうと思います。
+次は、エコーアプリの画面（クライアントサイド）を、HTML や JavaScript を使って実装していこうと思います。
 
+次の記事：[エコーアプリのUI開発](/entry/java/websocket/echo/dev-ui)
