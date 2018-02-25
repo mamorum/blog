@@ -5,7 +5,6 @@ Category:
 Date: 2018-02-15T07:00:00+09:00
 URL: http://web-dev.hatenablog.com/entry/java/websocket/echo/deploy-tomcat
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17391345971615018026
-Draft: true
 ---
 
 Java の WebSocket を使ったエコーアプリを、Tomcat に配備して起動してみようと思います。アプリの資源は、以下の記事で準備してきました。

@@ -1,9 +1,9 @@
 ---
 Title: Jenkins：SSH plugin のエラー対応
 Category:
-- etc
+- 環境
 Date: 2016-04-09T13:15:00+09:00
-URL: http://web-dev.hatenablog.com/entry/etc/jenkins/error-ssh-plugin
+URL: http://web-dev.hatenablog.com/entry/env/jenkins/error-ssh-plugin
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178929944
 ---
 
@@ -15,7 +15,7 @@ Jenkins の SSH plugin を使ったところ、ビルド実行時にエラーが
 
 
 ## エラー内容
-ビルドを実行すると、終了しませんでした。Jenkins のビルド履歴（下の画像）で、ずっと青丸が点滅していました。
+実行したビルドが終了しませんでした。Jenkins のビルド履歴（下の画像）で、ずっと青丸が点滅していました。
 
 ![build-history](http://cdn-ak.f.st-hatena.com/images/fotolife/m/mamorums/20160813/20160813162957.png)
 

@@ -5,7 +5,6 @@ Category:
 Date: 2018-02-19T07:30:00+09:00
 URL: http://web-dev.hatenablog.com/entry/java/websocket/echo/check
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17391345971615018273
-Draft: true
 ---
 
 Java の WebSocket を使って開発したエコーアプリの動作確認をしていきます。エコーアプリの資源と起動方法は、以下の記事にまとめています。

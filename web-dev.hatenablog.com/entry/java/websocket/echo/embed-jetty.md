@@ -5,7 +5,6 @@ Category:
 Date: 2018-02-13T07:30:00+09:00
 URL: http://web-dev.hatenablog.com/entry/java/websocket/echo/embed-jetty
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17391345971615017656
-Draft: true
 ---
 
 Java の WebSocket を使ったエコーアプリを、組込み Jetty で起動してみようと思います。アプリの資源は、以下の記事で準備してきました。

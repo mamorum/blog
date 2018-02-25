@@ -2,7 +2,7 @@
 Title: JS：クロスドメインとYQL
 Category:
 - JS
-Date: 2017-08-26T10:25:54+09:00
+Date: 2018-02-10T15:25:54+09:00
 URL: http://web-dev.hatenablog.com/entry/js/cross-domain-and-yql
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812271654568
 ---
@@ -10,8 +10,8 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/85
 Webアプリ（ブラウザ）のクロスドメイン問題と、その回避方法（1. レスポンスヘッダ、2. [YQL（Yahoo Query Language）](https://developer.yahoo.com/yql/) ）をまとめていこうかと思います。
 
 
-## 注意事項（2017.08.26 追記）
-YQL で Yahoo ニュースのフィードが取得できなくなってしまいました。詳細は以下の記事を参考にして頂けると嬉しいです。
+## 追記（2017.08.26）
+2017年の8/24～8/30頃、YQL でフィードが取得できなくなったことがありました。もう解決しましたが、詳細は以下の記事を参考にして頂けると嬉しいです。
 
 [YQLエラー：フィードが取得できない](/entry/js/yql-returns-no-feed)
 
@@ -85,9 +85,11 @@ Ajax で取得した RSS を、テキストエリアに表示します。
 
 
 ## サンプルアプリ
-回避方法1 と 2 を使ったフィードリーダー（自分用）です。
+`Access-Control-Allow-Origin: *` の RSS を取得するフィードリーダー（自分用）です。
 
-[Feed Paper](http://mamorum.github.io/feed-paper/public/)
+[Feed Paper](http://mamorum.github.io/feed-paper/src/main/resources/public/)
+
+YQL を使うのはやめてしまいました。
 
 ソースは GitHub にあります。
 
