@@ -3,7 +3,7 @@ Title: GitHub Desktop で Sync できないエラー
 Category:
 - Git
 Date: 2017-11-07T16:20:39+09:00
-URL: http://web-dev.hatenablog.com/entry/etc/github/github-desktop-sync-error
+URL: http://web-dev.hatenablog.com/entry/env/github/github-desktop-sync-error
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812315334818
 ---
 
