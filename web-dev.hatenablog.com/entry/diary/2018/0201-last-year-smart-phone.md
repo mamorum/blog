@@ -1,3 +1,12 @@
+---
+Title: 2017年のスマホ振り返り
+Category:
+- 日記
+Date: 2018-02-01T10:30:00+09:00
+URL: http://web-dev.hatenablog.com/entry/diary/2018/0201-last-year-smart-phone
+EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17391345971625182802
+---
+
 Yahoo ニュースで次の記事を見つけました。
 
 [「機能」と「売れ筋」に変化　新たなトレンドが生まれた2017年のスマートフォン](https://headlines.yahoo.co.jp/hl?a=20171230-00000010-zdn_m-prod)

@@ -5,7 +5,6 @@ Category:
 Date: 2018-03-10T08:00:00+09:00
 URL: http://web-dev.hatenablog.com/entry/electron/window/save-and-set-bounds
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17391345971623223655
-Draft: true
 ---
 
 Electron アプリについて、画面サイズの保存方法と設定方法を書いていきます。

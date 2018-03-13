@@ -2,10 +2,9 @@
 Title: Electron：画面のちらつき防止
 Category:
 - Electron
-Date: 2018-03-10T06:30:00+09:00
+Date: 2018-03-12T06:30:00+09:00
 URL: http://web-dev.hatenablog.com/entry/electron/window/stop-visual-flash
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17391345971623234223
-Draft: true
 ---
 
 Electron で背景色が暗いアプリを作っていたら、アプリ起動時と画面遷移の時に画面のちらつきが発生しました。これから、画面のちらつきを抑える方法を書いていきます。
