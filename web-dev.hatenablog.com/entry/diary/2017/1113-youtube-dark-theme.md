@@ -3,8 +3,8 @@ Title: YouTube のダークテーマが良い感じです
 Category:
 - 日記
 Date: 2017-11-13T06:30:00+09:00
-URL: http://web-dev.hatenablog.com/entry/diary/web/youtube-dark-theme
-EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812316065263
+URL: http://web-dev.hatenablog.com/entry/diary/2017/1113-youtube-dark-theme
+EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17391345971625820311
 ---
 
 YouTube のデザインがリニューアルされてから、新しいデザイン（機能？）の「ダークテーマ」を使ってみました。カッコよくて目に優しい感じなので、ずっとダークテーマを使っています。
@@ -27,3 +27,10 @@ PCのブラウザでYouTubeを開いたら、アカウントのアイコン（�
 
 [f:id:mamorums:20171109154442p:plain]
 
+
+## 気になる点
+YouTube のダークテーマに限らず、暗い画面から明るい画面（背景色が白）に飛ぶと、ちょっとしたチラつきがあるので気になります。
+
+自分のブログとかも背景色を黒くしたいと思うことあるんですが、やっぱり他のサービスとかリンク先とかが明るい背景色なので悩ましいところです。
+
+YouTube はユーザが選択できるのでスゴイなぁと思います。
