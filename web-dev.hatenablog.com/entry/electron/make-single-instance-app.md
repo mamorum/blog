@@ -5,7 +5,6 @@ Category:
 Date: 2018-03-14T07:30:00+09:00
 URL: http://web-dev.hatenablog.com/entry/electron/make-single-instance-app
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17391345971625180868
-Draft: true
 ---
 
 Electron の API `app.makeSingleInstance(callback)` を使うと、アプリの二重起動を防げるみたいです。これからその方法について書いていきます。
