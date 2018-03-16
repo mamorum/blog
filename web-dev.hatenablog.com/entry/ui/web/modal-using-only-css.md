@@ -3,9 +3,8 @@ Title: CSSだけでモーダル表示
 Category:
 - UI
 Date: 2018-03-16T07:30:00+09:00
-URL: http://web-dev.hatenablog.com/entry/ui/web/modal-using-only-css
+URL: https://web-dev.hatenablog.com/entry/ui/web/modal-using-only-css
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17391345971625789295
-Draft: true
 ---
 
 JavaScript や CSSフレームワークを使わずに、モーダルを表示したいときがありました。色々と調査していたら、CSS（と HTML）だけでモーダルを表示できる [Pure Css Modal](https://github.com/jorgechavz/pure-css-modal) というものを見つけました。
