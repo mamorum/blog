@@ -2,8 +2,9 @@
 Title: Java9：Packageクラスの変更点
 Category:
 - Java
+- Poml
 Date: 2017-12-02T06:30:00+09:00
-URL: http://web-dev.hatenablog.com/entry/java/jdk/9/changes/package-class-get-version
+URL: https://web-dev.hatenablog.com/entry/java/jdk/9/changes/package-class-get-version
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812321649086
 ---
 

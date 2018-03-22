@@ -5,7 +5,6 @@ Category:
 Date: 2018-03-21T07:00:00+09:00
 URL: https://web-dev.hatenablog.com/entry/diary/2018/0321-spam-comment-on-hatenablog
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17391345971626172791
-Draft: true
 ---
 
 このブログの記事に、スパムのようなコメントが数回書かれていたので、そのときのことをまとめてみようと思います。

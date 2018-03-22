@@ -3,9 +3,8 @@ Title: Electron環境かどうかの確認方法
 Category:
 - Electron
 Date: 2018-03-19T07:30:00+09:00
-URL: http://web-dev.hatenablog.com/entry/electron/check-electron-env-or-not
+URL: https://web-dev.hatenablog.com/entry/electron/check-electron-env-or-not
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17391345971625812102
-Draft: true
 ---
 
 Electron を使い始めたころ、Electron 用の資源（HTML, JS）を 純粋なWebアプリでも使いたいと思ったことがありました。当初は環境に依存しないように書いてたんですが、徐々に難しくなって、JavaScript で環境を判別して分岐させるようにしました。
