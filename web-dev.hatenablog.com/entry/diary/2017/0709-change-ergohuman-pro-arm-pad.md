@@ -2,9 +2,9 @@
 Title: ErgohumanProのアームパッド交換
 Category:
 - 日記
-Date: 2017-07-09T14:37:00+09:00
-URL: http://web-dev.hatenablog.com/entry/diary/change-ergohuman-pro-arm-pad
-EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812293592768
+Date: 2017-07-09T09:14:50+09:00
+URL: https://web-dev.hatenablog.com/entry/diary/2017/0709-change-ergohuman-pro-arm-pad
+EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17391345971631592539
 ---
 
 Ergohuman Pro という椅子のアームパッドが壊れたので、部品を購入して交換してみました。
