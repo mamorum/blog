@@ -5,7 +5,6 @@ Category:
 Date: 2018-04-03T06:30:00+09:00
 URL: https://web-dev.hatenablog.com/entry/jetty/embed/stop-jvm-and-server
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17391345971628478754
-Draft: true
 ---
 
 組込み Jetty と JVM を停止する方法を書いていきます。今回のコードは、サーバー上で動いているプログラム（サーブレットなど）から実行するものになります。

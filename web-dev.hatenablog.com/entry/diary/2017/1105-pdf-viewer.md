@@ -1,10 +1,10 @@
 ---
 Title: おすすめのPDFビューワー
 Category:
-- etc
-Date: 2017-11-05T09:31:37+09:00
-URL: http://web-dev.hatenablog.com/entry/software/pdf-viewer
-EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812314572614
+- 日記
+Date: 2017-11-05T09:31:00+09:00
+URL: https://web-dev.hatenablog.com/entry/diary/2017/1105-pdf-viewer
+EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17391345971633574326
 ---
 
 自分が個人的に使っていて便利だと思う PDFビューワーや、使ったことのあるビューワーについて書いていこうと思います。
