@@ -6,7 +6,6 @@ Category:
 Date: 2018-04-12T00:00:00+09:00
 URL: https://web-dev.hatenablog.com/entry/diary/2018/0410-about-java-client-roadmap
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17391345971633563297
-Draft: true
 ---
 
 先日、[aoe-tkさん](http://aoe-tk.hatenablog.com/about) の以下の記事を読拝見させて頂きました。
