@@ -1,9 +1,9 @@
 ---
 Title: GitHub：ユーザ invalid-email-address のコミット
 Category:
-- Git
+- 環境
 Date: 2016-09-30T13:04:31+09:00
-URL: http://web-dev.hatenablog.com/entry/env/github/invalid-email-address-committed
+URL: https://web-dev.hatenablog.com/entry/env/github/invalid-email-address-committed
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687187072463
 ---
 

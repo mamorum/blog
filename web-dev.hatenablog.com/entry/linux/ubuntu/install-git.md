@@ -1,9 +1,9 @@
 ---
 Title: Git：Ubuntu14にインストール（apt-get）
 Category:
-- Git
+- 環境
 Date: 2017-11-10T15:00:00+09:00
-URL: http://web-dev.hatenablog.com/entry/linux/ubuntu/install-git
+URL: https://web-dev.hatenablog.com/entry/linux/ubuntu/install-git
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812276929313
 ---
 
