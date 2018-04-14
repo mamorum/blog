@@ -1,9 +1,9 @@
 ---
 Title: Spark FW：HelloWorldを返す
 Category:
-- Spark
+- Java
 Date: 2017-04-11T13:40:39+09:00
-URL: http://web-dev.hatenablog.com/entry/spark-fw/intro/hello-world
+URL: https://web-dev.hatenablog.com/entry/java/framework/spark/intro/hello-world
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687236217788
 ---
 

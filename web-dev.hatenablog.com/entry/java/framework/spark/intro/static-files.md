@@ -1,12 +1,11 @@
 ---
 Title: Spark FW：静的コンテンツを返す
 Category:
-- Spark
+- Java
 Date: 2017-04-20T12:35:34+09:00
-URL: http://web-dev.hatenablog.com/entry/spark-fw/intro/static-files
+URL: https://web-dev.hatenablog.com/entry/java/framework/spark/intro/static-files
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687238297447
 ---
-
 
 Java の [Spark Framework](http://sparkjava.com/) を使って、サーバサイドから静的コンテンツを返してみます。
 

@@ -1,9 +1,9 @@
 ---
 Title: Spark FW：テンプレートエンジンを使う
 Category:
-- Spark
+- Java
 Date: 2017-04-23T11:40:40+09:00
-URL: http://web-dev.hatenablog.com/entry/spark-fw/intro/mustache-template
+URL: https://web-dev.hatenablog.com/entry/java/framework/spark/intro/mustache-template
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687239057140
 ---
 
