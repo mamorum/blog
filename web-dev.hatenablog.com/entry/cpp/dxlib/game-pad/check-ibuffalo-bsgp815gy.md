@@ -1,9 +1,9 @@
 ---
 Title: DxLib：iBUFFALOゲームパッドの入力値
 Category:
-- DxLib
+- C/C++
 Date: 2018-01-28T12:50:22+09:00
-URL: http://web-dev.hatenablog.com/entry/dxlib/game-pad/check-ibuffalo-bsgp815gy
+URL: https://web-dev.hatenablog.com/entry/cpp/dxlib/game-pad/check-ibuffalo-bsgp815gy
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812341525037
 ---
 
