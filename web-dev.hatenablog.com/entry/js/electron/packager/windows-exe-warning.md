@@ -1,9 +1,9 @@
 ---
 Title: Electron：アプリ実行時の警告（windows, exe）
 Category:
-- Electron
+- JS
 Date: 2018-03-06T13:57:16+09:00
-URL: http://web-dev.hatenablog.com/entry/electron/packager/windows-exe-warning
+URL: https://web-dev.hatenablog.com/entry/js/electron/packager/windows-exe-warning
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17391345971622555977
 ---
 

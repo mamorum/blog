@@ -1,9 +1,9 @@
 ---
 Title: Electron：アプリの実行とexe作成
 Category:
-- Electron
+- JS
 Date: 2018-02-27T10:49:42+09:00
-URL: http://web-dev.hatenablog.com/entry/electron/run-app-and-create-exe
+URL: https://web-dev.hatenablog.com/entry/js/electron/run-app-and-create-exe
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17391345971620120212
 ---
 

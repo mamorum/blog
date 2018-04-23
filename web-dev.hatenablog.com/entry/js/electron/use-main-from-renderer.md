@@ -1,9 +1,9 @@
 ---
 Title: Electron：レンダラーからメインのモジュールを使う
 Category:
-- Electron
+- JS
 Date: 2018-04-10T06:30:00+09:00
-URL: https://web-dev.hatenablog.com/entry/electron/use-main-from-renderer
+URL: https://web-dev.hatenablog.com/entry/js/electron/use-main-from-renderer
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17391345971631620408
 ---
 

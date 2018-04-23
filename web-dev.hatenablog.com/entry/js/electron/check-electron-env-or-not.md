@@ -1,9 +1,9 @@
 ---
 Title: Electron環境かどうかの確認方法
 Category:
-- Electron
+- JS
 Date: 2018-03-19T07:30:00+09:00
-URL: https://web-dev.hatenablog.com/entry/electron/check-electron-env-or-not
+URL: https://web-dev.hatenablog.com/entry/js/electron/check-electron-env-or-not
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17391345971625812102
 ---
 
