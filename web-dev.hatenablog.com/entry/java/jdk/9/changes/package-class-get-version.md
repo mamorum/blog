@@ -2,7 +2,6 @@
 Title: Java9：Packageクラスの変更点
 Category:
 - Java
-- Poml
 Date: 2017-12-02T06:30:00+09:00
 URL: https://web-dev.hatenablog.com/entry/java/jdk/9/changes/package-class-get-version
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812321649086
@@ -41,7 +40,6 @@ System.out.println(
 Java8 のランタイムで実行すると、マニフェストのバージョンが返ってきてました。
 
 ```
->poml -v
 1.1.0
 ```
 
@@ -50,7 +48,6 @@ Java8 のランタイムで実行すると、マニフェストのバージョ�
 Java9 だと `null` が返ってくるようになってました。
 
 ```
->poml -v
 null
 ```
 

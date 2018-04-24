@@ -3,7 +3,7 @@ Title: Poml：Maven pom.xml の簡略記法
 Category:
 - Poml
 Date: 2018-01-09T12:07:00+09:00
-URL: http://web-dev.hatenablog.com/entry/poml/readme
+URL: https://web-dev.hatenablog.com/entry/oss/poml/readme
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812335360855
 ---
 
