@@ -3,7 +3,7 @@ Title: C言語：関数の定義とプロトタイプ宣言
 Category:
 - C/C++
 Date: 2018-01-04T12:57:02+09:00
-URL: http://web-dev.hatenablog.com/entry/c/lang/function-and-prototype
+URL: https://web-dev.hatenablog.com/entry/cpp/lang/function-and-prototype
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812333145036
 ---
 

@@ -3,7 +3,7 @@ Title: C言語：ポインタ変数の値にアクセス（アドレスの先を
 Category:
 - C/C++
 Date: 2018-01-31T11:35:47+09:00
-URL: http://web-dev.hatenablog.com/entry/c/lang/access-pointer-val
+URL: https://web-dev.hatenablog.com/entry/cpp/lang/access-pointer-val
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812342433544
 ---
 

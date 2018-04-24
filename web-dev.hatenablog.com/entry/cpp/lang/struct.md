@@ -3,7 +3,7 @@ Title: C言語：構造体（概要、値渡し・参照渡し）
 Category:
 - C/C++
 Date: 2018-01-23T14:26:43+09:00
-URL: http://web-dev.hatenablog.com/entry/c/lang/struct
+URL: https://web-dev.hatenablog.com/entry/cpp/lang/struct
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812340185530
 ---
 
