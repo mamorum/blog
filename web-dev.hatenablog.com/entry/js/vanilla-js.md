@@ -1,9 +1,9 @@
 ---
 Title: Vanilla.js 入門
 Category:
-- JS
+- JS/CSS/HTML
 Date: 2017-01-18T19:19:49+09:00
-URL: http://web-dev.hatenablog.com/entry/js/vanilla-js
+URL: https://web-dev.hatenablog.com/entry/js/vanilla-js
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687207755545
 ---
 

@@ -1,9 +1,9 @@
 ---
 Title: JS：FetchAPIでJSONを受信
 Category:
-- JS
+- JS/CSS/HTML
 Date: 2017-12-31T18:19:05+09:00
-URL: http://web-dev.hatenablog.com/entry/js/fetch-api-get
+URL: https://web-dev.hatenablog.com/entry/js/fetch-api-get
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812331788710
 ---
 

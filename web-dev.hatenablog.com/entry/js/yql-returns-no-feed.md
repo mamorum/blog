@@ -1,9 +1,9 @@
 ---
 Title: 解決済：YQLでフィードが取得できない
 Category:
-- JS
+- JS/CSS/HTML
 Date: 2017-09-05T09:40:24+09:00
-URL: http://web-dev.hatenablog.com/entry/js/yql-returns-no-feed
+URL: https://web-dev.hatenablog.com/entry/js/yql-returns-no-feed
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812292069505
 ---
 

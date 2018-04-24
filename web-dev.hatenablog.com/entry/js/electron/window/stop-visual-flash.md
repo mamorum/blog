@@ -1,7 +1,7 @@
 ---
 Title: Electron：画面のちらつき防止
 Category:
-- JS
+- JS/CSS/HTML
 Date: 2018-03-12T06:30:00+09:00
 URL: https://web-dev.hatenablog.com/entry/js/electron/window/stop-visual-flash
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17391345971623234223

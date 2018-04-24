@@ -1,9 +1,9 @@
 ---
 Title: jQuery Plugin：BlockUI（画面のブロック）
 Category:
-- JS
+- JS/CSS/HTML
 Date: 2016-08-07T13:30:00+09:00
-URL: http://web-dev.hatenablog.com/entry/js/jquery/blockui
+URL: https://web-dev.hatenablog.com/entry/js/jquery/blockui
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178878992
 ---
 

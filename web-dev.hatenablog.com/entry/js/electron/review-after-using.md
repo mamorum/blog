@@ -1,11 +1,10 @@
 ---
 Title: Electron：使ってみた感想
 Category:
-- JS
+- JS/CSS/HTML
 Date: 2018-04-24T06:30:00+09:00
 URL: https://web-dev.hatenablog.com/entry/js/electron/review-after-using
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17391345971635844053
-Draft: true
 ---
 
 [Electron](https://electronjs.org/) を使ってみた感想を書いていきます。

@@ -1,9 +1,9 @@
 ---
 Title: gulp： less コンパイルの自動化
 Category:
-- JS
+- JS/CSS/HTML
 Date: 2015-05-22T13:12:47+09:00
-URL: http://web-dev.hatenablog.com/entry/js/node/gulp/auto-compile-less
+URL: https://web-dev.hatenablog.com/entry/js/node/gulp/auto-compile-less
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178759774
 ---
 

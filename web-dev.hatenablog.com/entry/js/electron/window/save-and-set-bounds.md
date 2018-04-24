@@ -1,7 +1,7 @@
 ---
 Title: Electron：ウィンドウサイズの保存と設定
 Category:
-- JS
+- JS/CSS/HTML
 Date: 2018-03-10T08:00:00+09:00
 URL: https://web-dev.hatenablog.com/entry/js/electron/window/save-and-set-bounds
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17391345971623223655

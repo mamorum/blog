@@ -1,9 +1,9 @@
 ---
 Title: gulp：ブラウザのリロード自動化２
 Category:
-- JS
+- JS/CSS/HTML
 Date: 2016-07-13T12:20:00+09:00
-URL: http://web-dev.hatenablog.com/entry/js/node/gulp/reload-browser-2
+URL: https://web-dev.hatenablog.com/entry/js/node/gulp/reload-browser-2
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178919855
 ---
 

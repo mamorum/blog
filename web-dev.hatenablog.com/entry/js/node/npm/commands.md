@@ -1,9 +1,9 @@
 ---
 Title: npm コマンドのメモ
 Category:
-- JS
+- JS/CSS/HTML
 Date: 2016-08-12T09:55:33+09:00
-URL: http://web-dev.hatenablog.com/entry/js/node/npm/commands
+URL: https://web-dev.hatenablog.com/entry/js/node/npm/commands
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178738637
 ---
 

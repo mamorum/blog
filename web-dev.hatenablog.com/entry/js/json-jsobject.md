@@ -1,9 +1,9 @@
 ---
 Title: JSON と JavaScript オブジェクトの違い
 Category:
-- JS
+- JS/CSS/HTML
 Date: 2016-08-03T10:30:00+09:00
-URL: http://web-dev.hatenablog.com/entry/js/json-jsobject
+URL: https://web-dev.hatenablog.com/entry/js/json-jsobject
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178877449
 ---
 
