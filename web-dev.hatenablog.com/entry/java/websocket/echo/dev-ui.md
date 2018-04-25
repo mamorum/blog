@@ -3,21 +3,18 @@ Title: WebSocket：エコーアプリのUI開発
 Category:
 - Java
 Date: 2018-02-08T16:24:56+09:00
-URL: http://web-dev.hatenablog.com/entry/java/websocket/echo/dev-ui
+URL: https://web-dev.hatenablog.com/entry/java/websocket/echo/dev-ui
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17391345971614522346
 ---
 
-[前回](/entry/java/websocket/echo/dev-java) に引き続き、Java の WebSocket でエコーアプリを作っていきます。
-まずは、今回実装する UI のイメージを掲載しておきます。
+[前回](/entry/java/websocket/echo/dev-java) に引き続き、WebSocket のエコーアプリ（サーバサイドは Java）を作っていきます。今回は UI の開発なので、HTML, JavaScript, CSS で実装していきます。
+
+
+※ HTML や JavaScript のファイルは、前回作成したプロジェクト（ディレクトリ階層）に保存します。必要に応じて [前回の記事](/entry/java/websocket/echo/dev-java) を参照して頂けると嬉しいです。
 
 
 ## 画面イメージ
-画面上が文字列を送信する領域で、その下がサーバーエコーを受け取って表示する領域になります。
-
-[f:id:mamorums:20180208162416p:plain]
-
-
-これから、上画面の実装を HTML, JavaScript, CSS で書いていきます。各ファイルは前回作成したプロジェクト（ディレクトリ階層）に保存するので、必要に応じて [前回の記事](/entry/java/websocket/echo/dev-java) も参照して頂ければと思います。
+今回作成する画面のイメージは、[動作確認の記事](/entry/java/websocket/echo/check) に掲載しています。
 
 
 ## 1. HTML
@@ -140,5 +137,7 @@ body {
 
 
 ## 次回
-次回以降は作成したアプリをサーブレットコンテナに配備してみようと思います。組込みJettyで動かす記事と、Tomcat に war を配備して動かす記事を作成する予定です。
+次回以降は、作成したアプリをサーブレットコンテナに配備して動かします。組込みJetty で動かす記事と、Tomcat に war を配備して動かす記事を用意しています。
 
+- [組込みJettyで起動](/entry/java/websocket/echo/embed-jetty)
+- [Tomcatで起動](/entry/java/websocket/echo/deploy-tomcat)

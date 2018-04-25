@@ -3,7 +3,7 @@ Title: WebSocket：エコーアプリの動作確認
 Category:
 - Java
 Date: 2018-02-19T07:30:00+09:00
-URL: http://web-dev.hatenablog.com/entry/java/websocket/echo/check
+URL: https://web-dev.hatenablog.com/entry/java/websocket/echo/check
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17391345971615018273
 ---
 
@@ -16,9 +16,11 @@ Java の WebSocket を使って開発したエコーアプリの動作確認を�
 
 
 ## 画面の表示
-エコーアプリを起動してから、`http://localhost:8080/ws-echo/` にアクセスすると下の画面が開きます。
+エコーアプリを起動してから、ブラウザで `http://localhost:8080/ws-echo/` にアクセスすると下のような画面が開きます。
 
 [f:id:mamorums:20180208162416p:plain]
+
+画面上が入力エリアで、下が表示エリアです。下はサーバに送信して返ってきたメッセージが表示されます。
 
 
 ## エコーの確認

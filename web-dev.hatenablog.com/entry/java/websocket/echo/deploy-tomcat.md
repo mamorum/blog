@@ -3,7 +3,7 @@ Title: WebSocket：Tomcatでエコーアプリを起動
 Category:
 - Java
 Date: 2018-02-15T07:00:00+09:00
-URL: http://web-dev.hatenablog.com/entry/java/websocket/echo/deploy-tomcat
+URL: https://web-dev.hatenablog.com/entry/java/websocket/echo/deploy-tomcat
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17391345971615018026
 ---
 
@@ -35,5 +35,7 @@ Tomcat をインストールしたディレクトリの下に、`webapps` とい
 Tomcat をインストールしたディレクトリの下に、`bin` というディレクトリがあると思います。そのディレクトリの `startup.bat`（Linux や Mac は `startup.sh`）で Tomcat を起動します。
 
 
-## 動作確認
-画面を使った動作確認は、次回の記事にまとめようかと思っています。
+## 次回
+次回は、ブラウザからアプリの動作確認をしようと思います。
+
+次の記事：[エコーアプリの動作確認](/entry/java/websocket/echo/check)

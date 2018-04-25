@@ -3,7 +3,7 @@ Title: WebSocket：組込みJettyでエコーアプリを起動
 Category:
 - Java
 Date: 2018-02-13T07:30:00+09:00
-URL: http://web-dev.hatenablog.com/entry/java/websocket/echo/embed-jetty
+URL: https://web-dev.hatenablog.com/entry/java/websocket/echo/embed-jetty
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17391345971615017656
 ---
 
@@ -62,6 +62,9 @@ Jetty の `WebSocketServerContainerInitializer` を使って、WebSocket が有�
 上のメインクラスを実行するとサーバが起動します。Eclipse 等で実行すると簡単だと思います。
 
 
-## 動作確認
-画面を使った動作確認は、次回の記事にまとめようかと思っています。
+## 次回
+次回は、ブラウザからアプリの動作確認をしようと思います。
+
+次の記事：[エコーアプリの動作確認](/entry/java/websocket/echo/check)
+
 
