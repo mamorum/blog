@@ -1,5 +1,5 @@
 ---
-Title: Git：最新版をUbuntu14にインストール
+Title: Git：Ubuntu14に最新版をインストール
 Category:
 - 環境
 Date: 2017-11-15T06:00:00+09:00
