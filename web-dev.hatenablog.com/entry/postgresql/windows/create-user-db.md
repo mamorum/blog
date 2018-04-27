@@ -3,14 +3,14 @@ Title: PostgreSQL：WindowsでユーザとDBを作成
 Category:
 - DB
 Date: 2016-03-23T13:00:00+09:00
-URL: http://web-dev.hatenablog.com/entry/postgresql/windows/create-user-db
+URL: https://web-dev.hatenablog.com/entry/postgresql/windows/create-user-db
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178954315
 ---
 
-[Windows にインストールした PostgreSQL](/entry/postgres/windows/install) を使って、
+[Windows にインストールした PostgreSQL](/entry/postgresql/windows/install) を使って、
 ユーザとデータベースを作成してみます。
 
-このブログでは、あくまでサンプルとして、ユーザのロール名・パスワード・データベース名を「spring」で統一しています。必要に応じて変更して頂ければ幸いです。
+今回はサンプルとして、ユーザのロール名・パスワード・データベース名を「spring」で統一しています。必要に応じて変更して頂ければ幸いです。
 
 
 ## 手順1. pgAdmin の起動

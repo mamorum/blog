@@ -3,7 +3,7 @@ Title: PostgreSQL：Windowsにインストール
 Category:
 - DB
 Date: 2016-03-23T12:05:00+09:00
-URL: http://web-dev.hatenablog.com/entry/postgresql/windows/install
+URL: https://web-dev.hatenablog.com/entry/postgresql/windows/install
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178953688
 ---
 
@@ -15,7 +15,7 @@ PostgreSQL（9.4 系）を、Windows にインストールする手順を書い�
 
 ![download-page](http://cdn-ak.f.st-hatena.com/images/fotolife/m/mamorums/20160813/20160813194615.png)
 
-リンク先に遷移したら、環境に応じたインストーラのボタン（下画像）を押してダウンロードします。私は「Version 9.4.6 Win x86-64（64bit 用）」をダウンロードしました。
+リンク先に遷移したら、環境に応じたインストーラのボタン（下画像）を押してダウンロードします。自分は「Version 9.4.6 Win x86-64（64bit 用）」をダウンロードしました。
 
 ![installer-page](http://cdn-ak.f.st-hatena.com/images/fotolife/m/mamorums/20160813/20160813194616.png)
 

@@ -3,7 +3,7 @@ Title: SpringBoot入門：FlywayでDBマイグレーション
 Category:
 - Spring
 Date: 2017-03-09T17:17:00+09:00
-URL: http://web-dev.hatenablog.com/entry/spring-boot/intro/flyway
+URL: https://web-dev.hatenablog.com/entry/spring-boot/intro/flyway
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179106994
 ---
 
@@ -92,16 +92,7 @@ create table memo (
 );
 ```
 
-ファイルの命名規約は次の通りです。
-
-```
-V<Version>__<NAME>.sql
-```
-
-- V：アルファベット大文字の V です。
-- <Version\>：数字の 1 や 2_1（アンダースコア区切り）です。SQL ファイルが増えたら、バージョンを上げていきます。
-- __：アンダースコア２つです。<Version\> と <Name\> を区切ります。
-- <Name\>：任意の文字列とされています。
+ファイルの配置場所と命名規約は、記事「[FlywayでDBマイグレーション](/entry/java/db-access/lib/flyway-quick-start)」にも書いてあります。
 
 
 ## 手順3. 設定ファイルの作成
@@ -159,15 +150,6 @@ spring=> select relname as table_name from pg_stat_user_tables;
  schema_version
 (2 行)
 ```
-
-## 補足1. 次のマイグレーション
-２回目以降は、命名規約に従って SQLファイルを用意します。例えば、`V2__Alter.sql`, `V3__Create.sql`, ... といったような感じです。
-
-
-## 補足2. Flyway の仕様
-SQLファイル は、同じスキーマで１回だけ実行されます。Flyway が、スキーマに管理テーブル「`schema_version`」を作成してコントロールしてくれます。
-
-管理テーブルがなかったり（違う環境・違うスキーマ）、管理テーブルを削除したりすると、全ての SQLファイルが実行されます。
 
 
 ## ソースコード

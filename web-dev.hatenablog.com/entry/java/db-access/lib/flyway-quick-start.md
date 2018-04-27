@@ -3,7 +3,7 @@ Title: Java：FlywayでDBマイグレーション
 Category:
 - Java
 Date: 2017-12-12T06:30:00+09:00
-URL: http://web-dev.hatenablog.com/entry/java/db-access/lib/flyway-quick-start
+URL: https://web-dev.hatenablog.com/entry/java/db-access/lib/flyway-quick-start
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812323860510
 ---
 
@@ -47,7 +47,24 @@ create table person (
 );
 ```
 
-ファイルの配置場所と名前は、[Flyway の規約](https://flywaydb.org/documentation/migration/sql) に従っています。
+ファイルの配置場所と名前は、[Flyway の規約](https://flywaydb.org/documentation/migration/sql) に従っています。ファイルの命名規約は以下の通りです。
+
+```
+V<Version>__<NAME>.sql
+```
+
+- V：アルファベット大文字の V です。
+- <Version\>：数字の 1 や 2_1（アンダースコア区切り）です。SQL ファイルが増えたら、バージョンを上げていきます。
+- __：アンダースコア２つです。<Version\> と <Name\> を区切ります。
+- <Name\>：任意の文字列とされています。
+
+### 補足1. 次のマイグレーション
+２回目以降は、命名規約に従って SQLファイルを用意します。例えば、`V2__Alter.sql`, `V3__Create.sql`, ... といったような感じです。
+
+### 補足2. Flyway の仕様
+SQLファイル は、同じスキーマで１回だけ実行されます。Flyway が、スキーマに管理テーブル「`schema_version`」を作成してコントロールしてくれます。
+
+管理テーブルがなかったり（違う環境・違うスキーマ）、管理テーブルを削除したりすると、全ての SQLファイルが実行されます。
 
 
 ## 手順3. Mainクラスの作成
