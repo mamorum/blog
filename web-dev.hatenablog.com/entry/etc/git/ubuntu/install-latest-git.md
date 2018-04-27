@@ -1,7 +1,7 @@
 ---
 Title: Git：Ubuntu14に最新版をインストール
 Category:
-- 環境
+- etc
 Date: 2017-11-15T06:00:00+09:00
 URL: https://web-dev.hatenablog.com/entry/etc/git/ubuntu/install-latest-git
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812316416575

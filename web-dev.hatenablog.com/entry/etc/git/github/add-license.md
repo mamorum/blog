@@ -1,5 +1,5 @@
 ---
-Title: GitHub：ライセンス情報を追加する
+Title: GitHub：リポジトリのライセンスを設定
 Category:
 - etc
 Date: 2016-10-04T17:31:01+09:00
