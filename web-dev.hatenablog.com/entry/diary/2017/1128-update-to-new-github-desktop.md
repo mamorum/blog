@@ -1,9 +1,9 @@
 ---
-Title: 新GitHub Desktop（Electron）に更新
+Title: 新GitHub Desktopに更新（Electron版）
 Category:
-- 環境
+- 日記
 Date: 2017-11-28T06:30:00+09:00
-URL: https://web-dev.hatenablog.com/entry/env/git/new-github-desktop
+URL: https://web-dev.hatenablog.com/entry/diary/2017/1128-update-to-new-github-desktop
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812319994671
 ---
 
