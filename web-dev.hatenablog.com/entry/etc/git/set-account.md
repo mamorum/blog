@@ -1,9 +1,9 @@
 ---
 Title: Git：アカウント設定（初回利用時）
 Category:
-- 環境
+- etc
 Date: 2017-11-10T19:52:27+09:00
-URL: https://web-dev.hatenablog.com/entry/env/git/set-account
+URL: https://web-dev.hatenablog.com/entry/etc/git/set-account
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812316516680
 ---
 

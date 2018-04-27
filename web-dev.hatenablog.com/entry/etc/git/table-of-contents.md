@@ -1,9 +1,9 @@
 ---
 Title: Git：記事の一覧
 Category:
-- 環境
+- etc
 Date: 2017-11-16T07:00:00+09:00
-URL: https://web-dev.hatenablog.com/entry/env/git/table-of-contents
+URL: https://web-dev.hatenablog.com/entry/etc/git/table-of-contents
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812317305052
 ---
 
