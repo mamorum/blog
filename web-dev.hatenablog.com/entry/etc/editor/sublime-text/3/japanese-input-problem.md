@@ -1,12 +1,17 @@
 ---
-Title: SublimeTextの日本語入力問題（表示がビミョウ）
+Title: SublimeText3の日本語入力問題（表示がビミョウ）
 Category:
 - etc
-Date: 2017-12-01T06:30:00+09:00
-URL: http://web-dev.hatenablog.com/entry/etc/sublime-text-3/japanese-input-problem
+Date: 2018-05-01T06:30:00+09:00
+URL: https://web-dev.hatenablog.com/entry/etc/editor/sublime-text/3/japanese-input-problem
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812319683325
 ---
 
+__※ 2018.05.01 追記 ->__  
+Sublime Text から [Visual Studio Code](https://code.visualstudio.com/download) に乗り換えました。理由は Sublime Text の日本語入力問題が改善しないためです。詳細は以下に記載しています。
+
+
+<br>__※ 2017.12.01 最終更新 ->__  
 [Sublime Text 3.0 が正式にリリースされた](https://www.sublimetext.com/blog/articles/sublime-text-3-point-0) ので、Windows 版の SublimeText に [IMESupport](https://github.com/chikatoike/IMESupport) をインストールして日本語入力を試してみました。
 
 
