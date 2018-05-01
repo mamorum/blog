@@ -5,7 +5,6 @@ Category:
 Date: 2018-04-28T07:00:00+09:00
 URL: https://web-dev.hatenablog.com/entry/diary/2018/0428-stop-migration-to-bootstrap4
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17391345971638021294
-Draft: true
 ---
 
 以前の記事「[Bootstrap 4.0.0 がリリースされてました](/entry/diary/2018/0207-bootstrap4-was-released)」で、
