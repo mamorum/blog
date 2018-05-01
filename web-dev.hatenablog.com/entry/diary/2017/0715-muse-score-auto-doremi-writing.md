@@ -1,9 +1,9 @@
 ---
 Title: MuseScore：ドレミ自動採譜
 Category:
-- etc
+- 日記
 Date: 2017-07-15T00:00:00+09:00
-URL: http://web-dev.hatenablog.com/entry/etc/muse-score/auto-doremi-shakuhachi-notation
+URL: https://web-dev.hatenablog.com/entry/diary/2017/0715-muse-score-auto-doremi-writing
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17391345971621143673
 ---
 

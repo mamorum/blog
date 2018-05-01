@@ -3,7 +3,7 @@ Title: Visual Studio Code を使ってみた
 Category:
 - etc
 Date: 2017-12-08T06:30:00+09:00
-URL: http://web-dev.hatenablog.com/entry/etc/vs-code/impressions
+URL: https://web-dev.hatenablog.com/entry/etc/editor/vs-code/impressions
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812322428859
 ---
 
