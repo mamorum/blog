@@ -1,9 +1,9 @@
 ---
 Title: Gradle：Eclipseにインポート
 Category:
-- Gradle
+- etc
 Date: 2016-05-14T13:00:00+09:00
-URL: http://web-dev.hatenablog.com/entry/gradle/eclipse-import-project
+URL: https://web-dev.hatenablog.com/entry/etc/gradle/eclipse-import-project
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179310629
 ---
 

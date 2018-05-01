@@ -1,9 +1,9 @@
 ---
 Title: Gradle：Java 実行時にシステムプロパティを渡す
 Category:
-- Gradle
+- etc
 Date: 2016-08-23T16:54:06+09:00
-URL: http://web-dev.hatenablog.com/entry/gradle/tips/pass-system-property
+URL: https://web-dev.hatenablog.com/entry/etc/gradle/tips/pass-system-property
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687180471314
 ---
 

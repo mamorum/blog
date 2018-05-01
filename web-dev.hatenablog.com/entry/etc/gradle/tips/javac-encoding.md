@@ -1,9 +1,9 @@
 ---
 Title: Gradle：Javaコンパイルのエンコーディング指定
 Category:
-- Gradle
+- etc
 Date: 2016-09-15T15:46:02+09:00
-URL: http://web-dev.hatenablog.com/entry/gradle/tips/javac-encoding
+URL: https://web-dev.hatenablog.com/entry/etc/gradle/tips/javac-encoding
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687184491017
 ---
 

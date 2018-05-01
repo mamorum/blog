@@ -1,9 +1,9 @@
 ---
 Title: Gradle：Javaコンパイルのバージョン指定
 Category:
-- Gradle
+- etc
 Date: 2016-09-15T15:55:53+09:00
-URL: http://web-dev.hatenablog.com/entry/gradle/tips/javac-source-target
+URL: https://web-dev.hatenablog.com/entry/etc/gradle/tips/javac-source-target
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687184494347
 ---
 

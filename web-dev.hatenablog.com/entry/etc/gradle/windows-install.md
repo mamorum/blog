@@ -1,9 +1,9 @@
 ---
 Title: Gradle：Windowsにインストール
 Category:
-- Gradle
+- etc
 Date: 2016-05-14T12:10:00+09:00
-URL: http://web-dev.hatenablog.com/entry/gradle/windows-install
+URL: https://web-dev.hatenablog.com/entry/etc/gradle/windows-install
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179310396
 ---
 

@@ -1,9 +1,9 @@
 ---
 Title: Gradle：Javaアプリのビルド
 Category:
-- Gradle
+- etc
 Date: 2016-05-14T12:35:00+09:00
-URL: http://web-dev.hatenablog.com/entry/gradle/build-java-app
+URL: https://web-dev.hatenablog.com/entry/etc/gradle/build-java-app
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179307752
 ---
 

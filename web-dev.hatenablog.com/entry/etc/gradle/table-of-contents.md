@@ -1,9 +1,9 @@
 ---
 Title: Gradle入門：はじめに・目次
 Category:
-- Gradle
+- etc
 Date: 2016-05-14T13:30:00+09:00
-URL: http://web-dev.hatenablog.com/entry/gradle/table-of-contents
+URL: https://web-dev.hatenablog.com/entry/etc/gradle/table-of-contents
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179310754
 ---
 

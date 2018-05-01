@@ -1,9 +1,9 @@
 ---
 Title: Gradle：SpringBootアプリのビルド
 Category:
-- Gradle
+- etc
 Date: 2016-05-14T02:30:00+09:00
-URL: http://web-dev.hatenablog.com/entry/gradle/build-spring-boot-app
+URL: https://web-dev.hatenablog.com/entry/etc/gradle/build-spring-boot-app
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179308141
 ---
 
