@@ -2,12 +2,19 @@
 Title: SublimeText2：パッケージのインストール
 Category:
 - etc
-Date: 2017-06-15T07:49:02+09:00
-URL: http://web-dev.hatenablog.com/entry/etc/sublime-text-2/install-package
+Date: 2018-05-02T07:49:02+09:00
+URL: https://web-dev.hatenablog.com/entry/etc/editor/sublime-text/2/install-package
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812270097091
 ---
 
 SublimeText2 のパッケージインストール方法と、自分がインストールしているパッケージを書いていきます。
+
+
+## 2018.05.02 追記
+Sublime Text から Visual Studio Code に乗り換えました。
+
+Windows 10 で Sublime Text 2 を使うと、メニューなどの文字がぼやけたためです。Sublime Text 3 も使ってみたんですが、日本語入力が微妙だったりしました。
+
 
 ## インストール方法
 ### 手順1. Package Control のインストール

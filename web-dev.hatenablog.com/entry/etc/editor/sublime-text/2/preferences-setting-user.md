@@ -2,14 +2,20 @@
 Title: SublimeText2：設定（Preferences の Settings - User）
 Category:
 - etc
-Date: 2017-06-16T07:30:00+09:00
-URL: http://web-dev.hatenablog.com/entry/etc/sublime-text-2/preferences-setting-user
+Date: 2018-05-02T07:30:00+09:00
+URL: https://web-dev.hatenablog.com/entry/etc/editor/sublime-text/2/preferences-setting-user
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812270102743
 ---
 
 Sublime Text 2 の自分用設定を、忘れないように書いていこうと思います。
 
 今回の設定は「Setting - User」に保存しています。「Setting - User」は、メニューバーの Preferences で開くことができます。
+
+
+## 2018.05.02 追記
+Sublime Text から Visual Studio Code に乗り換えました。
+
+Windows 10 で Sublime Text 2 を使うと、メニューなどの文字がぼやけたためです。Sublime Text 3 も使ってみたんですが、日本語入力が微妙だったりしました。
 
 
 ## 設定内容

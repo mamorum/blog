@@ -7,15 +7,14 @@ URL: https://web-dev.hatenablog.com/entry/etc/editor/sublime-text/3/japanese-inp
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812319683325
 ---
 
-__※ 2018.05.01 追記 ->__  
-Sublime Text から [Visual Studio Code](https://code.visualstudio.com/download) に乗り換えました。理由は Sublime Text の日本語入力問題が改善しないためです。詳細は以下に記載しています。
-
-
-<br>__※ 2017.12.01 最終更新 ->__  
 [Sublime Text 3.0 が正式にリリースされた](https://www.sublimetext.com/blog/articles/sublime-text-3-point-0) ので、Windows 版の SublimeText に [IMESupport](https://github.com/chikatoike/IMESupport) をインストールして日本語入力を試してみました。
 
 
-## 日本語入力はビミョウ
+## 2018.05.01 追記
+Sublime Text から [Visual Studio Code](https://code.visualstudio.com/download) に乗り換えました。理由は Sublime Text 3 の日本語入力がビミョウだったためです。日本語入力の問題点は以下に記載しています。
+
+
+## 日本語入力がビミョウ
 自分の環境（Windows10）で日本語（全角）を入力すると、変換前文字列がエディタの入力位置より右上に表示されました。
 
 [f:id:mamorums:20171121094005p:plain]
