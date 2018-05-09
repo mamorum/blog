@@ -3,7 +3,7 @@ Title: Maven：記事の一覧
 Category:
 - Maven
 Date: 2017-07-03T10:31:22+09:00
-URL: http://web-dev.hatenablog.com/entry/maven/table-of-contents
+URL: https://web-dev.hatenablog.com/entry/maven/table-of-contents
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812274098483
 ---
 
@@ -16,7 +16,7 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/85
 - [CentOSにインストール](/entry/maven/centos-install)
 - [Ubuntu14にインストール](/entry/maven/ubuntu14-install)
 
-## 入門
+## チュートリアル
 - [1.プロジェクトの作成と実行](/entry/maven/intro/create-prj-and-exec)
 - [2.エンコーディングとコンパイラの設定](/entry/maven/intro/encoding-and-javac-version)
 - [3.Eclipseにインポート](/entry/maven/intro/import-prj-to-eclipse)

@@ -2,12 +2,16 @@
 Title: Windows10：システムフォントの変更
 Category:
 - OS
-Date: 2017-09-06T09:30:00+09:00
-URL: http://web-dev.hatenablog.com/entry/windows/10/change-system-font
+Date: 2018-05-09T08:06:00+09:00
+URL: https://web-dev.hatenablog.com/entry/windows/10/change-system-font
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812295439558
 ---
 
 Windows10 のシステムフォント「Yu Gothic UI」を「Meiryo UI」に手動で変更したので、そのときの作業内容をまとめていきます。
+
+
+## 2018.05.09 追記
+Windows Update（OS更新）で、手動変更した設定（レジストリ）が元に戻ったことがありました。また設定して元に戻ると面倒なので、今はレジストリを変更しないで游ゴシックに慣れようかと思ってます・・・。
 
 
 ## 参考文献
