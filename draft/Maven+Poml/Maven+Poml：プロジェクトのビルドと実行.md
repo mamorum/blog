@@ -63,4 +63,33 @@ hello> mvn package
 
 
 ## 3. 実行
+Main クラスを実行する方法を２つ書いていきます。
 
+### 3.1. java コマンドで実行
+ビルドした jar をクラスパスに指定して実行します。
+
+```
+hello> java -cp target\hello-1.0.0.jar com.domain.Main
+Hello, World.
+```
+
+### 3.2. mvn コマンドで実行
+コマンド `mvn exec:java ...` で実行します。
+
+```
+hello> mvn exec:java -Dexec.mainClass="com.domain.Main"
+
+・・・省略・・・
+
+Hello, World.
+
+・・・省略・・・
+```
+
+使用方法などの詳細は、記事「[Maven：Java プログラムの実行](/entry/maven/plugin/exec-java)」にも記載しています。
+
+
+## 次回
+Maven プロジェクトに依存性（ライブラリ）を追加する方法を書いていこうと思います。依存性を追加すると、自分の資源からライブラリのクラスなどが使えるようになります。
+
+[]()
