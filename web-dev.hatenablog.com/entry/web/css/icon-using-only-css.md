@@ -1,9 +1,9 @@
 ---
 Title: CSSだけのアイコンフォント
 Category:
-- UI
+- JS/CSS/HTML
 Date: 2018-02-26T12:15:56+09:00
-URL: http://web-dev.hatenablog.com/entry/ui/web/css-icon
+URL: https://web-dev.hatenablog.com/entry/web/css/icon-using-only-css
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17391345971619816436
 ---
 

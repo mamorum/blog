@@ -1,9 +1,9 @@
 ---
 Title: CSSだけでモーダル表示
 Category:
-- UI
+- JS/CSS/HTML
 Date: 2018-03-16T07:30:00+09:00
-URL: https://web-dev.hatenablog.com/entry/ui/web/modal-using-only-css
+URL: https://web-dev.hatenablog.com/entry/web/css/modal-using-only-css
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17391345971625789295
 ---
 
