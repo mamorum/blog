@@ -1,5 +1,7 @@
 ---
 Title: ブログ：AdSenseの自動広告が表示されない
+Category:
+- etc
 Date: 2018-05-04T07:30:00+09:00
 URL: https://web-dev.hatenablog.com/entry/etc/blog/hatena-free-and-auto-ad
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17391345971640773735
