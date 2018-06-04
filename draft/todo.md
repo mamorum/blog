@@ -2,6 +2,19 @@
 - カテゴリーDB -> カテゴリーetc、フォルダetcへ移動？
 - /env/* -> /etc/* （カテゴリーも etc に変更？）
 
+## リリース
+- lsFeed 1.0？
+
+## リポジトリ整理
+- kaze-samples を kaze 配下に移す。
+
+## レビュー
+- elecom gamepad
+- hori gamepad
+- dell monitor
+- dell soundbar
+- sony tv
+
 ## Java（Jetty -> Jettyを大がかりに整理？）
 - とりあえず目次は更新した。
 - 後、/entry/jetty/* を /entry/java/jetty に移すかなどを検討したい。
