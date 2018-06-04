@@ -1,9 +1,9 @@
 ---
 Title: Vagrant：仮想マシンのメモリサイズ変更
 Category:
-- 環境
+- etc
 Date: 2018-01-02T14:52:00+09:00
-URL: http://web-dev.hatenablog.com/entry/env/vagrant/change-memory-size
+URL: https://web-dev.hatenablog.com/entry/etc/vagrant/change-memory-size
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178930175
 ---
 
