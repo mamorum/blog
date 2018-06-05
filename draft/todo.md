@@ -8,6 +8,9 @@
 ## リポジトリ整理
 - kaze-samples を kaze 配下に移す。
 
+## Unity
+- Unity：ビルド方法
+
 ## レビュー
 - elecom gamepad
 - hori gamepad
