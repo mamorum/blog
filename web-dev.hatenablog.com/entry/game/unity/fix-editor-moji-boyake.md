@@ -5,7 +5,6 @@ Category:
 Date: 2018-06-07T07:00:00+09:00
 URL: https://web-dev.hatenablog.com/entry/game/unity/fix-editor-moji-boyake
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17391345971651228228
-Draft: true
 ---
 
 Windows のディスプレイ設定（表示スケールの設定）で文字を大きくしていると、Unity の開発環境の文字がぼやけるすることがありました。これから、文字のにじみを修正する方法を書いていきます。

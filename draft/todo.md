@@ -1,22 +1,31 @@
+## 予約済
+- 6/12火 -> ゲームパッド感想：ELECOM JC-U4013SBK
+- 6/14水 -> ゲームパッド感想：HORI EDGE 301
+
 ## 記事整理
 - カテゴリーDB -> カテゴリーetc、フォルダetcへ移動？
 - /env/* -> /etc/* （カテゴリーも etc に変更？）
 
 ## リリース
 - lsFeed 1.0？
-
-## リポジトリ整理
-- kaze-samples を kaze 配下に移す。
+  - ドキュメント整備
+    - 利用方法
+      - 1. 初回利用時
+      - 2. フィードの閲覧
+      - 3. フィードの設定
 
 ## Unity
 - Unity：ビルド方法
 
 ## レビュー
-- elecom gamepad
-- hori gamepad
-- dell monitor
-- dell soundbar
+- 感想：Asus ベアボーンPC
+- 感想：Dell P2417H ディスプレイ
+- 感想：Dell AC511 スピーカー
 - sony tv
+
+
+## リポジトリ整理
+- kaze-samples を kaze 配下に移す。
 
 ## Java（Jetty -> Jettyを大がかりに整理？）
 - とりあえず目次は更新した。
