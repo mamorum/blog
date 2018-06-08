@@ -1,9 +1,9 @@
 ---
 Title: PostgreSQL：CentOSでmd5認証に設定
 Category:
-- DB
+- etc
 Date: 2016-03-26T18:30:00+09:00
-URL: http://web-dev.hatenablog.com/entry/postgresql/centos/md5-auth
+URL: https://web-dev.hatenablog.com/entry/etc/postgresql/centos/md5-auth
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178926554
 ---
 

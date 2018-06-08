@@ -1,9 +1,9 @@
 ---
 Title: PostgreSQL：WindowsでSQL実行（psql）
 Category:
-- DB
+- etc
 Date: 2017-11-04T10:06:03+09:00
-URL: http://web-dev.hatenablog.com/entry/postgresql/windows/exec-sql-using-psql
+URL: https://web-dev.hatenablog.com/entry/etc/postgresql/windows/exec-sql-using-psql
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812314302619
 ---
 

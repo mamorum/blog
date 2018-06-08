@@ -1,9 +1,9 @@
 ---
 Title: PostgreSQL 9.6：Win10 にインストール
 Category:
-- DB
+- etc
 Date: 2018-01-10T13:51:11+09:00
-URL: http://web-dev.hatenablog.com/entry/postgresql/9.6/windows10-install
+URL: https://web-dev.hatenablog.com/entry/etc/postgresql/9.6/windows10-install
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812335812286
 ---
 

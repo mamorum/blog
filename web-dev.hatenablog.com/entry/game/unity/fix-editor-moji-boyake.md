@@ -1,7 +1,7 @@
 ---
-Title: Unity開発環境：文字がにじむ場合の対応
+Title: Unity開発環境：文字のにじみを解消する
 Category:
-- ゲーム
+- Unity
 Date: 2018-06-07T07:00:00+09:00
 URL: https://web-dev.hatenablog.com/entry/game/unity/fix-editor-moji-boyake
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17391345971651228228

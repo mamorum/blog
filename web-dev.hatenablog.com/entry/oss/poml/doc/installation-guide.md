@@ -1,7 +1,7 @@
 ---
 Title: Poml：インストール方法
 Category:
-- Poml
+- 開発
 Date: 2018-01-12T07:30:00+09:00
 URL: https://web-dev.hatenablog.com/entry/oss/poml/doc/installation-guide
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812336207732

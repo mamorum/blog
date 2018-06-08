@@ -15,12 +15,20 @@
       - 3. フィードの設定
 
 ## Unity
-- Unity：ビルド方法
+- Unity：ゲームを終了させる
+- Unity 2D：ビルド方法
+- Unity 2D：自機と壁の衝突判定
+
 
 ## レビュー
-- 感想：Asus ベアボーンPC
+- 感想：ASUS VC66-BB062M ベアボーンPC
+  - メモリ：https://www.amazon.co.jp/dp/B01L6OC9LQ
+  - OS：https://www.amazon.co.jp/dp/B0776K4V9X
+  - SSD：/entry/hardware/ssd/transcend-tlc-ts240gssd220s
 - 感想：Dell P2417H ディスプレイ
 - 感想：Dell AC511 スピーカー
+- Dell キーボード・マウス
+- Dell マウス
 - sony tv
 
 
