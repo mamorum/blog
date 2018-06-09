@@ -1,9 +1,9 @@
 ---
 Title: VirtualBox：Ubuntu16を動かす
 Category:
-- 環境
+- etc
 Date: 2018-01-03T09:00:00+09:00
-URL: http://web-dev.hatenablog.com/entry/env/virtualbox/run-ubuntu16
+URL: https://web-dev.hatenablog.com/entry/etc/virtualbox/run-ubuntu16
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812332391748
 ---
 

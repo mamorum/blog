@@ -3,8 +3,8 @@
 - 6/14水 -> ゲームパッド感想：HORI EDGE 301
 
 ## 記事整理
-- カテゴリーDB -> カテゴリーetc、フォルダetcへ移動？
-- /env/* -> /etc/* （カテゴリーも etc に変更？）
+- /jetty/* -> /java/jetty/*
+- /js/* -> /web/js/*
 
 ## リリース
 - lsFeed 1.0？

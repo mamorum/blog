@@ -1,9 +1,9 @@
 ---
 Title: VirtualBox：Ubuntu16のインストール
 Category:
-- 環境
+- etc
 Date: 2017-12-25T07:30:00+09:00
-URL: http://web-dev.hatenablog.com/entry/env/virtualbox/ubuntu16-install
+URL: https://web-dev.hatenablog.com/entry/etc/virtualbox/ubuntu16-install
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812329263512
 ---
 

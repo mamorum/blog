@@ -1,9 +1,9 @@
 ---
 Title: VirtualBox：Ubuntu16のネットワークとSSH設定
 Category:
-- 環境
+- etc
 Date: 2017-12-26T07:00:00+09:00
-URL: http://web-dev.hatenablog.com/entry/env/virtualbox/ubuntu16-network-ssh
+URL: https://web-dev.hatenablog.com/entry/etc/virtualbox/ubuntu16-network-ssh
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812329267872
 ---
 

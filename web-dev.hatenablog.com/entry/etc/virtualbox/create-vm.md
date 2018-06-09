@@ -1,9 +1,9 @@
 ---
 Title: VirtualBox：仮想マシンの作成
 Category:
-- 環境
+- etc
 Date: 2017-12-24T12:10:44+09:00
-URL: http://web-dev.hatenablog.com/entry/env/virtualbox/create-vm
+URL: https://web-dev.hatenablog.com/entry/etc/virtualbox/create-vm
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812329261847
 ---
 

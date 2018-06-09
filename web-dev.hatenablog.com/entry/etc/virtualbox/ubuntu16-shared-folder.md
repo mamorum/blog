@@ -1,9 +1,9 @@
 ---
 Title: VirtualBox：Ubuntu16の共有フォルダ設定
 Category:
-- 環境
+- etc
 Date: 2017-12-28T08:00:00+09:00
-URL: http://web-dev.hatenablog.com/entry/env/virtualbox/ubuntu16-shared-folder
+URL: https://web-dev.hatenablog.com/entry/etc/virtualbox/ubuntu16-shared-folder
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812329272416
 ---
 

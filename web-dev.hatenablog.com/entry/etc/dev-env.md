@@ -1,9 +1,9 @@
 ---
 Title: 開発環境構築：リンク集
 Category:
-- 環境
+- etc
 Date: 2018-01-08T17:44:00+09:00
-URL: http://web-dev.hatenablog.com/entry/env/dev-links
+URL: https://web-dev.hatenablog.com/entry/etc/dev-env
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179202826
 ---
 

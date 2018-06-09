@@ -1,9 +1,9 @@
 ---
 Title: VirtualBox：仮想マシンのバックアップ
 Category:
-- 環境
+- etc
 Date: 2017-12-29T07:30:00+09:00
-URL: http://web-dev.hatenablog.com/entry/env/virtualbox/backup-vm
+URL: https://web-dev.hatenablog.com/entry/etc/virtualbox/backup-vm
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812329318984
 ---
 
