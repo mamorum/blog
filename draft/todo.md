@@ -1,8 +1,16 @@
 ## 予約済
 - 6/19火 -> Unity：ゲームを終了させる
 - 6/21木 -> Unity 2D：ビルド方法（スタンドアロン）
+- 6/25月 -> 最近のマイクロソフトがすごい
 
 
+## レビュー
+- PC感想：ASUS VC66-BB062M ベアボーン
+  - メモリ：https://www.amazon.co.jp/dp/B01L6OC9LQ
+  - OS：https://www.amazon.co.jp/dp/B0776K4V9X
+  - SSD：/entry/hardware/ssd/transcend-tlc-ts240gssd220s
+
+  
 ## 記事整理
 - /jetty/* -> /java/jetty/*
 - /js/* -> /web/js/*
@@ -18,13 +26,10 @@
 
 ## Unity
 - Unity 2D：自機と壁の衝突判定
+- Unity 2D：タイトル画面の作成
 
 
 ## レビュー
-- 感想：ASUS VC66-BB062M ベアボーンPC
-  - メモリ：https://www.amazon.co.jp/dp/B01L6OC9LQ
-  - OS：https://www.amazon.co.jp/dp/B0776K4V9X
-  - SSD：/entry/hardware/ssd/transcend-tlc-ts240gssd220s
 - 感想：Dell P2417H ディスプレイ
 - 感想：Dell AC511 スピーカー
 - Dell キーボード・マウス
