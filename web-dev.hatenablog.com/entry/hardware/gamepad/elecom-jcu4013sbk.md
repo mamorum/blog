@@ -5,7 +5,6 @@ Category:
 Date: 2018-06-12T06:30:00+09:00
 URL: https://web-dev.hatenablog.com/entry/hardware/gamepad/elecom-jcu4013sbk
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17391345971651828169
-Draft: true
 ---
 
 Elecom のゲームパッド「JC-U4013SBK」を購入して使ってみたので、レビューを書いていこうと思います。

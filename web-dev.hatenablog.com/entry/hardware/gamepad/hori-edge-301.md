@@ -5,7 +5,6 @@ Category:
 Date: 2018-06-14T06:30:00+09:00
 URL: https://web-dev.hatenablog.com/entry/hardware/gamepad/hori-edge-301
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17391345971652113675
-Draft: true
 ---
 
 最近、HORI（ホリ）のゲームパッド「EDGE 301」を購入して使っています。
