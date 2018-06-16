@@ -3,7 +3,7 @@ Title: JS：括弧付き変数への代入
 Category:
 - JS/CSS/HTML
 Date: 2018-04-19T07:00:00+09:00
-URL: https://web-dev.hatenablog.com/entry/js/lang/kakko-tsuki-hensu-dainyu
+URL: https://web-dev.hatenablog.com/entry/web/js/lang/kakko-tsuki-hensu-dainyu
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17391345971634777582
 ---
 

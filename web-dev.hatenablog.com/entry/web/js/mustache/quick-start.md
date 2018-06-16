@@ -3,7 +3,7 @@ Title: JS：mustache.js 入門
 Category:
 - JS/CSS/HTML
 Date: 2016-08-09T11:05:00+09:00
-URL: https://web-dev.hatenablog.com/entry/js/mustache/quick-start
+URL: https://web-dev.hatenablog.com/entry/web/js/mustache/quick-start
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178919230
 ---
 

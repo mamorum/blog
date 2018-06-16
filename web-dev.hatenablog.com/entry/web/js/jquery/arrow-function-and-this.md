@@ -3,7 +3,7 @@ Title: jQuery：アロー関数とthisの注意点
 Category:
 - JS/CSS/HTML
 Date: 2018-03-02T17:47:10+09:00
-URL: https://web-dev.hatenablog.com/entry/js/jquery/arrow-function-and-this
+URL: https://web-dev.hatenablog.com/entry/web/js/jquery/arrow-function-and-this
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17391345971621226074
 ---
 
