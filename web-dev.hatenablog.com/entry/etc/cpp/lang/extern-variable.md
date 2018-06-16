@@ -1,9 +1,9 @@
 ---
 Title: C言語：別ファイルの変数を使う
 Category:
-- C/C++
+- etc
 Date: 2018-01-29T13:26:27+09:00
-URL: https://web-dev.hatenablog.com/entry/cpp/lang/extern-variable
+URL: https://web-dev.hatenablog.com/entry/etc/cpp/lang/extern-variable
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812341843382
 ---
 

@@ -1,9 +1,9 @@
 ---
 Title: C言語：アドレスとポインタ
 Category:
-- C/C++
+- etc
 Date: 2018-01-22T18:24:10+09:00
-URL: https://web-dev.hatenablog.com/entry/cpp/lang/address-and-pointer
+URL: https://web-dev.hatenablog.com/entry/etc/cpp/lang/address-and-pointer
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812339931486
 ---
 

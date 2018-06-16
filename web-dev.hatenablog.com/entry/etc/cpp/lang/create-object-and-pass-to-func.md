@@ -1,9 +1,9 @@
 ---
 Title: C++：静的確保したオブジェクトを渡す（値、参照、ポインタ）
 Category:
-- C/C++
+- etc
 Date: 2018-01-30T18:01:47+09:00
-URL: http://web-dev.hatenablog.com/entry/cpp/lang/create-object-and-pass-to-func
+URL: https://web-dev.hatenablog.com/entry/etc/cpp/lang/create-object-and-pass-to-func
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812342196916
 ---
 
