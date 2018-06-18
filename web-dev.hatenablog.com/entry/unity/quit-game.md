@@ -3,9 +3,8 @@ Title: Unity：ゲームを終了させる
 Category:
 - Unity
 Date: 2018-06-19T06:00:00+09:00
-URL: https://web-dev.hatenablog.com/entry/unity/stop-game
+URL: https://web-dev.hatenablog.com/entry/unity/quit-game
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17391345971652478547
-Draft: true
 ---
 
 Esc（エスケープキー）を押したときに、Unity のゲームを終了させる方法を書いていきます。
