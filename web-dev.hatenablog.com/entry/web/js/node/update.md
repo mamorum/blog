@@ -3,7 +3,7 @@ Title: Node.js のアップデート
 Category:
 - JS/CSS/HTML
 Date: 2016-08-05T08:21:00+09:00
-URL: https://web-dev.hatenablog.com/entry/js/node/update
+URL: https://web-dev.hatenablog.com/entry/web/js/node/update
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178917462
 ---
 

@@ -3,7 +3,7 @@ Title: PC関連：目次
 Category:
 - ハード
 Date: 2017-09-10T10:30:00+09:00
-URL: http://web-dev.hatenablog.com/entry/hardware/table-of-contents
+URL: https://web-dev.hatenablog.com/entry/hardware/table-of-contents
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812296955455
 ---
 
@@ -20,10 +20,6 @@ PC周辺機器の紹介記事をいくつか書いたので、記事のリンク
 [http://web-dev.hatenablog.com/entry/hardware/earphone/jvc-hp-f207l-b:embed:cite]
 
 [http://web-dev.hatenablog.com/entry/hardware/earphone/tao-tronics-tt-bh07:embed:cite]
-
-
-## Tips等
-- [BenQモニタ：信号なし青画面回避（HDMI）](/entry/hardware/monitor/benq-avoid-blue-screen)
 
 
 ## Bluetooth関連
