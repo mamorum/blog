@@ -3,7 +3,7 @@ Title: JDK：記事の一覧
 Category:
 - Java
 Date: 2018-01-13T11:37:00+09:00
-URL: http://web-dev.hatenablog.com/entry/java/jdk/table-of-contents
+URL: https://web-dev.hatenablog.com/entry/java/jdk/table-of-contents
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178884230
 ---
 
@@ -22,6 +22,7 @@ JDK の記事（リンク）を、一覧形式でまとめています。JDK の
 
 
 ## Linux にインストール
+- [JDK8 を Ubuntu16 にインストール](/entry/java/jdk/8/ubuntu16-install)
 - [JDK8 を Ubuntu14 にインストール](/entry/java/jdk/ubuntu-install)
 - [JDK8 を CentOS にインストール](/entry/java/jdk/centos-install)
 

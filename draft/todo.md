@@ -2,19 +2,14 @@
 - 6/19火 -> Unity：ゲームを終了させる
 - 6/21木 -> Unity 2D：ビルド方法（スタンドアロン）
 - 6/25月 -> 最近のマイクロソフトがすごい
+- 6/27水 -> PC感想：ASUS VC66-BB062M ベアボーン
 
+## リンク修正
+- https://web-dev.hatenablog.com/entry/etc/virtualbox/run-ubuntu16 -> あと、どこかにこのリンクを掲載したい。
 
-## レビュー
-- PC感想：ASUS VC66-BB062M ベアボーン
-  - メモリ：https://www.amazon.co.jp/dp/B01L6OC9LQ
-  - OS：https://www.amazon.co.jp/dp/B0776K4V9X
-  - SSD：/entry/hardware/ssd/transcend-tlc-ts240gssd220s
-
-  
 ## 記事整理
-- /jetty/* -> /java/jetty/*
 - /js/* -> /web/js/*
-- /cpp/* -> /etc/cpp/*（カテゴリも etc に変更）
+- /jetty/* -> /java/jetty/*
 
 ## リリース
 - lsFeed 1.0？
@@ -25,6 +20,7 @@
       - 3. フィードの設定
 
 ## Unity
+- Unity 2D：自機の移動
 - Unity 2D：自機と壁の衝突判定
 - Unity 2D：タイトル画面の作成
 
@@ -32,7 +28,8 @@
 ## レビュー
 - 感想：Dell P2417H ディスプレイ
 - 感想：Dell AC511 スピーカー
-- Dell キーボード・マウス
+- 感想：Dell KM636 キーボード・マウス
+- 感想：Elecom マウス
 - Dell マウス
 - sony tv
 

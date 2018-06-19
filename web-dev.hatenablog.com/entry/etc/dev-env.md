@@ -29,12 +29,12 @@ Eclipse のインストール方法や、使用方法、設定方法などをま
 
 
 ## PostgreSQL
-[PostgreSQL：記事の一覧](/entry/postgresql/table-of-contents)
+[PostgreSQL：記事の一覧](/entry/etc/postgresql/table-of-contents)
 
 PostgreSQL のインストール方法や、データベースやユーザの作成方法、SQL の実行方法などをまとめています。
 
 
 ## Virtual Box
-[VirtualBox：Ubuntu16 を動かす](/entry/env/virtualbox/run-ubuntu16)
+[VirtualBox：Ubuntu16 を動かす](/entry/etc/virtualbox/run-ubuntu16)
 
 Windows で仮想環境を作成して、Ubuntu16 を動かす方法をまとめています。

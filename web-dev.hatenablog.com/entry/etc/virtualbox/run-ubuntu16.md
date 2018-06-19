@@ -10,11 +10,11 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/85
 Virtual Box を使って、Windows で Ubuntu16（Xenial Xerus）のサーバーを動かす手順をまとめてみました。
 
 
-1. [仮想マシンの作成](/entry/env/virtualbox/create-vm)
-2. [Ubuntu16のインストール](/entry/env/virtualbox/ubuntu16-install)
-3. [Ubuntu16のネットワークとSSH設定](/entry/env/virtualbox/ubuntu16-network-ssh)
-4. [Ubuntu16の共有フォルダ設定](/entry/env/virtualbox/ubuntu16-shared-folder)
-5. [仮想マシンのバックアップ](/entry/env/virtualbox/backup-vm)
+1. [仮想マシンの作成](/entry/etc/virtualbox/create-vm)
+2. [Ubuntu16のインストール](/entry/etc/virtualbox/ubuntu16-install)
+3. [Ubuntu16のネットワークとSSH設定](/entry/etc/virtualbox/ubuntu16-network-ssh)
+4. [Ubuntu16の共有フォルダ設定](/entry/etc/virtualbox/ubuntu16-shared-folder)
+5. [仮想マシンのバックアップ](/entry/etc/virtualbox/backup-vm)
 
 
 上から順に進めていくと、Ubuntu16 を起動して ssh クライアントから接続できます。最後の２つ（共有フォルダ設定とバックアップ）は任意になります。
