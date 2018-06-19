@@ -3,7 +3,7 @@ Title: Linux：記事の一覧
 Category:
 - OS
 Date: 2017-11-16T08:30:00+09:00
-URL: http://web-dev.hatenablog.com/entry/linux/table-of-contents
+URL: https://web-dev.hatenablog.com/entry/linux/table-of-contents
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812317306019
 ---
 
@@ -14,7 +14,11 @@ Linux に関連する記事をいくつか書いたので、記事のリンク�
 - [プロンプトを短くする](/entry/linux/short-prompt)
 - [コマンドの連結（&& や ||）](/entry/linux/concat-commands)
 
-## Ubuntu
+## Ubuntu16
+- [zip・unzipのインストール](/entry/linux/ubuntu16/install-zip-unzip)
+- [nkfのインストール](/entry/linux/ubuntu16/install-nkf)
+
+## Ubuntu14
 - [zip・unzipのインストール](/entry/linux/ubuntu/install-zip-unzip)
 - [nkfのインストール](/entry/linux/ubuntu/install-nkf)
 
