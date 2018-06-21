@@ -5,7 +5,6 @@ Category:
 Date: 2018-06-21T06:30:00+09:00
 URL: https://web-dev.hatenablog.com/entry/unity/2d/build-windows-standalone
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17391345971653138187
-Draft: true
 ---
 
 Unity 2D で、スタンドアロンのゲームをビルドする方法を書いていきます。使用した環境は以下の通りです。

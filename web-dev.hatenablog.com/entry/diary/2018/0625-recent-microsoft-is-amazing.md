@@ -5,7 +5,6 @@ Category:
 Date: 2018-06-25T06:00:00+09:00
 URL: https://web-dev.hatenablog.com/entry/diary/2018/0625-recent-microsoft-is-amazing
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17391345971654319730
-Draft: true
 ---
 
 先日、Microsoft が GitHub を買収したニュースを読みました。オープンソース、サービス、ゲームとか、色んなことに力を入れていて、改めてすごいなぁと思いました。そこで、なんとなくマイクロソフトについて思うことを書いてみました。

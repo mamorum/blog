@@ -1,9 +1,3 @@
-## 予約済
-- 6/19火 -> Unity：ゲームを終了させる
-- 6/21木 -> Unity 2D：ビルド方法（スタンドアロン）
-- 6/25月 -> 最近のマイクロソフトがすごい
-- 6/27水 -> PC感想：ASUS VC66-BB062M ベアボーン
-
 ## リンク修正
 - https://web-dev.hatenablog.com/entry/etc/virtualbox/run-ubuntu16 -> あと、どこかにこのリンクを掲載したい。
 
