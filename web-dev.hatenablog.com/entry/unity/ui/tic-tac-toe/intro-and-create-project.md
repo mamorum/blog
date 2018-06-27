@@ -2,7 +2,7 @@
 Title: Unity UI：三目並べの開発１
 Category:
 - Unity
-Date: 2018-07-02T07:00:00+09:00
+Date: 2018-06-23T07:00:00+09:00
 URL: https://web-dev.hatenablog.com/entry/unity/ui/tic-tac-toe/intro-and-create-project
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17391345971657550482
 ---
