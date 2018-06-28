@@ -3,7 +3,7 @@ Title: Jetty：ホスト名がlocalhostだと遅い
 Category:
 - Java
 Date: 2017-07-25T20:33:46+09:00
-URL: http://web-dev.hatenablog.com/entry/jetty/embed/localhost-slow-from-win
+URL: https://web-dev.hatenablog.com/entry/java/jetty/embed/localhost-slow-from-win
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812282682438
 ---
 

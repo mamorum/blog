@@ -3,7 +3,7 @@ Title: 組込Jetty：ServletでHelloWorld
 Category:
 - Java
 Date: 2017-10-07T15:49:36+09:00
-URL: http://web-dev.hatenablog.com/entry/jetty/embed/servlet/hello-world
+URL: https://web-dev.hatenablog.com/entry/java/jetty/embed/servlet/hello-world
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812305687245
 ---
 

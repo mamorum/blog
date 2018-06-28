@@ -3,7 +3,7 @@ Title: 組込Jetty：アノテーションServletを追加
 Category:
 - Java
 Date: 2017-10-13T08:35:25+09:00
-URL: http://web-dev.hatenablog.com/entry/jetty/embed/annotation/servlet
+URL: https://web-dev.hatenablog.com/entry/java/jetty/embed/annotation/servlet
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812280664316
 ---
 

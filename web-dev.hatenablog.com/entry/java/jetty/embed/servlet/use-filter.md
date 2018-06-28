@@ -3,7 +3,7 @@ Title: 組込Jetty：Filterを使う
 Category:
 - Java
 Date: 2017-10-11T10:20:01+09:00
-URL: http://web-dev.hatenablog.com/entry/jetty/embed/servlet/use-filter
+URL: https://web-dev.hatenablog.com/entry/java/jetty/embed/servlet/use-filter
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812306834949
 ---
 

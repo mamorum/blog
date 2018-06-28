@@ -3,7 +3,7 @@ Title: 組込Jetty：セッションタイムアウトの設定
 Category:
 - Java
 Date: 2017-10-12T16:19:26+09:00
-URL: http://web-dev.hatenablog.com/entry/jetty/embed/servlet/set-session-timeout
+URL: https://web-dev.hatenablog.com/entry/java/jetty/embed/servlet/set-session-timeout
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812307236469
 ---
 

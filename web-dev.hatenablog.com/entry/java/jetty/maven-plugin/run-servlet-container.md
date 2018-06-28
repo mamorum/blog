@@ -3,7 +3,7 @@ Title: Jetty Maven Plugin でコンテナ起動
 Category:
 - Java
 Date: 2017-10-06T16:58:42+09:00
-URL: http://web-dev.hatenablog.com/entry/jetty/maven-plugin/run-servlet-container
+URL: https://web-dev.hatenablog.com/entry/java/jetty/maven-plugin/run-servlet-container
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812305432121
 ---
 

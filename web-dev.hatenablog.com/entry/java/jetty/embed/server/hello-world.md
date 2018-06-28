@@ -3,7 +3,7 @@ Title: 組込Jetty：HelloWorldを返す
 Category:
 - Java
 Date: 2017-10-11T15:51:30+09:00
-URL: http://web-dev.hatenablog.com/entry/jetty/embed/server/hello-world
+URL: https://web-dev.hatenablog.com/entry/java/jetty/embed/server/hello-world
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812278924031
 ---
 

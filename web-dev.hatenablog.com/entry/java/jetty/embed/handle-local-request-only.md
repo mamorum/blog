@@ -3,7 +3,7 @@ Title: 組込みJetty：ローカルだけアクセスできるようにする
 Category:
 - Java
 Date: 2018-03-23T06:30:00+09:00
-URL: https://web-dev.hatenablog.com/entry/jetty/embed/handle-local-request-only
+URL: https://web-dev.hatenablog.com/entry/java/jetty/embed/handle-local-request-only
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17391345971626146632
 ---
 

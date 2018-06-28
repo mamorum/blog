@@ -3,7 +3,7 @@ Title: 組込みJetty：JVMとサーバーの停止方法
 Category:
 - Java
 Date: 2018-04-03T06:30:00+09:00
-URL: https://web-dev.hatenablog.com/entry/jetty/embed/stop-jvm-and-server
+URL: https://web-dev.hatenablog.com/entry/java/jetty/embed/stop-jvm-and-server
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17391345971628478754
 ---
 

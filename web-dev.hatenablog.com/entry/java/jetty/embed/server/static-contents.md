@@ -3,7 +3,7 @@ Title: 組込Jetty：静的コンテンツを返す
 Category:
 - Java
 Date: 2017-10-12T08:01:40+09:00
-URL: http://web-dev.hatenablog.com/entry/jetty/embed/server/static-contents
+URL: https://web-dev.hatenablog.com/entry/java/jetty/embed/server/static-contents
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812279164171
 ---
 

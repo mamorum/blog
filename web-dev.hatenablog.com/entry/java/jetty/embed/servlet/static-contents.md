@@ -3,7 +3,7 @@ Title: 組込Jetty：Servletで静的コンテンツを返す
 Category:
 - Java
 Date: 2017-10-10T15:35:42+09:00
-URL: http://web-dev.hatenablog.com/entry/jetty/embed/servlet/static-contents
+URL: https://web-dev.hatenablog.com/entry/java/jetty/embed/servlet/static-contents
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812306582897
 ---
 
