@@ -1,9 +1,5 @@
-## リンク修正
-- https://web-dev.hatenablog.com/entry/etc/virtualbox/run-ubuntu16 -> あと、どこかにこのリンクを掲載したい。
-
 ## 記事整理
 - /js/* -> /web/js/*
-- /jetty/* -> /java/jetty/*
 
 ## リリース
 - lsFeed 1.0？
