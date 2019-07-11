@@ -13,7 +13,7 @@ Gradle でビルドしている Java アプリ（Java プロジェクト）を�
 ## 前提. インポートするアプリ
 [SpringBoot入門：JSONの返却](/entry/spring-boot/intro/response-json) で紹介しているアプリをインポートしてみます。ソースコードは、次のリポジトリにもあります。
 
-[gssb - GitHub](https://github.com/mamorum/blog-code/tree/master/gssb)
+[gssb - GitHub](https://github.com/mamorum/blog/tree/master/code/gssb)
 
 
 ## 手順1. ビルドファイルの編集

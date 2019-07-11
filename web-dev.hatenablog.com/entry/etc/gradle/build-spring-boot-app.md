@@ -15,4 +15,4 @@ Gradle で SpringBoot の Webアプリをビルドする方法は、記事[「Sp
 ## 補足. ソースコード
 リンク先の記事（冒頭）に掲載している資源は、次のリポジトリで管理しています。
 
-[gssb - GitHub](https://github.com/mamorum/blog-code/tree/master/gssb)
+[gssb - GitHub](https://github.com/mamorum/blog/tree/master/code/gssb)
