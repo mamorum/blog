@@ -1,0 +1,6 @@
+pkg=com.domain:wsssej:1.0.0:war
+depend=
+  org.eclipse.jetty:jetty-annotations:9.4.6.v20170531,
+  org.eclipse.jetty.websocket:websocket-server:9.4.6.v20170531
+properties=&encoding>UTF-8, &compiler>1.8
+info=description>Web Socket Servlet Sample Embedded Jetty

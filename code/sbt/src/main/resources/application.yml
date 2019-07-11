@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/sbt
+    driverClassName: org.postgresql.Driver
+    username: spring
+    password: spring
+  mvc:
+    favicon:
+      enabled: false

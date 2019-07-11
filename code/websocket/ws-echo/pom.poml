@@ -1,0 +1,8 @@
+pkg=com.domain:ws-echo:1.0.0:war
+depend=
+  org.eclipse.jetty.websocket:javax-websocket-server-impl:9.4.6.v20170531:provided
+properties=&encoding>UTF-8, &compiler>9
+build.base=finalName>${project.artifactId}
+plugin=$war
+# war plugin 3.1.0 needs no web.xml
+$war=:maven-war-plugin:3.1.0

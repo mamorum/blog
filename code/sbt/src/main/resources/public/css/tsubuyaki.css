@@ -1,0 +1,94 @@
+@charset "UTF-8";
+
+body {
+	background-color: #A5D6A7;
+	font-family: "メイリオ", "ヒラギノ角ゴ Pro W3", sans-serif;
+	font-size: 16px;
+}
+header {
+	background-color: #ffffff;
+}
+section {
+	min-height:650px;
+	padding-top:50px;
+	padding-bottom:50px;
+	background-color:#E8F5E9;
+}
+footer {
+	font-size:14px;
+	color:#ffffff;
+	text-align:center;
+	padding:15px 0px 50px 0px;
+}
+
+
+/* for overwiting bootstrap.*/
+.navbar {
+	margin-bottom: 0px;
+	border-radius: 0px;
+	border-bottom: 2px solid #A5D6A7;
+}
+.navbar-header {
+	min-width: 100%;
+}
+.form-control, .btn {
+	font-size: 16px;
+}
+.form-horizontal .form-group {
+	margin-left: 0px;
+	margin-right: 0px;
+}
+.form-horizontal .form-group:last-child {
+	margin-bottom: 0px;
+}
+
+/* for app. */
+#brand {
+	margin-top:5px;
+	margin-bottom: 5px;
+	text-align:center;
+}
+#tsubuyaki-form {
+	background-color:#A5D6A7;
+	border: solid 1px #5cb85c;
+	border-radius: 10px 10px 0px 0px;
+	padding: 15px 15px 15px;
+}
+.tsubuyaki {
+	background-color:#ffffff;
+	border-left: solid 1px #5cb85c;
+	border-right: solid 1px #5cb85c;
+	border-bottom: solid 1px #5cb85c;
+	padding: 15px 15px 10px 15px;
+}
+.tsubuyaki:hover,
+.tsubuyaki:hover .action .btn {
+	background-color: #f5fbf6;
+}
+.tsubuyaki:last-child {
+	border-radius: 0px 0px 10px 10px;
+}
+.tsubuyaki .txt p {
+	white-space: pre-wrap;
+	word-wrap: break-word;
+	margin: 0 0 5px;
+}
+.tsubuyaki .action .btn {
+	color: #7e7e7e;
+	font-size: 15px;
+	margin-right: 5px;
+	padding: 6px 5px 2px 6px;
+	border: none;
+}
+.tsubuyaki .action .btn:hover {
+	background-color: #5cb85c;
+	color: #ffffff;
+}
+.tsubuyaki .date {
+	color: #7e7e7e;
+	font-size: 14px;
+	padding-left:3px;
+}
+#modal-label {
+	color: #5cb85c;
+}

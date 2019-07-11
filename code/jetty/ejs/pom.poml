@@ -1,0 +1,4 @@
+pkg=com.github.mamorum:ejs:1.0.0:jar
+depend=
+  org.eclipse.jetty:jetty-servlet:9.4.6.v20170531
+properties=&encoding>UTF-8, &compiler>1.8

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+	<meta charset="utf-8">
+	<title>mustache.js | Include Templates</title>
+</head>
+<body>
+<div id="first">Loading...</div>
+<br><br>
+<div id="second">Loading...</div>
+<script id="first-tmp" type="x-tmpl-mustache">
+<p>{{name}}</p>
+<p>{{age}}</p>
+<p>{{company}}</p>
+<p>{{{company}}}</p>
+<p>{{&company}}</p>
+{{=<% %>=}}
+<p>{{company}}</p>
+<%={{ }}=%>
+</script>
+<script id="second-tmp" type="x-tmpl-mustache">
+<p>{{name.first}} {{name.last}}</p>
+<p>{{age}}</p>
+</script>
+<script src="http://code.jquery.com/jquery-1.11.2.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mustache.js/2.2.0/mustache.min.js"></script>
+<script>
+$(function() {
+	var firstData ={
+		"name": "Chris",
+		"company": "<b>GitHub</b>"
+	};
+	var firstTmp = $('#first-tmp').html();
+	Mustache.parse(firstTmp);  // optional, speeds up future uses
+	var firstResult = Mustache.render(firstTmp, firstData);
+	$('#first').html(firstResult);
+
+	var secondData ={
+		"name": {
+			"first": "Michael",
+			"last": "Jackson"
+		},
+		"age": "RIP"
+	};
+	var secondTmp = $('#second-tmp').html();
+	Mustache.parse(secondTmp);  // optional, speeds up future uses
+	var secondResult = Mustache.render(secondTmp, secondData);
+	$('#second').html(secondResult);	
+});
+</script>
+</body>
+</html>

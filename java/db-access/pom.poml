@@ -1,7 +1,0 @@
-pkg=com.domain:db-access:1.0.0:jar
-depend=
-  org.postgresql:postgresql:42.1.4,
-  org.sql2o:sql2o:1.5.4,
-  org.flywaydb:flyway-core:4.2.0,
-  com.zaxxer:HikariCP:2.7.3
-properties=&encoding>UTF-8, &compiler>1.8
