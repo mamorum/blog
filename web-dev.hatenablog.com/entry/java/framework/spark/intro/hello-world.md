@@ -84,4 +84,4 @@ sprkgs > mvn exec:java -Dexec.mainClass=sprkgs.Main
 
 
 ## コード
-[sprkgs - GitHub](https://github.com/mamorum/blog-code/tree/master/sprkgs)
+[sprkgs - GitHub](https://github.com/mamorum/blog/tree/master/code/sprkgs)

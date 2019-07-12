@@ -67,4 +67,4 @@ Logback（classic）を使いたい場合は、次の依存性を追加すれば
 
 
 ## コード
-[sprkgs - GitHub](https://github.com/mamorum/blog-code/tree/master/sprkgs)
+[sprkgs - GitHub](https://github.com/mamorum/blog/tree/master/code/sprkgs)

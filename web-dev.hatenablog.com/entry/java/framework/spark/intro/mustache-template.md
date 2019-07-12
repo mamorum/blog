@@ -136,4 +136,4 @@ Mustache テンプレートを作成します。
 
 
 ## コード
-[sprkgs - GitHub](https://github.com/mamorum/blog-code/tree/master/sprkgs)
+[sprkgs - GitHub](https://github.com/mamorum/blog/tree/master/code/sprkgs)

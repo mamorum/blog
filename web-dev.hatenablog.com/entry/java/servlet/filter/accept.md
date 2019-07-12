@@ -70,4 +70,4 @@ After servlet doGet.
 ## コード
 今回のコードは GitHub にも置いています。
 
-[GitHub - ssjp](https://github.com/mamorum/blog-code/tree/master/servlet/ssjp)（※ Servlet Sample Jetty Plugin）
+[GitHub - ssjp](https://github.com/mamorum/blog/tree/master/code/servlet/ssjp)（※ Servlet Sample Jetty Plugin）
