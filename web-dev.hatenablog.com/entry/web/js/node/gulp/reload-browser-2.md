@@ -81,4 +81,4 @@ gulp.task('bs-reload', function () {
 ## ソースコード
 今回のコードは、GitHub にも置いています。
 
-[ui/gulp-reload2 - GitHub](https://github.com/mamorum/blog-code/tree/master/ui/gulp-reload2)
+[ui/gulp-reload2 - GitHub](https://github.com/mamorum/blog/tree/master/code/ui/gulp-reload2)

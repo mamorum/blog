@@ -71,7 +71,7 @@ public class SessionListener implements HttpSessionListener {
 ## 補足：コード・環境
 今回のコードは GitHub にも置いています。
 
-[GitHub - ssjp](https://github.com/mamorum/blog-code/tree/master/servlet/ssjp)（※ Servlet Sample Jetty Plugin）
+[GitHub - ssjp](https://github.com/mamorum/blog/tree/master/code/servlet/ssjp)（※ Servlet Sample Jetty Plugin）
 
 コードを実行する場合、動作環境（サーブレットコンテナ）が必要になります。環境がない場合、以下の記事を参照して頂けると嬉しいです。
 

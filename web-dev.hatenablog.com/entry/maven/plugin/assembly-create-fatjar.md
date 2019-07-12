@@ -147,4 +147,4 @@ Maven の [Shade Plugin](http://maven.apache.org/plugins/maven-shade-plugin/) �
 
 
 ## コード
-[fjs - GitHub](https://github.com/mamorum/blog-code/tree/master/maven/fjs)
+[fjs - GitHub](https://github.com/mamorum/blog/tree/master/code/maven/fjs)

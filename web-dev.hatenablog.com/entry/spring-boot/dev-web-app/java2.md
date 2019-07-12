@@ -14,7 +14,7 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10
 コントローラの「作成場所（配置場所）」と「コード（完全版のリンク）」は、以下の通りです。
 
 - 作成場所：`sbt/src/main/java/sbt/controller/TsubuyakiController.java`
-- コード：[TsubuyakiController.java - GitHub](https://github.com/mamorum/blog-code/tree/master/sbt/src/main/java/sbt/controller/TsubuyakiController.java) 
+- コード：[TsubuyakiController.java - GitHub](https://github.com/mamorum/blog/tree/master/code/sbt/src/main/java/sbt/controller/TsubuyakiController.java) 
 
 
 ## コントローラの概要

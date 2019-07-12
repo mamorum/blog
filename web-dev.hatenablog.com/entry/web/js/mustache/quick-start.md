@@ -183,7 +183,7 @@ mustache.js を使うと、クライアントサイド（ブラウザ）でも�
 ## 今回のコード
 GitHub にサンプルコードを置いています。
 
-[ui/demo-mustachejs - GitHub](https://github.com/mamorum/blog-code/tree/master/ui/demo-mustachejs)
+[ui/demo-mustachejs - GitHub](https://github.com/mamorum/blog/tree/master/code/ui/demo-mustachejs)
 
 
 ## 参考文献

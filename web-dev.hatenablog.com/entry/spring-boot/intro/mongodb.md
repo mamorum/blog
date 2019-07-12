@@ -237,5 +237,5 @@ Spring の仕様なのかと思います。
 
 
 ## ソースコード
-[gssb-nosql - GitHub](https://github.com/mamorum/blog-code/tree/master/gssb-nosql)  
+[gssb-nosql - GitHub](https://github.com/mamorum/blog/tree/master/code/gssb-nosql)  
 ※ プロジェクト名の gssb は、Getting Started Spring Boot の略です。

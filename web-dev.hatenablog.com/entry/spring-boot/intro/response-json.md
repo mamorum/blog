@@ -139,5 +139,5 @@ gssb > mvn spring-boot:run
 
 
 ## ソースコード
-[gssb - GitHub](https://github.com/mamorum/blog-code/tree/master/gssb)  
+[gssb - GitHub](https://github.com/mamorum/blog/tree/master/code/gssb)  
 ※ プロジェクト名の gssb は、Getting Started Spring Boot の略です。

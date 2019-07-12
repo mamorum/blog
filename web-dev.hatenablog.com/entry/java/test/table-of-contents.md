@@ -24,6 +24,6 @@ Java のテスト関連記事を目次としてまとめました。上から順
 
 
 ## ソースコード
-[gsjt - GitHub](https://github.com/mamorum/blog-code/tree/master/gsjt)
+[gsjt - GitHub](https://github.com/mamorum/blog/tree/master/code/gsjt)
 
 ※ プロジェクト名 gsjt は、Getting Started Java Test の略です。

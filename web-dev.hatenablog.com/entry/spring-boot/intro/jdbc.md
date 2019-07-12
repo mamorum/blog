@@ -120,5 +120,5 @@ curl http://localhost:8080/jdbc/memos/1
 
 
 ## ソースコード
-[gssb-rdb - GitHub](https://github.com/mamorum/blog-code/tree/master/gssb-rdb)  
+[gssb-rdb - GitHub](https://github.com/mamorum/blog/tree/master/code/gssb-rdb)  
 ※ プロジェクト名の gssb は、Getting Started Spring Boot の略です。

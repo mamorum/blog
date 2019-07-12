@@ -14,7 +14,7 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10
 CSS の「作成場所（配置場所）」と「コード（完全版のリンク）」は、以下の通りです。
 
 - 作成場所：`sbt/src/main/resources/public/css/tsubuyaki.css`
-- コード：[index.html - GitHub](https://github.com/mamorum/blog-code/tree/master/sbt/src/main/resources/public/css/tsubuyaki.css) 
+- コード：[index.html - GitHub](https://github.com/mamorum/blog/tree/master/code/sbt/src/main/resources/public/css/tsubuyaki.css) 
 
 
 ## CSS の概要
@@ -25,7 +25,7 @@ CSS の「作成場所（配置場所）」と「コード（完全版のリン�
 JavaScript の「作成場所（配置場所）」と「コード（完全版のリンク）」は、以下の通りです。
 
 - 作成場所：`sbt/src/main/resources/public/js/tsubuyaki.js`
-- コード：[tsubuyaki.js - GitHub](https://github.com/mamorum/blog-code/tree/master/sbt/src/main/resources/public/js/tsubuyaki.js) 
+- コード：[tsubuyaki.js - GitHub](https://github.com/mamorum/blog/tree/master/code/sbt/src/main/resources/public/js/tsubuyaki.js) 
 
 
 ## JavaScript の概要

@@ -24,7 +24,7 @@ Spring Boot を使って、Webアプリをつくる記事を書いてみまし�
 
 
 ## ソースコード
-[sbt - GitHub](https://github.com/mamorum/blog-code/tree/master/sbt)  
+[sbt - GitHub](https://github.com/mamorum/blog/tree/master/code/sbt)  
 ※ プロジェクト名の sbt は、Spring Boot Tutorial（Tsubuyaki）の略です。
 
 

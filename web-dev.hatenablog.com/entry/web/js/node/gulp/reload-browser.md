@@ -109,4 +109,4 @@ gulp-reload > gulp
 ## ソースコード
 今回のコードは、GitHub にも置いています。
 
-[ui/gulp-reload - GitHub](https://github.com/mamorum/blog-code/tree/master/ui/gulp-reload)
+[ui/gulp-reload - GitHub](https://github.com/mamorum/blog/tree/master/code/ui/gulp-reload)

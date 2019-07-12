@@ -31,7 +31,7 @@ Blocked a frame with origin "http://localhost:3000"
 ## コード
 検証で使ったコードは、GitHub にあります。
 
-[cdi - GitHub](https://github.com/mamorum/blog-code/tree/master/js/cdi)
+[cdi - GitHub](https://github.com/mamorum/blog/tree/master/code/js/cdi)
 
 iframe で同じドメインの XML を取得した場合は、エラー発生せずに操作できました。
 

@@ -148,5 +148,5 @@ Spring Boot の場合、設定ファイル（`application.properties`）で、�
 
 
 ## ソースコード
-[gssb - GitHub](https://github.com/mamorum/blog-code/tree/master/gssb)  
+[gssb - GitHub](https://github.com/mamorum/blog/tree/master/code/gssb)  
 ※ プロジェクト名の gssb は、Getting Started Spring Boot の略です。

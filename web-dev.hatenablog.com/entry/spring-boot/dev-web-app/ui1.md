@@ -14,7 +14,7 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10
 HTML の「作成場所（配置場所）」と「コード（完全版のリンク）」は、以下の通りです。
 
 - 作成場所：`sbt/src/main/resources/public/index.html`
-- コード：[index.html - GitHub](https://github.com/mamorum/blog-code/tree/master/sbt/src/main/resources/public/index.html) 
+- コード：[index.html - GitHub](https://github.com/mamorum/blog/tree/master/code/sbt/src/main/resources/public/index.html) 
 
 
 ## HTML の概要

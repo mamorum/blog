@@ -112,5 +112,5 @@ Date: Fri Apr 07 14:12:12 JST 2017
 [spring-boot-samples/spring-boot-sample-web-mustache - GitHub](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples/spring-boot-sample-web-mustache)
 
 ## ソースコード
-[gssb - GitHub](https://github.com/mamorum/blog-code/tree/master/gssb)  
+[gssb - GitHub](https://github.com/mamorum/blog/tree/master/code/gssb)  
 ※ プロジェクト名の gssb は、Getting Started Spring Boot の略です。
