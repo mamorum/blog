@@ -1,9 +1,9 @@
 ---
 Title: Maven：pluginManagementについて
 Category:
-- Maven
+- Java
 Date: 2016-11-11T12:30:55+09:00
-URL: http://web-dev.hatenablog.com/entry/maven/pom/about-plugin-management
+URL: https://web-dev.hatenablog.com/entry/maven/pom/about-plugin-management
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687193892110
 ---
 

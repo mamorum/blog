@@ -1,9 +1,9 @@
 ---
 Title: Maven：コンパイラのバージョン設定
 Category:
-- Maven
+- Java
 Date: 2017-03-16T13:20:31+09:00
-URL: http://web-dev.hatenablog.com/entry/maven/java-version-setting
+URL: https://web-dev.hatenablog.com/entry/maven/java-version-setting
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687227480771
 ---
 

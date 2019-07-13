@@ -1,7 +1,7 @@
 ---
 Title: SpringBoot入門：静的コンテンツを返す
 Category:
-- Spring
+- Java
 Date: 2017-02-21T00:00:00+09:00
 URL: https://web-dev.hatenablog.com/entry/spring-boot/intro/response-static-content
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687219967440

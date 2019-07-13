@@ -1,9 +1,9 @@
 ---
 Title: SpringBoot アプリ開発：1.概要
 Category:
-- Spring
+- Java
 Date: 2017-06-14T18:23:35+09:00
-URL: http://web-dev.hatenablog.com/entry/spring-boot/dev-web-app/overview
+URL: https://web-dev.hatenablog.com/entry/spring-boot/dev-web-app/overview
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812269933468
 ---
 

@@ -1,7 +1,7 @@
 ---
 Title: SpringBoot アプリ開発：6.ＵＩ（HTML, mustache）
 Category:
-- Spring
+- Java
 Date: 2016-06-23T22:30:00+09:00
 URL: https://web-dev.hatenablog.com/entry/spring-boot/dev-web-app/ui1
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179183836

@@ -1,9 +1,9 @@
 ---
 Title: Maven：test配下のMainクラス実行
 Category:
-- Maven
+- Java
 Date: 2017-08-06T13:30:08+09:00
-URL: http://web-dev.hatenablog.com/entry/maven/plugin/exec-java-test
+URL: https://web-dev.hatenablog.com/entry/maven/plugin/exec-java-test
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812286111549
 ---
 

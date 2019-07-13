@@ -1,9 +1,9 @@
 ---
 Title: Maven：dependencyManagementについて
 Category:
-- Maven
+- Java
 Date: 2016-11-14T18:41:15+09:00
-URL: http://web-dev.hatenablog.com/entry/maven/pom/about-dependency-management
+URL: https://web-dev.hatenablog.com/entry/maven/pom/about-dependency-management
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687194352950
 ---
 

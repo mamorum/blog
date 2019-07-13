@@ -1,9 +1,9 @@
 ---
 Title: Maven：javadocプラグインのエンコーディング
 Category:
-- Maven
+- Java
 Date: 2016-10-22T20:06:46+09:00
-URL: http://web-dev.hatenablog.com/entry/maven/plugin/javadoc-encoding
+URL: https://web-dev.hatenablog.com/entry/maven/plugin/javadoc-encoding
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687190722948
 ---
 

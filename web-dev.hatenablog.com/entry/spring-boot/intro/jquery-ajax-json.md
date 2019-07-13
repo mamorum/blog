@@ -1,7 +1,7 @@
 ---
 Title: SpringBoot入門：jQueryでJSONを受信
 Category:
-- Spring
+- Java
 Date: 2017-02-16T16:15:00+09:00
 URL: https://web-dev.hatenablog.com/entry/spring-boot/intro/jquery-ajax-json
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179106284

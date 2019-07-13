@@ -1,9 +1,9 @@
 ---
 Title: Maven Central（Nexus）で Close エラー
 Category:
-- Maven
+- Java
 Date: 2017-05-16T11:21:20+09:00
-URL: http://web-dev.hatenablog.com/entry/maven/central/nexus-close-error
+URL: https://web-dev.hatenablog.com/entry/maven/central/nexus-close-error
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687246934140
 ---
 

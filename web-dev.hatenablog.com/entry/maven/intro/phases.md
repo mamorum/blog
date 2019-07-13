@@ -1,9 +1,9 @@
 ---
 Title: Maven入門：5.フェイズについて
 Category:
-- Maven
+- Java
 Date: 2017-06-30T10:09:09+09:00
-URL: http://web-dev.hatenablog.com/entry/maven/intro/phases
+URL: https://web-dev.hatenablog.com/entry/maven/intro/phases
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812275292222
 ---
 

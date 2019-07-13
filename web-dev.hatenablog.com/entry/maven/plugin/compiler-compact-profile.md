@@ -1,9 +1,9 @@
 ---
 Title: Maven：コンパクト・プロファイルを使う
 Category:
-- Maven
+- Java
 Date: 2017-03-28T16:45:00+09:00
-URL: http://web-dev.hatenablog.com/entry/maven/plugin/compiler-compact-profile
+URL: https://web-dev.hatenablog.com/entry/maven/plugin/compiler-compact-profile
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687231649645
 ---
 

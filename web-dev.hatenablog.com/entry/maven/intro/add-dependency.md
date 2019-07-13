@@ -1,9 +1,9 @@
 ---
 Title: Maven入門：4.依存性の追加
 Category:
-- Maven
+- Java
 Date: 2017-06-28T08:42:26+09:00
-URL: http://web-dev.hatenablog.com/entry/maven/intro/add-dependency
+URL: https://web-dev.hatenablog.com/entry/maven/intro/add-dependency
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812274689926
 ---
 

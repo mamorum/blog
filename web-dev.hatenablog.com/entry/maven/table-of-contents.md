@@ -1,7 +1,7 @@
 ---
 Title: Maven：記事の一覧
 Category:
-- Maven
+- Java
 Date: 2017-07-03T10:31:22+09:00
 URL: https://web-dev.hatenablog.com/entry/maven/table-of-contents
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812274098483

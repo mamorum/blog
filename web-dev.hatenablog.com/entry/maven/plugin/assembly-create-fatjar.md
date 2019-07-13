@@ -1,7 +1,7 @@
 ---
 Title: Maven：fatjarの作成
 Category:
-- Maven
+- Java
 Date: 2017-07-03T08:35:57+09:00
 URL: https://web-dev.hatenablog.com/entry/maven/plugin/assembly-create-fatjar
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812276276211

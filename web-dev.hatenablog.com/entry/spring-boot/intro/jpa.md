@@ -1,7 +1,7 @@
 ---
 Title: SpringBoot入門：JPAでデータアクセス
 Category:
-- Spring
+- Java
 Date: 2017-03-11T17:20:00+09:00
 URL: https://web-dev.hatenablog.com/entry/spring-boot/intro/jpa
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179107669

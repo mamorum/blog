@@ -1,9 +1,9 @@
 ---
 Title: SpringBoot：Velocity の文字化け対応
 Category:
-- Spring
+- Java
 Date: 2016-07-29T17:00:00+09:00
-URL: http://web-dev.hatenablog.com/entry/spring-boot/error/velocity-mojibake
+URL: https://web-dev.hatenablog.com/entry/spring-boot/error/velocity-mojibake
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178787333
 ---
 

@@ -1,9 +1,9 @@
 ---
 Title: Maven：Java プログラムの実行
 Category:
-- Maven
+- Java
 Date: 2017-08-05T09:50:26+09:00
-URL: http://web-dev.hatenablog.com/entry/maven/plugin/exec-java
+URL: https://web-dev.hatenablog.com/entry/maven/plugin/exec-java
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687236690515
 ---
 

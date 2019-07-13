@@ -1,9 +1,9 @@
 ---
 Title: SpringBoot：アプリの起動・停止シェルスクリプト
 Category:
-- Spring
+- Java
 Date: 2016-12-19T14:15:07+09:00
-URL: http://web-dev.hatenablog.com/entry/spring-boot/start-stop-script-chkconfig
+URL: https://web-dev.hatenablog.com/entry/spring-boot/start-stop-script-chkconfig
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687199812058
 ---
 

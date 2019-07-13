@@ -1,9 +1,9 @@
 ---
 Title: Maven：Ubuntu14にインストール
 Category:
-- Maven
+- Java
 Date: 2017-07-05T08:18:50+09:00
-URL: http://web-dev.hatenablog.com/entry/maven/ubuntu14-install
+URL: https://web-dev.hatenablog.com/entry/maven/ubuntu14-install
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812276889148
 ---
 

@@ -1,9 +1,9 @@
 ---
 Title: Maven：warの作成
 Category:
-- Maven
+- Java
 Date: 2017-08-04T08:22:23+09:00
-URL: http://web-dev.hatenablog.com/entry/maven/plugin/war
+URL: https://web-dev.hatenablog.com/entry/maven/plugin/war
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812285519348
 ---
 

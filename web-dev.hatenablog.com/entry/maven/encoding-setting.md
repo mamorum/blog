@@ -1,9 +1,9 @@
 ---
 Title: Maven：エンコーディング設定
 Category:
-- Maven
+- Java
 Date: 2017-03-16T09:25:08+09:00
-URL: http://web-dev.hatenablog.com/entry/maven/encoding-setting
+URL: https://web-dev.hatenablog.com/entry/maven/encoding-setting
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687185213865
 ---
 

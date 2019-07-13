@@ -1,9 +1,9 @@
 ---
 Title: Maven入門：2.エンコーディングとコンパイラの設定
 Category:
-- Maven
+- Java
 Date: 2017-06-27T09:00:00+09:00
-URL: http://web-dev.hatenablog.com/entry/maven/intro/encoding-and-javac-version
+URL: https://web-dev.hatenablog.com/entry/maven/intro/encoding-and-javac-version
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812274143648
 ---
 

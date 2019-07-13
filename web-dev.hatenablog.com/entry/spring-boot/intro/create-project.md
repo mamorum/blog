@@ -1,9 +1,9 @@
 ---
 Title: SpringBoot：Initializrでプロジェクト作成
 Category:
-- Spring
+- Java
 Date: 2016-07-27T15:50:00+09:00
-URL: http://web-dev.hatenablog.com/entry/spring-boot/intro/create-project
+URL: https://web-dev.hatenablog.com/entry/spring-boot/intro/create-project
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179112021
 ---
 

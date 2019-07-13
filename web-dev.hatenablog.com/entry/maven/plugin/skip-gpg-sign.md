@@ -1,9 +1,9 @@
 ---
 Title: Maven：GPGプラグインのスキップ
 Category:
-- Maven
+- Java
 Date: 2016-10-23T19:50:19+09:00
-URL: http://web-dev.hatenablog.com/entry/maven/plugin/skip-gpg-sign
+URL: https://web-dev.hatenablog.com/entry/maven/plugin/skip-gpg-sign
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687190886861
 ---
 

@@ -1,9 +1,9 @@
 ---
 Title: SpringBoot：Hot Swapping
 Category:
-- Spring
+- Java
 Date: 2015-05-13T15:09:00+09:00
-URL: http://web-dev.hatenablog.com/entry/spring-boot/intro/hot-swapping
+URL: https://web-dev.hatenablog.com/entry/spring-boot/intro/hot-swapping
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179613077
 ---
 

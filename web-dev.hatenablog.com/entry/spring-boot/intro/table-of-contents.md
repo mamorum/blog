@@ -1,9 +1,9 @@
 ---
 Title: SpringBoot入門：目次
 Category:
-- Spring
+- Java
 Date: 2017-04-07T14:50:00+09:00
-URL: http://web-dev.hatenablog.com/entry/spring-boot/intro/table-of-contents
+URL: https://web-dev.hatenablog.com/entry/spring-boot/intro/table-of-contents
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179112311
 ---
 

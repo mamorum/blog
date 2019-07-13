@@ -1,9 +1,9 @@
 ---
 Title: SpringBoot入門：MessageSource を使う
 Category:
-- Spring
+- Java
 Date: 2017-05-11T18:06:00+09:00
-URL: http://web-dev.hatenablog.com/entry/spring-boot/intro/message-source
+URL: https://web-dev.hatenablog.com/entry/spring-boot/intro/message-source
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179613894
 ---
 

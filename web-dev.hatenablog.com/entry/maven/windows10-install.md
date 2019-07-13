@@ -1,9 +1,9 @@
 ---
 Title: Maven：Win10にインストール
 Category:
-- Maven
+- Java
 Date: 2017-06-10T09:02:37+09:00
-URL: http://web-dev.hatenablog.com/entry/maven/windows10-install
+URL: https://web-dev.hatenablog.com/entry/maven/windows10-install
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/13355765958053917957
 ---
 

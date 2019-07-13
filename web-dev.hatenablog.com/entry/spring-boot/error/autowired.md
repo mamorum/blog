@@ -1,9 +1,9 @@
 ---
 Title: SpringBoot：@Autowired のエラー対応
 Category:
-- Spring
+- Java
 Date: 2016-07-28T12:40:00+09:00
-URL: http://web-dev.hatenablog.com/entry/spring-boot/error/autowired
+URL: https://web-dev.hatenablog.com/entry/spring-boot/error/autowired
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178774603
 ---
 

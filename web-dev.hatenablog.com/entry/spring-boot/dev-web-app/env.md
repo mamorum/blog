@@ -1,9 +1,9 @@
 ---
 Title: SpringBoot アプリ開発：2.環境準備
 Category:
-- Spring
+- Java
 Date: 2016-06-23T22:05:00+09:00
-URL: http://web-dev.hatenablog.com/entry/spring-boot/dev-web-app/env
+URL: https://web-dev.hatenablog.com/entry/spring-boot/dev-web-app/env
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179181655
 ---
 

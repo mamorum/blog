@@ -1,9 +1,9 @@
 ---
 Title: SpringBoot：環境で設定を変える
 Category:
-- Spring
+- Java
 Date: 2015-06-22T18:54:00+09:00
-URL: http://web-dev.hatenablog.com/entry/spring-boot/intro/switch-config
+URL: https://web-dev.hatenablog.com/entry/spring-boot/intro/switch-config
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179614863
 ---
 

@@ -1,9 +1,9 @@
 ---
 Title: SpringBoot：バリデーションエラーメッセージの共通化
 Category:
-- Spring
+- Java
 Date: 2015-06-12T15:46:00+09:00
-URL: http://web-dev.hatenablog.com/entry/spring-boot/validation/common-messages
+URL: https://web-dev.hatenablog.com/entry/spring-boot/validation/common-messages
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179545336
 ---
 

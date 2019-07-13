@@ -1,7 +1,7 @@
 ---
 Title: SpringBoot入門：Mustacheを使う
 Category:
-- Spring
+- Java
 Date: 2017-04-07T14:18:37+09:00
 URL: https://web-dev.hatenablog.com/entry/spring-boot/intro/mustache-template
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687235335739

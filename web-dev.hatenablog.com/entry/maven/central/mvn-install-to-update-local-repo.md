@@ -1,9 +1,9 @@
 ---
 Title: Maven：mvn install でローカルリポジトリを更新
 Category:
-- Maven
+- Java
 Date: 2017-12-07T05:30:00+09:00
-URL: http://web-dev.hatenablog.com/entry/maven/central/mvn-install-to-update-local-repo
+URL: https://web-dev.hatenablog.com/entry/maven/central/mvn-install-to-update-local-repo
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812322137699
 ---
 

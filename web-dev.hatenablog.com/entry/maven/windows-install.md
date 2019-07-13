@@ -1,9 +1,9 @@
 ---
 Title: Maven：Win7にインストール
 Category:
-- Maven
+- Java
 Date: 2017-06-09T17:00:00+09:00
-URL: http://web-dev.hatenablog.com/entry/maven/windows-install
+URL: https://web-dev.hatenablog.com/entry/maven/windows-install
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178896795
 ---
 

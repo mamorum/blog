@@ -1,9 +1,9 @@
 ---
 Title: Maven：ライセンスの設定
 Category:
-- Maven
+- Java
 Date: 2016-10-09T12:02:37+09:00
-URL: http://web-dev.hatenablog.com/entry/maven/license
+URL: https://web-dev.hatenablog.com/entry/maven/license
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687188528834
 ---
 

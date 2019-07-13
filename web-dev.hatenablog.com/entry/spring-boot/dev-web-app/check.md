@@ -1,9 +1,9 @@
 ---
 Title: SpringBoot アプリ開発：8.動作確認
 Category:
-- Spring
+- Java
 Date: 2016-06-24T19:10:00+09:00
-URL: http://web-dev.hatenablog.com/entry/spring-boot/dev-web-app/check
+URL: https://web-dev.hatenablog.com/entry/spring-boot/dev-web-app/check
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179186581
 ---
 

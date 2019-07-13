@@ -1,9 +1,9 @@
 ---
 Title: Maven入門：3.Eclipseにインポート
 Category:
-- Maven
+- Java
 Date: 2017-06-27T10:00:06+09:00
-URL: http://web-dev.hatenablog.com/entry/maven/intro/import-prj-to-eclipse
+URL: https://web-dev.hatenablog.com/entry/maven/intro/import-prj-to-eclipse
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812274393099
 ---
 

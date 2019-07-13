@@ -1,9 +1,9 @@
 ---
 Title: Maven入門：1.プロジェクトの作成と実行
 Category:
-- Maven
+- Java
 Date: 2017-06-26T11:08:46+09:00
-URL: http://web-dev.hatenablog.com/entry/maven/intro/create-prj-and-exec
+URL: https://web-dev.hatenablog.com/entry/maven/intro/create-prj-and-exec
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812274104804
 ---
 

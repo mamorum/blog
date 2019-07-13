@@ -1,9 +1,9 @@
 ---
 Title: SpringBoot：ロール名と認可の設定
 Category:
-- Spring
+- Java
 Date: 2015-06-03T01:00:00+09:00
-URL: http://web-dev.hatenablog.com/entry/spring-boot/security/role-name
+URL: https://web-dev.hatenablog.com/entry/spring-boot/security/role-name
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179338700
 ---
 
