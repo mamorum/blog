@@ -5,7 +5,6 @@ Category:
 Date: 2019-07-22T01:00:00+09:00
 URL: https://web-dev.hatenablog.com/entry/windows/10/delete-zoneid
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17680117127211665353
-Draft: true
 ---
 
 Windows10 で、ネットからダウンロードしたファイルを実行すると、以下のようにブロック画面が表示されることがあります。

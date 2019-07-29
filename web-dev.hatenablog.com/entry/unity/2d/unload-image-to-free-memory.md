@@ -5,7 +5,6 @@ Category:
 Date: 2019-07-15T01:00:00+09:00
 URL: https://web-dev.hatenablog.com/entry/unity/2d/unload-image-to-free-memory
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17680117127210108215
-Draft: true
 ---
 
 Unity の [Resources](https://docs.unity3d.com/ja/current/ScriptReference/Resources.html) を使って、画像のメモリを解放する方法を書いていきます。
@@ -26,7 +25,7 @@ Unity の [Resources](https://docs.unity3d.com/ja/current/ScriptReference/Resour
 
 といった感じで、事前に画像を動的に読み込んでおく必要があります。その方法は以下の記事に書いてあります。
 
-※ 記事準備中
+[https://web-dev.hatenablog.com/entry/unity/2d/load-image-at-runtime:embed:cite]
 
 あと、`Resources` の使用はベストプラクティスではないみたいで、その辺のこともリンク先にあります。
 

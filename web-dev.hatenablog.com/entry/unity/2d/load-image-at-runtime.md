@@ -24,7 +24,11 @@ Unity の [Resources](https://docs.unity3d.com/ja/current/ScriptReference/Resour
 
 
 ## メリット
-ゲーム実行中にメモリを解放したい場合は、`Resources` を使うと便利だったりします。メモリ解放の手順は、別の記事で書いていくつもりです。
+ゲーム実行中にメモリを解放したい場合は、`Resources` を使うと便利だったりします。メモリ解放の手順は、以下の記事にまとめています。
+
+[https://web-dev.hatenablog.com/entry/unity/2d/unload-image-to-free-memory:embed:cite]
+
+※ 今回の記事の続き、という感じで書いてます。
 
 
 ## 手順1. Resource フォルダの準備
@@ -108,4 +112,4 @@ public class Controller : MonoBehaviour {
 
 [f:id:mamorums:20190628135154p:plain]
 
-`SpriteRenderer` の `Sprite` を削除しない場合は、ゲーム起動時に画像が読み込まれると思います。なので、これに近い値になるのかと思います。
+`SpriteRenderer` の `Sprite` を削除しない場合は、ゲーム起動時に画像が読み込まれると思います。
