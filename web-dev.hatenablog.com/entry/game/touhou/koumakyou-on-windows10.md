@@ -78,8 +78,14 @@ DirectX のレンダリングを 8 から 9 に変換してくれるコンバー
 紅魔郷を起動してプレイします。
 
 
+## お知らせ
+私事で恐縮ですが、東方Projectの二次創作をしています。無料のゲームやアレンジ曲などがあるので、下のリンク先を見ていって頂けたら嬉しいです。
+
+[https://web-dev.hatenablog.com/entry/nijisousaku/touhou/list:embed:cite]
+
+
 ## 補足1. ゲームパッド
-自分は「HORI EDGE 301」を使っていて、下のリンク先にレビューを書いています。
+紅魔郷（原作ゲーム）の話に戻りますが、自分は「HORI EDGE 301」というゲームパッドを使っています。
 
 [https://web-dev.hatenablog.com/entry/hardware/gamepad/hori-edge-301:embed:cite]
 

@@ -73,5 +73,15 @@ DirectX のレンダリングを 8 から 9 に変換する資源を、妖々夢
 妖々夢（or 永夜抄）を起動してプレイします。
 
 
+## お知らせ
+私事で恐縮ですが、東方Projectの二次創作をしています。無料のゲームやアレンジ曲などがあるので、下のリンク先を見ていって頂けたら嬉しいです。
+
+[https://web-dev.hatenablog.com/entry/nijisousaku/touhou/list:embed:cite]
+
+
 ## 補足
-ゲーム終了時に、ちょっとだけ画面が大きくなったり乱れることがあります。詳細は、[紅魔郷の記事](/entry/game/touhou/koumakyou-on-windows10) の「注意事項」に記載しています。
+ゲームパッドやゲーム終了時の挙動を、補足として下のリンク先に書いています。
+
+[https://web-dev.hatenablog.com/entry/game/touhou/koumakyou-on-windows10:embed:cite]
+
+
