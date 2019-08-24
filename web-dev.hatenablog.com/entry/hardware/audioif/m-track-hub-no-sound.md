@@ -3,7 +3,7 @@ Title: M-Track Hub：音が出ない場合の対応
 Category:
 - ハード
 Date: 2019-06-27T12:55:00+09:00
-URL: https://web-dev.hatenablog.com/entry/hardware/audioif/m-track-hub/trouble/no-sound
+URL: https://web-dev.hatenablog.com/entry/hardware/audioif/m-track-hub-no-sound
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17680117127208947794
 ---
 

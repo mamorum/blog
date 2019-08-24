@@ -3,7 +3,7 @@ Title: M-Track Hub：バッファサイズの変更
 Category:
 - ハード
 Date: 2019-07-10T15:55:15+09:00
-URL: https://web-dev.hatenablog.com/entry/hardware/audioif/m-track-hub/change-buffer-size
+URL: https://web-dev.hatenablog.com/entry/hardware/audioif/m-track-hub-change-buffer-size
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17680117127216283552
 ---
 
