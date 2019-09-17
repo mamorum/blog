@@ -102,3 +102,9 @@ Unity のドキュメントを見ると、Resources は使わないほうが良�
 
 最近の実機はメモリ容量も増えたので、メモリに展開したままでも余裕あったりしますよね。メモリサイズよりもディスクアクセスを少なくすべきという考え（特にHDD）も、すごく良く分かります。
 
+
+## 参考文献
+以下のページを参考にさせて頂きました。
+
+[http://ft-lab.ne.jp/cgi-bin-unity/wiki.cgi?page=unity%5Fscript%5Fget%5Fresources%5Fobject:title]
+

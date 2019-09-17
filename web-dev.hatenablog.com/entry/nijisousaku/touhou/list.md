@@ -29,11 +29,5 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17
 - [桜花の恋歌](/entry/nijisousaku/touhou/music/hourainingyo/oukanokoiuta)（原曲：桜花之恋塚 ～ Japanese Flower）
 
 
-### オルゴールアレンジ
-ゲームで使用している曲です。リンク先は YouTube になります。
-
-- [赤より紅い夢](https://www.youtube.com/watch?v=mM1TJnVjPJQ)
-
-
 ## 外部リンク
 [上海アリス幻樂団](https://www16.big.or.jp/~zun/) さま

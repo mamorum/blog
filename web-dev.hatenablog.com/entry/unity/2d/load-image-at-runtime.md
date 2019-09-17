@@ -113,3 +113,9 @@ public class Controller : MonoBehaviour {
 [f:id:mamorums:20190628135154p:plain]
 
 `SpriteRenderer` の `Sprite` を削除しない場合は、ゲーム起動時に画像が読み込まれると思います。
+
+
+## 参考文献
+以下のページを参考にさせて頂きました。
+
+[http://ft-lab.ne.jp/cgi-bin-unity/wiki.cgi?page=unity%5Fscript%5Fget%5Fresources%5Fobject:title]
