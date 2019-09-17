@@ -15,6 +15,10 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17
 
 タイトルのネーミングは、すぐに二次創作だと分かるようにしたかった・・、ということにさせてください。
 
+一応ストーリーがあって、キャラ同士の会話もあります。物語としては完結してないので、永夜抄あたりまで続く予定です（続けたい・・・）。あらすじや概要は以下の記事にまとめています。
+
+[https://web-dev.hatenablog.com/entry/nijisousaku/touhou/game/typing/koumakyou/manual/overview:embed:cite]
+
 
 ## ゲームのダウンロード
 下の記事にダウンロード方法やインストール方法を書いています。
@@ -23,7 +27,7 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17
 
 
 ## 感想
-自分のつくったものがゲームと呼べるレベルか分からないですが、開発した感想を少し書いてみました。
+自分のつくったものがゲームと呼べるか分からないですが、開発した感想を少し書いてみました。
 
 
 ### 開発全般
