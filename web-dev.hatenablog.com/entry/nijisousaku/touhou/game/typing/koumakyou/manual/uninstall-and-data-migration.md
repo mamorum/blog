@@ -2,18 +2,12 @@
 Title: タイピング紅魔郷：アンインストール・移行
 Category:
 - 二次創作
-Date: 2019-05-28T01:00:00+09:00
+Date: 2019-09-18T23:00:00+09:00
 URL: https://web-dev.hatenablog.com/entry/nijisousaku/touhou/game/typing/koumakyou/manual/uninstall-and-data-migration
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17680117127170376792
 ---
 
-この記事は、東方Project の二次創作ゲーム「タイピング紅魔郷」のマニュアルです。ダウンロードやインストール方法は [こちら](/entry/nijisousaku/touhou/game/typing/koumakyou/manual/install-and-start) に掲載しています。
-
-
-## マニュアルリンク
-- [目次](/entry/nijisousaku/touhou/game/typing/koumakyou/manual/table-of-contents)
-- [次へ（お問い合わせ・お礼）](/entry/nijisousaku/touhou/game/typing/koumakyou/manual/inquiry-and-thanks)
-- [前へ（操作・ローマ字入力）](/entry/nijisousaku/touhou/game/typing/koumakyou/manual/operation-and-input)
+東方Project の二次創作ゲーム「タイピング紅魔郷」のマニュアル（アンインストール、データ削除・移行）です。インストール方法は [こちら](/entry/nijisousaku/touhou/game/typing/koumakyou/manual/install-and-start)。
 
 
 ## アンインストール
@@ -40,3 +34,7 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17
 
 ## データの移行
 上のデータフォルダを、移行先のユーザフォルダに移します。
+
+
+## 次のページ
+- [お問い合わせ・お礼](/entry/nijisousaku/touhou/game/typing/koumakyou/manual/inquiry-and-thanks)

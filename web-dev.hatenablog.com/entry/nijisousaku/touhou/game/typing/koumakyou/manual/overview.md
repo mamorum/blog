@@ -2,12 +2,12 @@
 Title: タイピング紅魔郷：概要
 Category:
 - 二次創作
-Date: 2019-05-26T01:00:00+09:00
+Date: 2019-09-18T23:00:00+09:00
 URL: https://web-dev.hatenablog.com/entry/nijisousaku/touhou/game/typing/koumakyou/manual/overview
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17680117127158383592
 ---
 
-東方Project の二次創作ゲーム「タイピング紅魔郷」の概要や動作環境などを書いています。ダウンロードやインストール方法は [こちら](/entry/nijisousaku/touhou/game/typing/koumakyou/manual/install-and-start) です。
+東方Project の二次創作ゲーム「タイピング紅魔郷」のマニュアル（概要、動作環境、等）です。インストール方法は [こちら](/entry/nijisousaku/touhou/game/typing/koumakyou/manual/install-and-start)。
 
 
 ## あらすじ
@@ -22,12 +22,7 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17
 ## ゲームの概要
 - ローマ字入力のタイピングゲーム（タイピングソフト）です。
 - キャラクター同士の会話やBGMなどもあります。
-- 内容は全年齢向けとなっています。
-
-
-## 注意事項
-- ローマ字入力の知識が必要になります。
-- かな入力はサポートしていません。
+- 内容は全年齢向けです。
 
 
 ## 動作環境
@@ -35,7 +30,7 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17
 - DirectX10 性能を持つグラフィックカード
 - CPU はなるべく新しいものを推奨
 - アスペクト比 16:9 のディスプレイを推奨
-- 入力用キーボード、150MB程度の容量が必要
+- 入力用キーボード、150MB程度のストレージ領域が必要
 
 
 ## 動作確認環境
@@ -58,3 +53,5 @@ Pixivに掲載しています。立ち絵は [dairiさん](https://www.pixiv.net
 [https://www.pixiv.net/novel/series/1154916:embed:cite]
 
 
+## 次のページ
+- [インストール・更新・起動](/entry/nijisousaku/touhou/game/typing/koumakyou/manual/install-and-start)

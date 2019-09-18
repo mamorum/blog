@@ -2,12 +2,12 @@
 Title: タイピング紅魔郷：マニュアル目次
 Category:
 - 二次創作
-Date: 2019-05-25T01:00:00+09:00
+Date: 2019-09-18T23:00:00+09:00
 URL: https://web-dev.hatenablog.com/entry/nijisousaku/touhou/game/typing/koumakyou/manual/table-of-contents
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17680117127158378774
 ---
 
-この記事は、東方Project の二次創作ゲーム「タイピング紅魔郷」のマニュアルです。変更履歴は [こちら](/entry/nijisousaku/touhou/game/typing/koumakyou/changelog) です。
+この記事は、東方Project の二次創作ゲーム「タイピング紅魔郷」のマニュアルです。
 
 
 ## 目次
@@ -15,7 +15,6 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17
 
 - あらすじ
 - ゲームの概要
-- 注意事項
 - 動作環境
 - 動作確認環境
 - 画面イメージ
@@ -35,6 +34,7 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17
 - ローマ字の入力設定
 - ローマ字の正誤判定
 - 「ん」の入力について
+- ローマ字入力の受付速度
 
 
 [４. アンインストール・移行](/entry/nijisousaku/touhou/game/typing/koumakyou/manual/uninstall-and-data-migration)
@@ -48,3 +48,5 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17
 
 - お問い合わせ
 - お礼
+
+[変更履歴](/entry/nijisousaku/touhou/game/typing/koumakyou/changelog)

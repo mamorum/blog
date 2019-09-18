@@ -2,18 +2,12 @@
 Title: タイピング紅魔郷：操作・ローマ字入力
 Category:
 - 二次創作
-Date: 2019-05-27T01:00:00+09:00
+Date: 2019-09-18T23:00:00+09:00
 URL: https://web-dev.hatenablog.com/entry/nijisousaku/touhou/game/typing/koumakyou/manual/operation-and-input
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17680117127163667682
 ---
 
-この記事は、東方Project の二次創作ゲーム「タイピング紅魔郷」のマニュアルです。ダウンロードやインストール方法は [こちら](/entry/nijisousaku/touhou/game/typing/koumakyou/manual/install-and-start) に掲載しています。
-
-
-## マニュアルリンク
-- [目次](/entry/nijisousaku/touhou/game/typing/koumakyou/manual/table-of-contents)
-- [次へ（アンインストール・移行）](/entry/nijisousaku/touhou/game/typing/koumakyou/manual/uninstall-and-data-migration)
-- [前へ（インストール・起動）](/entry/nijisousaku/touhou/game/typing/koumakyou/manual/install-and-start)
+東方Project の二次創作ゲーム「タイピング紅魔郷」のマニュアル（操作方法、入力方法、等）です。インストール方法は [こちら](/entry/nijisousaku/touhou/game/typing/koumakyou/manual/install-and-start)。
 
 
 ## キーボード操作
@@ -99,3 +93,7 @@ Config画面で設定したローマ字（or デフォルト設定）が、タ�
 現在の仕様では、１フレームに１ローマ字（１つのキー）だけ評価しています。１フレームに複数のキーが入力された場合、最初のキーだけが評価されます。
 
 ※ このゲームだと、１フレームは約16.6...ミリ秒です（約60fps なので、1000ミリ秒 ÷ 60フレーム）。
+
+
+## 次のページ
+- [アンインストール・移行](/entry/nijisousaku/touhou/game/typing/koumakyou/manual/uninstall-and-data-migration)

@@ -2,18 +2,12 @@
 Title: タイピング紅魔郷：インストール・更新・起動
 Category:
 - 二次創作
-Date: 2019-05-29T01:00:00+09:00
+Date: 2019-09-18T23:00:00+09:00
 URL: https://web-dev.hatenablog.com/entry/nijisousaku/touhou/game/typing/koumakyou/manual/install-and-start
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17680117127170710374
 ---
 
-この記事は、東方Project の二次創作ゲーム「タイピング紅魔郷」のマニュアルです。
-
-
-## マニュアルリンク
-- [目次](/entry/nijisousaku/touhou/game/typing/koumakyou/manual/table-of-contents)
-- [次へ（操作・ローマ字入力）](/entry/nijisousaku/touhou/game/typing/koumakyou/manual/operation-and-input)
-- [前へ（概要）](/entry/nijisousaku/touhou/game/typing/koumakyou/manual/overview)
+東方Project の二次創作ゲーム「タイピング紅魔郷」のマニュアル（インストール、ゲームの起動、等）です。
 
 
 ## インストール・更新
@@ -66,3 +60,6 @@ ZIPファイルを右クリックして「すべて展開」で解凍します�
 ### その他
 他の設定は、基本的にデフォルトのままで大丈夫です。
 
+
+## 次のページ
+- [操作・ローマ字入力](/entry/nijisousaku/touhou/game/typing/koumakyou/manual/operation-and-input)
