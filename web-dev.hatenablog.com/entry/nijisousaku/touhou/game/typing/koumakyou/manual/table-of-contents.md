@@ -7,7 +7,7 @@ URL: https://web-dev.hatenablog.com/entry/nijisousaku/touhou/game/typing/koumaky
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17680117127158378774
 ---
 
-この記事は、東方Project の二次創作ゲーム「タイピング紅魔郷」のマニュアルです。
+この記事は、東方Project の二次創作ゲーム「タイピング紅魔郷」のマニュアルです。変更履歴は [こちら](/entry/nijisousaku/touhou/game/typing/koumakyou/changelog) です。
 
 
 ## 目次
@@ -19,14 +19,12 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17
 - 動作環境
 - 動作確認環境
 - 画面イメージ
+- 会話集
 
 
-[２. インストール・起動](/entry/nijisousaku/touhou/game/typing/koumakyou/manual/install-and-start)
+[２. インストール・更新・起動](/entry/nijisousaku/touhou/game/typing/koumakyou/manual/install-and-start)
 
-- ダウンロード
-- ブロック解除
-- 解凍
-- インストール
+- インストール・更新
 - ゲームの起動
 
 

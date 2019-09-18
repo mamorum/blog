@@ -7,12 +7,7 @@ URL: https://web-dev.hatenablog.com/entry/nijisousaku/touhou/game/typing/koumaky
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17680117127158383592
 ---
 
-この記事は、東方Project の二次創作ゲーム「タイピング紅魔郷」のマニュアルです。ダウンロードやインストール方法は [こちら](/entry/nijisousaku/touhou/game/typing/koumakyou/manual/install-and-start) に掲載しています。
-
-
-## マニュアルリンク
-- [目次](/entry/nijisousaku/touhou/game/typing/koumakyou/manual/table-of-contents)
-- [次へ（インストール・起動）](/entry/nijisousaku/touhou/game/typing/koumakyou/manual/install-and-start)
+東方Project の二次創作ゲーム「タイピング紅魔郷」の概要や動作環境などを書いています。ダウンロードやインストール方法は [こちら](/entry/nijisousaku/touhou/game/typing/koumakyou/manual/install-and-start) です。
 
 
 ## あらすじ
@@ -33,19 +28,18 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17
 ## 注意事項
 - ローマ字入力の知識が必要になります。
 - かな入力はサポートしていません。
-- 原作設定とは関係がありません。
 
 
 ## 動作環境
-- Windows 7 SP1 以降、64ビットのみ
-- DirectX 10 性能を持つグラフィックカード
+- Windows10 64ビットのみ
+- DirectX10 性能を持つグラフィックカード
 - CPU はなるべく新しいものを推奨
 - アスペクト比 16:9 のディスプレイを推奨
 - 入力用キーボード、150MB程度の容量が必要
 
 
 ## 動作確認環境
-- OS: Windows 10 Home 64ビット
+- OS: Windows10 Home 64ビット
 - DX: DirectX バージョン12
 - CPU: Intel Core i5-7400 3.00GHz
 - GPU: Intel HD Graphics 630（オンボード）
