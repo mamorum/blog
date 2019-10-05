@@ -10,10 +10,6 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10
 DirectX 9.0c (June 2010) のランタイムを、Windows10 にインストールする手順を書いていきます。 
 
 
-## 補足
-June 2010 ではない [DirectX 9.0c](https://www.microsoft.com/ja-jp/download/details.aspx?id=34429) は、Windows10 にインストールできないみたいです。ダウンロードして実行するとエラーが表示されました。
-
-
 ## 注意事項
 インストール後、OSや他のアプリにどのような影響が出るかは分かりません。インストールは自己責任でお願い致します。
 
@@ -63,3 +59,8 @@ Microsoft の [DirectX End-User Runtimes (June 2010)](https://www.microsoft.com/
 を削除します。
 
 解凍したファイルは、ディレクトリごと削除して大丈夫です。
+
+
+## 補足
+[June 2010 ではない DirectX 9.0c](https://www.microsoft.com/ja-jp/download/details.aspx?id=34429) は、Windows10 にインストールできないみたいです。ダウンロードして実行するとエラーが表示されました。
+
