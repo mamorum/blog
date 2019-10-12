@@ -1,9 +1,9 @@
 ---
 Title: Windows：サービス起動バッチ・停止バッチ
 Category:
-- OS
+- Windows
 Date: 2016-03-23T12:00:00+09:00
-URL: http://web-dev.hatenablog.com/entry/windows/bat-service-start-stop
+URL: https://web-dev.hatenablog.com/entry/windows/bat-service-start-stop
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178928184
 ---
 

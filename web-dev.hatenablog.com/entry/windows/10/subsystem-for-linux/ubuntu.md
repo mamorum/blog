@@ -1,7 +1,7 @@
 ---
 Title: WSL：Windows Subsystem for Linux を使う
 Category:
-- OS
+- Windows
 Date: 2018-06-22T00:00:00+09:00
 URL: https://web-dev.hatenablog.com/entry/windows/10/subsystem-for-linux/ubuntu
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17391345971655889514

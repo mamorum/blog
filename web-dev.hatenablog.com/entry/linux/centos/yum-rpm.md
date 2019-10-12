@@ -1,9 +1,9 @@
 ---
 Title: CentOS：yum と rpm、どっちを使うか？
 Category:
-- OS
+- Linux
 Date: 2016-03-15T09:00:00+09:00
-URL: http://web-dev.hatenablog.com/entry/linux/centos/yum-rpm
+URL: https://web-dev.hatenablog.com/entry/linux/centos/yum-rpm
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178816165
 ---
 

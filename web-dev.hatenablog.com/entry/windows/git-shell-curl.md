@@ -1,9 +1,9 @@
 ---
 Title: Windows：git の curl を使う
 Category:
-- OS
+- Windows
 Date: 2017-07-26T11:14:18+09:00
-URL: http://web-dev.hatenablog.com/entry/windows/git-shell-curl
+URL: https://web-dev.hatenablog.com/entry/windows/git-shell-curl
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687225591527
 ---
 

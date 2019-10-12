@@ -1,7 +1,7 @@
 ---
 Title: Windows10：サウンドのビット深度変更
 Category:
-- OS
+- Windows
 Date: 2019-07-11T12:31:24+09:00
 URL: https://web-dev.hatenablog.com/entry/windows/10/change-sound-bit-depth
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17680117127216628138

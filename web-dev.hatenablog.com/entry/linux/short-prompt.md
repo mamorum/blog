@@ -1,9 +1,9 @@
 ---
 Title: Linux：プロンプトを短くする
 Category:
-- OS
+- Linux
 Date: 2017-03-17T09:08:55+09:00
-URL: http://web-dev.hatenablog.com/entry/linux/short-prompt
+URL: https://web-dev.hatenablog.com/entry/linux/short-prompt
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687227825705
 ---
 

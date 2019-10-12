@@ -1,9 +1,9 @@
 ---
 Title: CentOS：日本語環境に設定
 Category:
-- OS
+- Linux
 Date: 2016-03-29T17:51:00+09:00
-URL: http://web-dev.hatenablog.com/entry/linux/centos/lang-jp
+URL: https://web-dev.hatenablog.com/entry/linux/centos/lang-jp
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178815300
 ---
 

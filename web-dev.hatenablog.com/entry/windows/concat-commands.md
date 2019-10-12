@@ -1,9 +1,9 @@
 ---
 Title: Windows：コマンドの連結
 Category:
-- OS
+- Windows
 Date: 2016-09-29T13:59:47+09:00
-URL: http://web-dev.hatenablog.com/entry/windows/concat-commands
+URL: https://web-dev.hatenablog.com/entry/windows/concat-commands
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687186844036
 ---
 

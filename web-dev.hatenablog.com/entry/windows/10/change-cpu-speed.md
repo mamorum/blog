@@ -1,7 +1,7 @@
 ---
 Title: Windows10：クロック周波数の変更（最小・最大プロセッサの状態）
 Category:
-- OS
+- Windows
 Date: 2019-07-09T16:37:15+09:00
 URL: https://web-dev.hatenablog.com/entry/windows/10/change-cpu-speed
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17680117127215887851

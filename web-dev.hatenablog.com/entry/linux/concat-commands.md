@@ -1,9 +1,9 @@
 ---
 Title: Linux：コマンドの連結（&& や ||）
 Category:
-- OS
+- Linux
 Date: 2016-03-30T17:00:00+09:00
-URL: http://web-dev.hatenablog.com/entry/linux/concat-commands
+URL: https://web-dev.hatenablog.com/entry/linux/concat-commands
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178814725
 ---
 

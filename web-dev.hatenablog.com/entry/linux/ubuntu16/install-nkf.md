@@ -1,7 +1,7 @@
 ---
 Title: Ubuntu16：nkfのインストール
 Category:
-- OS
+- Linux
 Date: 2018-06-20T00:00:00+09:00
 URL: https://web-dev.hatenablog.com/entry/linux/ubuntu16/install-nkf
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17391345971655639868

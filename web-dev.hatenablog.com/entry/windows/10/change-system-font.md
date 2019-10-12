@@ -1,7 +1,7 @@
 ---
 Title: Windows10：システムフォントの変更
 Category:
-- OS
+- Windows
 Date: 2018-05-09T08:06:00+09:00
 URL: https://web-dev.hatenablog.com/entry/windows/10/change-system-font
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812295439558

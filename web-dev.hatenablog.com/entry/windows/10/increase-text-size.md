@@ -1,7 +1,7 @@
 ---
 Title: Windows10：文字を大きくする
 Category:
-- OS
+- Windows
 Date: 2019-04-08T06:00:00+09:00
 URL: https://web-dev.hatenablog.com/entry/windows/10/increase-text-size
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17680117126998680501

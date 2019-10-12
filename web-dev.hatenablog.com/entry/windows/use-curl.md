@@ -1,9 +1,9 @@
 ---
 Title: Windows：cURL でリクエスト送信
 Category:
-- OS
+- Windows
 Date: 2017-12-11T06:30:00+09:00
-URL: http://web-dev.hatenablog.com/entry/windows/use-curl
+URL: https://web-dev.hatenablog.com/entry/windows/use-curl
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812323632096
 ---
 

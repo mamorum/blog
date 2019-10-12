@@ -1,7 +1,7 @@
 ---
 Title: Linux：記事の一覧
 Category:
-- OS
+- Linux
 Date: 2017-11-16T08:30:00+09:00
 URL: https://web-dev.hatenablog.com/entry/linux/table-of-contents
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812317306019

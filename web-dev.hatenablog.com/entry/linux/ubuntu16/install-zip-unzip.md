@@ -1,7 +1,7 @@
 ---
 Title: Ubuntu16：zip・unzipのインストール
 Category:
-- OS
+- Linux
 Date: 2018-06-15T01:30:00+09:00
 URL: https://web-dev.hatenablog.com/entry/linux/ubuntu16/install-zip-unzip
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17391345971655639371

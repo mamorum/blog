@@ -1,9 +1,9 @@
 ---
 Title: Ubuntu：nkfのインストール
 Category:
-- OS
+- Linux
 Date: 2017-07-06T14:48:00+09:00
-URL: http://web-dev.hatenablog.com/entry/linux/ubuntu/install-nkf
+URL: https://web-dev.hatenablog.com/entry/linux/ubuntu/install-nkf
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812277282155
 ---
 

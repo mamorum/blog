@@ -1,7 +1,7 @@
 ---
 Title: Windows10：VLCでDVDを視聴
 Category:
-- OS
+- Windows
 Date: 2019-09-17T15:03:50+09:00
 URL: https://web-dev.hatenablog.com/entry/windows/10/play-dvd-using-vlc
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26006613435284521

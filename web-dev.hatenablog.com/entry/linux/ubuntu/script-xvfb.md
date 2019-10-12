@@ -1,9 +1,9 @@
 ---
 Title: Ubuntu：xvfbの起動スクリプト
 Category:
-- OS
+- Linux
 Date: 2016-12-06T22:12:04+09:00
-URL: http://web-dev.hatenablog.com/entry/linux/ubuntu/script-xvfb
+URL: https://web-dev.hatenablog.com/entry/linux/ubuntu/script-xvfb
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687197661249
 ---
 

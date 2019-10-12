@@ -1,7 +1,7 @@
 ---
 Title: Windows10：バックグラウンドサービスの処理を優先させる
 Category:
-- OS
+- Windows
 Date: 2019-08-19T15:48:54+09:00
 URL: https://web-dev.hatenablog.com/entry/windows/10/prioritize-background-services
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26006613399892726

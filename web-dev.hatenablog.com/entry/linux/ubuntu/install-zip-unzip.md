@@ -1,9 +1,9 @@
 ---
 Title: Ubuntu：zip・unzipのインストール
 Category:
-- OS
+- Linux
 Date: 2017-07-06T10:03:22+09:00
-URL: http://web-dev.hatenablog.com/entry/linux/ubuntu/install-zip-unzip
+URL: https://web-dev.hatenablog.com/entry/linux/ubuntu/install-zip-unzip
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812277196436
 ---
 

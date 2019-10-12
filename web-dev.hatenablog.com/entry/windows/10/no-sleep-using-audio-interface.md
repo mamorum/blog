@@ -1,7 +1,7 @@
 ---
 Title: Windows10：オーディオIFの接続中にスリープしない
 Category:
-- OS
+- Windows
 Date: 2019-07-05T10:25:00+09:00
 URL: https://web-dev.hatenablog.com/entry/windows/10/no-sleep-using-audio-interface
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26006613445075082
