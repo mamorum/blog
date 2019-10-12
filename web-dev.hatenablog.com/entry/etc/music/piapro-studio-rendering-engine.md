@@ -5,7 +5,6 @@ Category:
 Date: 2019-10-05T20:00:00+09:00
 URL: https://web-dev.hatenablog.com/entry/etc/music/piapro-studio-rendering-engine
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26006613444085897
-Draft: true
 ---
 
 Piapro Studio の描画エンジンを「OpenGL」にしていたら、GPUの使用率が高くなることがありました。自分の環境だと、描画エンジンを「Windows GDI」に変更したら改善したので、当時の対応内容などを書いていきます。
