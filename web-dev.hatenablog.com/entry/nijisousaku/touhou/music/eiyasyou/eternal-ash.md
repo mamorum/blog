@@ -5,7 +5,6 @@ Category:
 Date: 2019-10-26T14:00:00+09:00
 URL: https://web-dev.hatenablog.com/entry/nijisousaku/touhou/music/eiyasyou/eternal-ash
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26006613449353650
-Draft: true
 ---
 
 東方Project の『エクステンドアッシュ ～ 蓬莱人』を聴いて、歌詞『エターナルアッシュ ～ 蓬莱の灰』を書いてみました。

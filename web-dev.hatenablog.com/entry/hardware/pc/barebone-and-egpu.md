@@ -5,7 +5,6 @@ Category:
 Date: 2019-10-19T18:00:00+09:00
 URL: https://web-dev.hatenablog.com/entry/hardware/pc/barebone-and-egpu
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26006613448456705
-Draft: true
 ---
 
 ２年以上前（2017年6月頃）に、ASUSのベアボーンPC「VC66-BB062M」を購入して今も使っています。
