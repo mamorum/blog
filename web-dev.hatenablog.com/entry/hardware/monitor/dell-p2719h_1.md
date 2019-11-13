@@ -2,7 +2,7 @@
 Title: 感想：DELL P2719H 27インチモニター
 Category:
 - ハード
-Date: 2019-11-16T01:30:00+09:00
+Date: 2019-11-30T01:30:00+09:00
 URL: https://web-dev.hatenablog.com/entry/hardware/monitor/dell-p2719h_1
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26006613458471831
 Draft: true
