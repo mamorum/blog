@@ -42,15 +42,13 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17
 
 
 ## 画面イメージ
-Pixivに掲載しています。立ち絵は [dairiさん](https://www.pixiv.net/member.php?id=4920496) の作品を使わせて頂いています。
+[dairiさん](https://www.pixiv.net/member.php?id=4920496) の立ち絵を利用させて頂いています。
 
-[https://www.pixiv.net/member_illust.php?mode=medium&illust_id=75177939:embed:cite]
+[f:id:mamorums:20191113131735p:plain]
 
 
 ## 会話集
-ストーリーの一部は、Pixiv でも公開しています。
-
-[https://www.pixiv.net/novel/series/1154916:embed:cite]
+準備中です。
 
 
 ## 次のページ
