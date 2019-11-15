@@ -1,5 +1,5 @@
 ---
-Title: ' 東方作詞+Vocal：エターナルアッシュ ～ 蓬莱の灰'
+Title: ' 東方作詞：エターナルアッシュ ～ 蓬莱の灰'
 Category:
 - 二次創作
 Date: 2019-10-26T14:00:00+09:00
@@ -11,14 +11,13 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26
 
 
 ## アレンジ曲
-いつものようにボーカルは初音ミクさんです。
+<a target="_blank" href="https://www.youtube.com/watch?v=A1QFoK3TyhY">エターナルアッシュ - YouTube</a>
 
-[https://www.youtube.com/watch?v=A1QFoK3TyhY:embed:cite]
+※ 別ウィンドウで開きます。  
+※ 歌詞は YouTube のコメント欄にも掲載しています。
 
 
 ## 歌詞
-YouTube のコメント欄にも掲載しています。
-
 ```
 A1
 自分一人歩いた道を
@@ -60,11 +59,3 @@ DMBNさんのMIDIを利用させて頂きました。ありがとうございま
 
 [http://easypianoscore.jp/:embed:cite]
 
-
-## 画像制作ツール・モデル
-以下の作品を利用させて頂きました。ありがとうございます。
-
-- [MikuMikuDance v931x64](https://sites.google.com/view/vpvp/)
-- [PmxEditor 0254f](http://kkhk22.seesaa.net/category/14045227-1.html)
-- [Kanata式改変 藤原妹紅Ver1.11](http://seiga.nicovideo.jp/seiga/im5371533)
-- [火（illust imageさん）](https://illustimage.com/?id=5403)

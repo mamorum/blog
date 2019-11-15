@@ -1,5 +1,5 @@
 ---
-Title: 東方作詞：見送る者によるセプテット（原曲：亡き王女の為のセプテット）
+Title: 東方作詞：見送る者によるセプテット
 Category:
 - 二次創作
 Date: 2019-05-06T06:00:00+09:00
@@ -7,23 +7,44 @@ URL: https://web-dev.hatenablog.com/entry/nijisousaku/touhou/music/koumakyou/mio
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17680117127114457689
 ---
 
-東方Project の『亡き王女の為のセプテット』を聴いて、歌詞『見送る者によるセプテット』を書いてみました。
-
-
-## 歌詞
-[https://www.pixiv.net/novel/show.php?id=11090007:embed:cite]
+<a target="_blank" href="https://www16.big.or.jp/~zun/html/th06.html">東方紅魔郷</a> の『亡き王女の為のセプテット』を聴いて、歌詞『見送る者によるセプテット』を書いてみました。
 
 
 ## アレンジ曲
-歌は初音ミクさんにお願いしてます。曲のクレジットや参考サイトは、YouTube のページに記載させて頂きました。
+<a target="_blank" href="https://www.youtube.com/watch?v=25ga39xG_pg">見送る者によるセプテット - YouTube</a>
 
-[https://www.youtube.com/watch?v=25ga39xG_pg:embed:cite]
-
-
-## 原曲
-亡き王女の為のセプテット（紅魔郷6面ボスBGM）
+※ 別ウィンドウで開きます。  
+※ 歌詞は YouTube のコメント欄にも掲載しています。
 
 
-## 出典
-[東方紅魔郷 ～ the Embodiment of Scarlet Devil.](https://www16.big.or.jp/~zun/html/th06.html)  
-（制作：[上海アリス幻樂団](https://www16.big.or.jp/~zun/) さま）
+## 歌詞
+```
+A
+闇が満ちるとき、私は踊るの
+変わらない、時の流れ、確かめるように
+
+人が眠るとき、運命は動くの
+終わらない、時の中で、別れがはじまる
+
+
+B
+そう、この笑顔もいつか
+涙に変わる、分かってたけど
+
+あの笑顔が最後、戻れないこと
+分かっているけど、、まだ
+
+　
+C
+祈りはしない、届かないから
+忘れはしない、あなたのことを
+
+願いもしない、叶わないから
+忘れはしない、それだけでいい
+```
+
+
+## 参考サイト
+DMBNさんのMIDIを利用させて頂きました。ありがとうございます。
+
+[http://easypianoscore.jp/:embed:cite]

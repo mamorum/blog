@@ -1,5 +1,5 @@
 ---
-Title: 東方作詞+Vocal：竹取軌道 ～ Lunatic Presence
+Title: 東方作詞：竹取軌道 ～ Lunatic Presence
 Category:
 - 二次創作
 Date: 2019-08-18T23:09:37+09:00
@@ -11,14 +11,13 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26
 
 
 ## アレンジ曲
-ボーカルは初音ミクさんです。
+<a target="_blank" href="https://www.youtube.com/watch?v=-p5HzwY9eeU">竹取軌道 - YouTube</a>
 
-[https://www.youtube.com/watch?v=-p5HzwY9eeU:embed:cite]
+※ 別ウィンドウで開きます。  
+※ 歌詞は YouTube のコメント欄にも掲載しています。
 
 
 ## 歌詞
-YouTube のコメント欄にも掲載しています。
-
 ```
 A
 私を竹に、隠したら小さく待つの
@@ -63,14 +62,6 @@ DMBNさんのMIDIを利用させて頂きました。ありがとうございま
 
 [http://easypianoscore.jp/:embed:cite]
 
-
-## 画像制作ツール・モデル
-以下の作品を利用させて頂きました。ありがとうございます。
-
-- [MikuMikuDance v931x64](https://sites.google.com/view/vpvp/)
-- [PmxEditor 0254f](http://kkhk22.seesaa.net/category/14045227-1.html)
-- [Lat式 ミクVer2.31](https://bowlroll.net/file/30199)
-- [ろくご式 蓬莱山輝夜v0.72A](https://3d.nicovideo.jp/works/td25049)
 
 
 

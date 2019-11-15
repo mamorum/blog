@@ -1,5 +1,5 @@
 ---
-Title: 東方作詞+Vocal：地上の花の恋
+Title: 東方作詞：地上の花の恋
 Category:
 - 二次創作
 Date: 2019-05-24T06:30:00+09:00
@@ -11,14 +11,13 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17
 
 
 ## アレンジ曲
-ボーカルは初音ミクさんです。
+<a target="_blank" href="https://www.youtube.com/watch?v=GSTFSqt0jiY">地上の花の恋 - YouTube</a>
 
-[https://www.youtube.com/watch?v=GSTFSqt0jiY:embed:cite]
+※ 別ウィンドウで開きます。  
+※ 歌詞は YouTube のコメント欄にも掲載しています。
 
 
 ## 歌詞
-YouTube のコメント欄にも掲載しています。
-
 ```
 A1
 ここへ、ここへ、ここへ、ここへと
