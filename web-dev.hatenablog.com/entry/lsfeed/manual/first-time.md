@@ -10,7 +10,7 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26
 この記事は、lsFeed（フィードリーダー）のマニュアルです。今回は、[インストール](/entry/lsfeed/manual/overview-install) 後の初回利用方法を書いています。
 
 
-## 1. アプリの起動
+## アプリの起動
 ユーザフォルダ配下の `lsFeed` を開いて、`lsFeed.exe` をダブルクリックで起動します。
 
 ```
@@ -19,8 +19,12 @@ C:\Users\John（ユーザフォルダ）
 C:\Users\John\lsFeed（インストール先）
 ```
 
+フォルダやEXEが存在しない場合、以下の手順でインストールして頂ければと思います。
 
-## 2. フィードの登録
+[https://web-dev.hatenablog.com/entry/lsfeed/manual/overview-install:embed:cite]
+
+
+## フィードの登録
 アプリが起動すると、ブラウザに空の閲覧画面が表示されます。
 
 [f:id:mamorums:20191113094351p:plain]
@@ -33,7 +37,7 @@ C:\Users\John\lsFeed（インストール先）
 
 [f:id:mamorums:20191113090634p:plain]
 
-登録ウィンドウが開くので、
+ボタン押下後に、上の登録ウィンドウが開いたら、
 
 - タイトル（任意）
 - URL（フィードのアドレス）
@@ -47,7 +51,7 @@ C:\Users\John\lsFeed（インストール先）
 ```
 
 
-## 3. フィードの閲覧
+## フィードの閲覧
 設定画面左上の「<」ボタンを押して元の画面に戻ると、登録したフィードを閲覧することができます。
 
 [f:id:mamorums:20191113090644p:plain]

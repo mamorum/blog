@@ -15,12 +15,12 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26
 2. [初回利用方法](/entry/lsfeed/manual/first-time)
 3. フィードの閲覧（準備中）
 4. フィードの設定（準備中）
-5. アンインストール（準備中）
+5. データ移行・アンインストール（準備中）
 
 <!--
 3. [フィードの閲覧](/entry/lsfeed/manual/reading-feeds)
 4. [フィードの設定](/entry/lsfeed/manual/setting-feeds)
-5. [アンインストール](/entry/lsfeed/manual/uninstall)
+5. [データ移行・アンインストール](/entry/lsfeed/manual/migration-uninstall)
 -->
 
 ## 次のページ
