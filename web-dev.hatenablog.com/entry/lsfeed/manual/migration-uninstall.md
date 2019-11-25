@@ -5,7 +5,6 @@ Category:
 Date: 2019-11-24T01:00:00+09:00
 URL: https://web-dev.hatenablog.com/entry/lsfeed/manual/migration-uninstall
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26006613467572360
-Draft: true
 ---
 
 この記事は、lsFeed（フィードリーダー）のマニュアルです。マニュアルの目次は [こちら](/entry/lsfeed/manual/table-of-contents) にあります。
@@ -29,5 +28,5 @@ Draft: true
 
 
 ## アンインストール方法
-インストール先のフォルダを削除します。
+アンインストールしたい場合は、インストール先のフォルダを削除します。
 

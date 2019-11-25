@@ -5,7 +5,6 @@ Category:
 Date: 2019-11-23T00:30:00+09:00
 URL: https://web-dev.hatenablog.com/entry/lsfeed/manual/setting-feeds
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26006613467237954
-Draft: true
 ---
 
 この記事は、lsFeed（フィードリーダー）のマニュアルです。今回は、閲覧するフィードの設定方法を書いていきます。
