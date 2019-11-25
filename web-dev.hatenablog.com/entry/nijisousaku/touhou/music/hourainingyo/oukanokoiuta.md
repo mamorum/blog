@@ -13,7 +13,7 @@ ZUNさん制作の『桜花之恋塚 ～ Japanese Flower』を聴いて、歌詞
 ## アレンジ曲
 <a target="_blank" href="https://www.youtube.com/watch?v=A50LSWBIxUE">桜花の恋歌 - YouTube</a>
 
-※ 別ウィンドウで開きます。  
+※ 新しいタブで開きます。  
 ※ 歌詞は YouTube のコメント欄にも掲載しています。
 
 

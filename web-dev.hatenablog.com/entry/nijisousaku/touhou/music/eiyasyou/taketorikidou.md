@@ -13,7 +13,7 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26
 ## アレンジ曲
 <a target="_blank" href="https://www.youtube.com/watch?v=-p5HzwY9eeU">竹取軌道 - YouTube</a>
 
-※ 別ウィンドウで開きます。  
+※ 新しいタブで開きます。  
 ※ 歌詞は YouTube のコメント欄にも掲載しています。
 
 

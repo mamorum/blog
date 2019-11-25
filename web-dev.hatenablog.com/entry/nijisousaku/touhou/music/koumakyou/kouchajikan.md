@@ -13,7 +13,7 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17
 ## アレンジ曲
 <a target="_blank" href="https://www.youtube.com/watch?v=PPmmYnH9ozE">紅茶時間 - YouTube</a>
 
-※ 別ウィンドウで開きます。  
+※ 新しいタブで開きます。  
 ※ 歌詞は YouTube のコメント欄にも掲載しています。
 
 

@@ -13,7 +13,7 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17
 ## アレンジ曲
 <a target="_blank" href="https://www.youtube.com/watch?v=8tkWtWK8xKc">弔いの黒、墨染の桜 - YouTube</a>
 
-※ 別ウィンドウで開きます。  
+※ 新しいタブで開きます。  
 ※ 歌詞は YouTube のコメント欄にも掲載しています。
 
 
