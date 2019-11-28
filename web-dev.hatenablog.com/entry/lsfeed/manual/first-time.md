@@ -56,3 +56,6 @@ C:\Users\John\lsFeed（インストール先）
 
 [f:id:mamorums:20191113090644p:plain]
 
+
+## 次のページ
+[3. フィードの閲覧](/entry/lsfeed/manual/reading-feeds)

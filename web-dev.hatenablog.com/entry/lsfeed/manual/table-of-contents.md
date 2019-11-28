@@ -7,21 +7,18 @@ URL: https://web-dev.hatenablog.com/entry/lsfeed/manual/table-of-contents
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26006613464973575
 ---
 
-この記事は、lsFeed（フィードリーダー）のマニュアルです。
+この記事は、lsFeed（無料のフィードリーダー）のマニュアルです。
 
 
 ## 目次
-1. [概要・インストール](/entry/lsfeed/manual/overview-install)
-2. [初回利用方法](/entry/lsfeed/manual/first-time)
-3. フィードの閲覧（準備中）
-4. フィードの設定（準備中）
-5. データ移行・アンインストール（準備中）
+※ リンクをクリックすると別のタブで開きます。
 
-<!--
-3. [フィードの閲覧](/entry/lsfeed/manual/reading-feeds)
-4. [フィードの設定](/entry/lsfeed/manual/setting-feeds)
-5. [データ移行・アンインストール](/entry/lsfeed/manual/migration-uninstall)
--->
+1. <a target="_blank" href="/entry/lsfeed/manual/overview-install">概要・インストール</a>
+2. <a target="_blank" href="/entry/lsfeed/manual/first-time">初回利用方法</a>
+3. <a target="_blank" href="/entry/lsfeed/manual/reading-feeds">フィードの閲覧</a>
+4. <a target="_blank" href="/entry/lsfeed/manual/setting-feeds">フィードの設定</a>
+5. <a target="_blank" href="/entry/lsfeed/manual/migration-uninstall">データ移行・アンインストール</a>
+
 
 ## 次のページ
-1.  [概要・インストール](/entry/lsfeed/manual/overview-install)
+[1.  概要・インストール](/entry/lsfeed/manual/overview-install)

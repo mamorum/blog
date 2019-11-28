@@ -50,3 +50,8 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26
 設定は後勝ちです。
 
 複数の画面（タブなど）で設定を変えると、最後の設定が有効になります。
+
+
+## 次のページ
+[5. データ移行・アンインストール](/entry/lsfeed/manual/migration-uninstall)
+
