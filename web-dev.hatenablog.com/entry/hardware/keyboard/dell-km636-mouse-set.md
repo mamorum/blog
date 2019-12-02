@@ -14,6 +14,12 @@ Dell の KM636 というキーボードとマウスのセットを購入して�
 感想は自分の主観なので、個人差があると思います。
 
 
+## 2019.12.02 追記
+Elecom のキーボードに買い換えました。レビューも書いてみたので、見て頂けると嬉しいです。
+
+[https://web-dev.hatenablog.com/entry/hardware/keyboard/elecom-tkfdm110tbk:embed:cite]
+
+
 ## 1. 良い点
 ### 1.1. USB 接続
 Bluetooth よりも USB接続のほうが安定している気がします。入力がロストすることもない感じです。
