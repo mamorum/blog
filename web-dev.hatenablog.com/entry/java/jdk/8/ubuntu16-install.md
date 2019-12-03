@@ -1,13 +1,18 @@
 ---
-Title: JDK8：Ubuntu16にインストール
+Title: Oracle JDK8：Ubuntu16にインストール
 Category:
 - Java
-Date: 2018-06-16T10:30:00+09:00
+Date: 2019-12-03T10:30:00+09:00
 URL: https://web-dev.hatenablog.com/entry/java/jdk/8/ubuntu16-install
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17391345971655625444
 ---
 
 Oracle の JDK8 を Ubuntu16 にインストールする方法を書いていきます。
+
+## 2019.12.03 追記
+Oracle の JDK はライセンス体系が変わったので、使わないほうが良いかと思います。このブログでも、今後は Amazon Corretto などの JDK を使おうと思っています。
+
+[https://aws.amazon.com/jp/corretto/:embed:cite]
 
 
 ## 前提

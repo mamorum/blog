@@ -1,13 +1,20 @@
 ---
-Title: JDK8：CentOSにインストール
+Title: Oracle JDK8：CentOSにインストール
 Category:
 - Java
-Date: 2017-06-09T14:13:00+09:00
+Date: 2019-12-03T14:13:00+09:00
 URL: https://web-dev.hatenablog.com/entry/java/jdk/centos-install
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178823348
 ---
 
-JDK8（Oracle の 8u77） を、CentOS にインストールする手順を書いていきます。
+Oracle の JDK8（8u77） を、CentOS にインストールする手順を書いていきます。
+
+
+## 2019.12.03 追記
+Oracle の JDK はライセンス体系が変わったので、使わないほうが良いかと思います。このブログでも、今後は Amazon Corretto などの JDK を使おうと思っています。
+
+[https://aws.amazon.com/jp/corretto/:embed:cite]
+
 
 ## 前提
 今回の手順は、JDK がインストールされていない CentOS を使って書きました。既に OpenJDK などがインストールされている場合、事前にアンインストールしたほうが良いかもしれません。

@@ -19,13 +19,6 @@ JDK の記事（リンク）を、一覧形式でまとめています。JDK の
 - [JDK8 のインストール](/entry/java/jdk/windows-install)
 - [Win7 の環境変数設定](/entry/java/jdk/windows-variables)
 
-
-## Linux にインストール
-- [JDK8 を Ubuntu16 にインストール](/entry/java/jdk/8/ubuntu16-install)
-- [JDK8 を Ubuntu14 にインストール](/entry/java/jdk/ubuntu-install)
-- [JDK8 を CentOS にインストール](/entry/java/jdk/centos-install)
-
-
 ## JDK や環境変数について
 - [JDKの概要](/entry/java/jdk/overview)
 - [変数・環境変数の解説](/entry/java/jdk/variables)
