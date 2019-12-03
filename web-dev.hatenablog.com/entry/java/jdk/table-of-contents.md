@@ -12,9 +12,8 @@ JDK の記事（リンク）を、一覧形式でまとめています。JDK の
 
 ## Windows にインストール
 ### Win10
-- [JDK9 のインストール](/entry/java/jdk/9/windows10-install)
 - [JDK8 のインストール](/entry/java/jdk/8/windows10-install)
-- [Win10 の環境変数設定（JDK9 と JDK8 で共通）](/entry/java/jdk/8/windows10-env-variables)
+- [Win10 の環境変数設定](/entry/java/jdk/8/windows10-env-variables)
 
 ### Win7
 - [JDK8 のインストール](/entry/java/jdk/windows-install)

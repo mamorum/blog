@@ -1,13 +1,11 @@
 ---
-Title: JDK9：Win10にインストール
-Category:
-- Java
+Title: Oracle JDK9：Win10にインストール
 Date: 2018-01-13T06:30:00+09:00
-URL: http://web-dev.hatenablog.com/entry/java/jdk/9/windows10-install
-EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812321647660
+URL: https://web-dev.hatenablog.com/entry/java/jdk/9/windows10-install
+EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26006613475489644
 ---
 
-JDK9（9.0.1）を Windows10 64bit にインストールする手順を書いていきます。
+Oracle JDK9（9.0.1）を Windows10 64bit にインストールする手順を書いていきます。
 
 ## 手順1. ダウンロード
 [Oracle のダウンロードページ](http://www.oracle.com/technetwork/java/javase/downloads/index.html) で、JDK9 のアイコンをクリックします。
