@@ -2,7 +2,7 @@
 Title: JDK：記事の一覧
 Category:
 - Java
-Date: 2018-01-13T11:37:00+09:00
+Date: 2019-12-03T16:05:00+09:00
 URL: https://web-dev.hatenablog.com/entry/java/jdk/table-of-contents
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178884230
 ---
@@ -10,14 +10,8 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10
 JDK の記事（リンク）を、一覧形式でまとめています。JDK の概要、インストール手順、環境変数の設定手順、使用例、などの記事があります。
 
 
-## Windows にインストール
-### Win10
-- [JDK8 のインストール](/entry/java/jdk/8/windows10-install)
-- [Win10 の環境変数設定](/entry/java/jdk/8/windows10-env-variables)
-
-### Win7
-- [JDK8 のインストール](/entry/java/jdk/windows-install)
-- [Win7 の環境変数設定](/entry/java/jdk/windows-variables)
+## Windows10 にインストール
+- [Amazon JDK8 のインストール](/entry/java/jdk/corretto/8/windows10-install)
 
 
 ## JDK の概要や環境変数について

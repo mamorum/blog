@@ -27,7 +27,9 @@ Amazon が提供している JDK（Amazon Corretto）は、無料で使うこと
 ## 3. Oracle の JDK は非推奨
 無償で利用したい場合、Oracle の JDK は使わないほうが良いかと思います。無料の JDK も提供しているようですが、ライセンス体系が不明瞭だったり、サポート期間が短かったり、あまりメリットを感じられませんでした。
 
-Amazon の JDK を避けたい場合でも、AdoptOpenJDK などの選択肢がありそうです。
+
+## 4. 他のJDK
+Amazon の JDK 以外にも、無料の JDK があるみたいです。有名なのは、AdoptOpenJDK とかになると思います。
 
 [https://adoptopenjdk.net/index.html:embed:cite]
 

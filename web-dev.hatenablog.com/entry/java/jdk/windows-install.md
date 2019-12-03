@@ -1,13 +1,19 @@
 ---
-Title: JDK8：Win7にインストール
+Title: Oracle JDK8：Win7にインストール
 Category:
 - Java
-Date: 2017-06-08T12:37:00+09:00
-URL: http://web-dev.hatenablog.com/entry/java/jdk/windows-install
+Date: 2019-12-03T12:37:00+09:00
+URL: https://web-dev.hatenablog.com/entry/java/jdk/windows-install
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178825401
 ---
 
-JDK8（バージョン 8u71）を、Windows7 64bit にインストールする手順を書いています。
+Oracle の JDK8（バージョン 8u71）を、Windows7 64bit にインストールする手順を書いています。
+
+
+## 2019.12.03 追記
+Oracle の JDK はライセンス体系が変わったので、使わないほうが良いかと思います。このブログでも、今後は Amazon Corretto などの JDK を使おうと思っています。
+
+[https://aws.amazon.com/jp/corretto/:embed:cite]
 
 
 ## 手順1. インストーラのダウンロード

@@ -1,13 +1,19 @@
 ---
-Title: JDK8：Win10にインストール
+Title: Oracle JDK8：Win10にインストール
 Category:
 - Java
-Date: 2018-01-13T11:00:00+09:00
-URL: http://web-dev.hatenablog.com/entry/java/jdk/8/windows10-install
+Date: 2019-12-03T11:00:00+09:00
+URL: https://web-dev.hatenablog.com/entry/java/jdk/8/windows10-install
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/13355765958053255929
 ---
 
-JDK8（8u131）を Windows10 64bit にインストールする手順を書いていきます。
+Oracle の JDK8（8u131）を、Windows10 64bit にインストールする手順を書いていきます。
+
+
+## 2019.12.03 追記
+Oracle の JDK はライセンス体系が変わったので、使わないほうが良いかと思います。このブログでも、今後は Amazon Corretto などの JDK を使おうと思っています。
+
+[https://aws.amazon.com/jp/corretto/:embed:cite]
 
 
 ## 手順1. インストーラのダウンロード

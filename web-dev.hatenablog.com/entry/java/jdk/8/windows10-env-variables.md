@@ -2,7 +2,7 @@
 Title: JDK：Win10の環境変数設定
 Category:
 - Java
-Date: 2018-01-13T08:31:37+09:00
+Date: 2019-12-03T16:00:00+09:00
 URL: https://web-dev.hatenablog.com/entry/java/jdk/8/windows10-env-variables
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/13355765958053540311
 ---
@@ -10,10 +10,12 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/13
 環境変数 `JAVA_HOME` と `Path` を、Windows10 で設定する方法を書いていきます。
 
 
-## 前提
-Windows10 に JDK をインストールしていることが前提となります。インストール方法は、以下の記事を参照して頂けると嬉しいです。
+## 補足
+Amazon JDK（Corretto）の場合、この手順は不要になります。Corretto がインストール時に環境変数も自動で設定してくれるようです。 
 
-- [JDK8 のインストール](/entry/java/jdk/8/windows10-install)
+インストール方法は、以下の記事を参照して頂けると嬉しいです。
+
+[https://web-dev.hatenablog.com/entry/java/jdk/corretto/8/windows10-install:embed:cite]
 
 
 ## 手順1. 環境変数の表示
