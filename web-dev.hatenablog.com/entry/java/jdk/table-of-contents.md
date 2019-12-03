@@ -19,7 +19,8 @@ JDK の記事（リンク）を、一覧形式でまとめています。JDK の
 - [JDK8 のインストール](/entry/java/jdk/windows-install)
 - [Win7 の環境変数設定](/entry/java/jdk/windows-variables)
 
-## JDK や環境変数について
+
+## JDK の概要や環境変数について
 - [JDKの概要](/entry/java/jdk/overview)
 - [変数・環境変数の解説](/entry/java/jdk/variables)
 - [JAVA_HOME・Pathの設定理由](/entry/java/jdk/java-home-path)

@@ -2,7 +2,7 @@
 Title: Oracle JDK8：Ubuntu14にインストール
 Category:
 - Java
-Date: 2019-12-03T22:25:18+09:00
+Date: 2019-12-03T14:00:00+09:00
 URL: https://web-dev.hatenablog.com/entry/java/jdk/ubuntu-install
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687192974484
 ---
