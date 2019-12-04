@@ -7,7 +7,7 @@ URL: https://web-dev.hatenablog.com/entry/java/jdk/table-of-contents
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687178884230
 ---
 
-JDK の記事（リンク）を、一覧形式でまとめています。JDK の概要、インストール手順、環境変数の設定手順、使用例、などの記事があります。
+JDK の記事（リンク）を、一覧形式でまとめています。JDK のインストール手順、概要、環境変数の設定手順、使用例、などの記事があります。
 
 
 ## Windows10 にインストール
