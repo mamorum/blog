@@ -1,8 +1,8 @@
 ---
-Title: JDK：Win10の環境変数設定
+Title: JDK：Win10で環境変数設定
 Category:
 - Java
-Date: 2019-12-03T16:00:00+09:00
+Date: 2019-12-06T00:04:00+09:00
 URL: https://web-dev.hatenablog.com/entry/java/jdk/8/windows10-env-variables
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/13355765958053540311
 ---
@@ -19,17 +19,9 @@ Amazon JDK（Corretto）の場合、この手順は不要になります。Corre
 
 
 ## 手順1. 環境変数の表示
-エクスプローラの PC を右クリックして、プロパティを選択します。
+環境変数のウィンドウを開きます。詳しい手順は以下の記事に書いてあります。
 
-[f:id:mamorums:20170609083040p:plain]
-
-システムのウィンドウが表示されるので、システムの詳細設定をクリックします。
-
-[f:id:mamorums:20170609083052p:plain]
-
-詳細設定が表示されたら、環境変数をクリックします。
-
-[f:id:mamorums:20170609083105p:plain]
+[https://web-dev.hatenablog.com/entry/windows/10/set-env-variable:embed:cite]
 
 
 ## 手順2. JAVA_HOME の設定
