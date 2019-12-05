@@ -27,12 +27,11 @@ Corretto 8 の <a target="_blank" href="https://docs.aws.amazon.com/ja_jp/corret
 
 
 ## 手順2. インストーラの実行
-インストーラーをダブルクリックして、画面の指示通り進めていきます。
+インストーラーをダブルクリックして、画面の指示通り進めていけば大丈夫そうです。自分はインストール先を `C:\opt\amazon` に変更してみました。
 
-[f:id:mamorums:20191203155229p:plain]
+[f:id:mamorums:20191205225008p:plain]
 
-デフォルトだと `C:\Program Files\Amazon Corretto` 配下にインストールされて、環境変数も設定してくれるようです。
-
+環境変数も設定してくれるようです。
 
 
 ## 手順3. 確認
@@ -45,13 +44,13 @@ Corretto 8 の <a target="_blank" href="https://docs.aws.amazon.com/ja_jp/corret
 
 ```
 >echo %JAVA_HOME%
-C:\Program Files\Amazon Corretto\jdk1.8.0_232
+C:\opt\amazon\jdk1.8.0_232
 
 >echo %Path%
-C:\Program Files\Amazon Corretto\jdk1.8.0_232\bin;・・・省略・・・
+C:\opt\amazon\jdk1.8.0_232\bin;・・省略・・
 
 >where java
-C:\Program Files\Amazon Corretto\jdk1.8.0_232\bin\java.exe
+C:\opt\amazon\jdk1.8.0_232\bin\java.exe
 
 >java -version
 openjdk version "1.8.0_232"

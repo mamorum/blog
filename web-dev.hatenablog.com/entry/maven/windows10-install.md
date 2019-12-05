@@ -2,7 +2,7 @@
 Title: Maven：Win10にインストール
 Category:
 - Java
-Date: 2017-06-10T09:02:37+09:00
+Date: 2019-12-04T23:50:00+09:00
 URL: https://web-dev.hatenablog.com/entry/maven/windows10-install
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/13355765958053917957
 ---
@@ -11,10 +11,12 @@ Maven を Windows10 64bit にインストールする手順を書いていきま
 
 
 ## 前提
-Windows10 に [JDK をインストール](/entry/java/jdk/8/windows10-install)して、[環境変数を設定](/entry/java/jdk/8/windows10-env-variables) していることが前提になります。
+JDK をインストールして、`JAVA_HOME` と `Path`（環境変数）を設定しておいたほうが良いと思います。準備方法は、以下の記事にも記載しています。
+
+[https://web-dev.hatenablog.com/entry/java/jdk/corretto/8/windows10-install:embed:cite]
 
 
-## 手順1. ダウンロード
+## 手順1. Maven ダウンロード
 [Maven のダウンロードページ](https://maven.apache.org/download.cgi) から、安定版の「Binary Zip archive」をダウンロードします。記事作成日（2017.06.10）の安定版は 3.5.0 で、ファイル名は `apache-maven-3.5.0-bin.zip` でした。
 
 
