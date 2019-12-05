@@ -17,19 +17,21 @@ JDK をインストールして、`JAVA_HOME` と `Path`（環境変数）を設
 
 
 ## 手順1. Maven ダウンロード
-[Maven のダウンロードページ](https://maven.apache.org/download.cgi) から、安定版の「Binary Zip archive」をダウンロードします。記事作成日（2017.06.10）の安定版は 3.5.0 で、ファイル名は `apache-maven-3.5.0-bin.zip` でした。
+<a target="_blank" href="https://maven.apache.org/download.cgi">Maven のダウンロードページ</a> から、安定版の「Binary zip archive」をダウンロードします。自分がダウンロードしたバージョンは `3.6.3` で、ファイル名は `apache-maven-3.6.3-bin.zip` でした。
+
+
 
 
 ## 手順2. 解凍
-ダウンロードしたら、Zip を好きな場所（例：`C:\opt\apache-maven-3.5.0`）に解凍します。
+ダウンロードしたら、Zip を好きな場所（例：`C:\opt\apache-maven-3.6.3`）に解凍します。
 
-[f:id:mamorums:20170610090140p:plain]
+[f:id:mamorums:20191206001954p:plain]
 
 
 ## 手順3. 環境変数 Path の設定
-Maven の binフォルダ（例：`C:\opt\apache-maven-3.5.0\bin`）を、環境変数 `Path` に追加します。
+Maven の binフォルダ（例：`C:\opt\apache-maven-3.6.3\bin`）を、既存の環境変数 `Path` に追加します。環境変数の設定方法は、下の記事にも書いてあります。
 
-[f:id:mamorums:20170610090153p:plain]
+[https://web-dev.hatenablog.com/entry/windows/10/set-env-variable:embed:cite]
 
 
 ## 手順4. 動作確認（任意）
@@ -37,5 +39,5 @@ Maven の binフォルダ（例：`C:\opt\apache-maven-3.5.0\bin`）を、環境
 
 ```txt
 > mvn -v
-Apache Maven 3.5.0 ...省略
+Apache Maven 3.6.3 ...省略
 ```
