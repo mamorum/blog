@@ -2,7 +2,7 @@
 Title: Eclipse：記事の一覧
 Category:
 - Java
-Date: 2017-06-14T11:47:00+09:00
+Date: 2019-12-07T01:55:00+09:00
 URL: https://web-dev.hatenablog.com/entry/eclipse/table-of-contents
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179038402
 ---
@@ -11,8 +11,7 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10
 
 ## 基本
 - [Eclipseの概要](/entry/eclipse/overview)
-- [Win10にインストール](/entry/eclipse/windows10-install)
-- [Win7にインストール](/entry/eclipse/install)
+- [Windows10にインストール](/entry/eclipse/windows10-install)
 - [Javaのコンパイルと実行](/entry/eclipse/compile-exec)
 
 ## 設定
@@ -28,11 +27,3 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10
 
 ## ツール
 - [Lombokインストール手順](/entry/eclipse/lombok)
-
-## 日本語化
-- [日本語化について](/entry/eclipse/japanese)
-- [日本語化手順（Pleiadesプラグイン）](/entry/eclipse/pleiades)
-
-## JavaFX
-- [Eclipse：e(fx)clipseのインストール](/entry/eclipse/install-efxclipse)
-- [Eclipse：SceneBuilderの設定](/entry/eclipse/setting-scene-builder)

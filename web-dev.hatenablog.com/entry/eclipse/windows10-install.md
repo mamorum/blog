@@ -1,38 +1,53 @@
 ---
-Title: Eclipse：Win10にインストール
+Title: Eclipse：Windows10 にインストール
 Category:
 - Java
-Date: 2017-06-11T20:00:00+09:00
+Date: 2019-12-07T00:45:00+09:00
 URL: https://web-dev.hatenablog.com/entry/eclipse/windows10-install
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/13355765958054457803
 ---
 
-Eclipse IDE for Java Developers の バージョン Neon.3 (4.6.3) を、Windows10 にインストールする手順を書いていきます。
+Eclipse IDE for Java Developers 2019-09 R を、Windows10 64bit にインストールする手順を書いていきます。
 
 ## 前提
-JDK がインストールされていることが前提となります。JDK のインストール方法は、以下の記事を参照して頂けると嬉しいです。
+JDK がインストールされていることが前提となります。インストールしていない場合は、以下の記事などを参考にして頂けると嬉しいです。
 
-- [JDK8：Win10にインストール](/entry/java/jdk/8/windows10-install)
-- [JDK8：Win10の環境変数設定](/entry/java/jdk/8/windows10-env-variables)
+[https://web-dev.hatenablog.com/entry/java/jdk/corretto/8/windows10-install:embed:cite]
 
 
-## 手順１. ZIPのダウンロード
-[Eclipse のダウンロードページ](https://eclipse.org/downloads/eclipse-packages/) を開いて、対象のパッケージを表示します。
+## 手順1. ZIPのダウンロード
+<a target="_blank" href="https://www.eclipse.org/downloads/packages/">Eclipse のダウンロードページ</a> を開いて、「for Java Developers」 の「Windows 64bit」をクリックします。
 
-[f:id:mamorums:20170611120138p:plain]
-
-右側のプラットフォームに応じたリンク（32bit or 64bit）をクリックします。
+[f:id:mamorums:20191207004718p:plain]
 
 次のページに遷移したら、Downloadボタンを押して、ZIPファイルを任意の場所に保存します。
 
 
-## 手順２. ZIPの解凍
+## 手順2. ZoneID の削除
+起動を速くしたいので、アクセスのブロックを解除しておきます。
+
+手順は、
+
+1. ダウンロードしたZIPを右クリックしてプロパティを選択
+2. セキュリティの「許可する」をチェック
+3. OKボタンをクリック
+
+といった感じで、下がそのイメージです。
+
+[f:id:mamorums:20191207010305p:plain]
+
+ZoneID の詳細は以下の記事にも記載しています。
+
+[https://web-dev.hatenablog.com/entry/windows/10/delete-zoneid:embed:cite]
+
+
+## 手順3. ZIPの解凍
 ZIPファイルを解凍して、中身を任意の場所（今回は C:\opt\eclipse ）に配置します。
 
 [f:id:mamorums:20170611120149p:plain]
 
 
-## 手順３. メモリ設定（任意）
+## 手順4. メモリ設定（任意）
 次の手順で、Eclipse の最少メモリサイズを１ＧＢに設定します。
 
 1. `C\opt\eclipse\eclipse.ini` を開きます。

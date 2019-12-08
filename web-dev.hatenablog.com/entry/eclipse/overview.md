@@ -2,7 +2,7 @@
 Title: Eclipse：概要
 Category:
 - Java
-Date: 2017-06-11T10:34:00+09:00
+Date: 2019-12-07T00:25:00+09:00
 URL: https://web-dev.hatenablog.com/entry/eclipse/overview
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179018365
 ---
@@ -23,19 +23,20 @@ Eclipse の画面から、プログラムを実行したり、デバッグする
 ## 2. JDK が必要
 Eclipse を利用するには、コンピュータに JDK がインストールされている必要があります。JDK の記事は、以下のリンク先にまとめているので、必要に応じて参照して頂けると嬉しいです。
 
-[JDK：記事の一覧](/entry/java/jdk/table-of-contents)
+[https://web-dev.hatenablog.com/entry/java/jdk/table-of-contents:embed:cite]
 
 
 ## 3. パッケージが多い
-Eclipse には、開発目的に応じたパッケージがたくさんあります。[Eclipse のページ](https://eclipse.org/downloads/eclipse-packages/) を開くと、どれをダウンロードするか迷ったりもします。
+Eclipse には、開発目的に応じたパッケージがたくさんあります。<a target="_blank" href="https://www.eclipse.org/downloads/packages/">Eclipse のダウンロードページ</a> を開くと、どれをダウンロードするか迷ったりもします。
 
-![page-eclipse-downlad](http://cdn-ak.f.st-hatena.com/images/fotolife/m/mamorums/20160814/20160814085926.png)
+[f:id:mamorums:20191207002628p:plain]
 
 
 ## 4. Java開発パッケージ
 Java 開発の場合は、次のパッケージを選択することが多いです。
 
-- Eclipse IDE for Java EE Developers
+- Eclipse IDE for Enterprise Java Developers
 - Eclipse IDE for Java Developers
 
-前者は後者より機能が多く、ファイルサイズも大きいです。このブログでは後者（for Java Developers）を使いますが、大抵の開発はどちらでも大丈夫だと思います。
+`for Enterprise Java Developers` は機能が多く、ファイルサイズも大きいです。このブログでは `for Java Developers` 
+を使いますが、大抵の開発はどちらでも大丈夫だと思います。
