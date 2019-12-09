@@ -7,11 +7,11 @@ URL: https://web-dev.hatenablog.com/entry/nijisousaku/touhou/game/typing/koumaky
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17680117127158378774
 ---
 
-この記事は、東方Project の二次創作ゲーム「タイピング紅魔郷」のマニュアルです。
+この記事は、東方Project の二次創作ゲーム「タイピング紅魔郷」のマニュアルです。目次のリンクをクリックすると、別のタブで記事を開きます。
 
 
 ## 目次
-[１. 概要](/entry/nijisousaku/touhou/game/typing/koumakyou/manual/overview)
+<a target="_blank" href="/entry/nijisousaku/touhou/game/typing/koumakyou/manual/overview">１. 概要</a>
 
 - あらすじ
 - ゲームの概要
@@ -21,13 +21,13 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17
 - 会話集
 
 
-[２. インストール・更新・起動](/entry/nijisousaku/touhou/game/typing/koumakyou/manual/install-and-start)
+<a target="_blank" href="/entry/nijisousaku/touhou/game/typing/koumakyou/manual/install-and-start">２. インストール・更新・起動</a>
 
 - インストール・更新
 - ゲームの起動
 
 
-[３. 操作・ローマ字入力](/entry/nijisousaku/touhou/game/typing/koumakyou/manual/operation-and-input)
+<a target="_blank" href="/entry/nijisousaku/touhou/game/typing/koumakyou/manual/operation-and-input">３. 操作・ローマ字入力</a>
 
 - キーボード操作
 - メニュー説明
@@ -37,16 +37,16 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17
 - ローマ字入力の受付速度
 
 
-[４. アンインストール・移行](/entry/nijisousaku/touhou/game/typing/koumakyou/manual/uninstall-and-data-migration)
+<a target="_blank" href="/entry/nijisousaku/touhou/game/typing/koumakyou/manual/uninstall-and-data-migration">４. アンインストール・移行</a>
 
 - アンインストール
 - データの削除
 - データの移行
 
 
-[５. お問い合わせ・お礼](/entry/nijisousaku/touhou/game/typing/koumakyou/manual/inquiry-and-thanks)
+<a target="_blank" href="/entry/nijisousaku/touhou/game/typing/koumakyou/manual/inquiry-and-thanks">５. お問い合わせ・お礼</a>
 
 - お問い合わせ
 - お礼
 
-[変更履歴](/entry/nijisousaku/touhou/game/typing/koumakyou/changelog)
+<a target="_blank" href="/entry/nijisousaku/touhou/game/typing/koumakyou/changelog">変更履歴</a>
