@@ -1,9 +1,9 @@
 ---
 Title: Poml：インストール方法
 Category:
-- 製品開発
+- Java
 Date: 2018-01-12T07:30:00+09:00
-URL: https://web-dev.hatenablog.com/entry/product/poml/doc/installation-guide
+URL: https://web-dev.hatenablog.com/entry/java/poml/doc/installation-guide
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812336207732
 ---
 
