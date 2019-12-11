@@ -19,8 +19,8 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26
 
 ## 歌詞
 ```
-
 [前奏]
+
 
 A1
 もう、どれだけ、君だけ、考えてきたのか
