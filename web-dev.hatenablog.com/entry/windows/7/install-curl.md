@@ -1,17 +1,25 @@
 ---
-Title: Windows：cURL のインストール
+Title: Windows7：cURL のインストール
 Category:
 - Windows
-Date: 2017-07-27T10:00:00+09:00
-URL: https://web-dev.hatenablog.com/entry/windows/install-curl
+Date: 2019-12-11T22:55:00+09:00
+URL: https://web-dev.hatenablog.com/entry/windows/7/install-curl
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687179200904
 ---
 
 curl は、色んなプロトコルでデータをやりとりできるツールです。今回は、curl を Windows 7（64bit）にインストールする手順を書きます。
 
 
-## Win10 について（2017.07.27 追記）
-Windows 10（64bit）も、同じインストール手順で大丈夫そうでした。自分がインストールした curl のバージョンは `7.46.0` で、ファイル名は `curl-7.46.0-win64.zip` でした。
+## 2019.12.11 追記
+Windows 10（64bit）の最新バージョンだと、インストールしなくても curl が使えました。
+
+```
+>where curl
+C:\Windows\System32\curl.exe
+
+>curl --version
+curl 7.55.1 (Windows) libcurl/7.55.1 WinSSL
+```
 
 
 ## 手順1. ダウンロード
