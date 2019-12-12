@@ -1,32 +1,27 @@
 ---
-Title: Servlet API：記事の一覧
+Title: Servlet：記事の一覧
 Category:
 - Java
-Date: 2017-08-03T22:00:00+09:00
-URL: http://web-dev.hatenablog.com/entry/java/servlet/table-of-contents
-EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812285818342
+Date: 2019-12-12T14:29:53+09:00
+URL: https://web-dev.hatenablog.com/entry/java/servlet/table-of-contents
+EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26006613481137192
 ---
 
-Servlet API のバージョン 3.1 に関連する記事をいくつか書いたので、そのリンクをまとめてみました。
+Java Servlet を使う、Web開発の記事をまとめてみました。
 
-## 参考資料
-- [資料一覧（仕様書・Javadoc等）](/entry/java/servlet/spec-javadoc-list)
 
-## HttpServlet（サーブレット）
-- [リクエストの受信](/entry/java/servlet/request/accept)
-- [リクエストパラメーターの取得](/entry/java/servlet/request/param)
-- [HTMLを返す](/entry/java/servlet/response/html)
-- [JSONを返す](/entry/java/servlet/response/json)
-- [セッションを使う](/entry/java/servlet/session/attribute-set-get)
-- [ファイルアップロード](/entry/java/servlet/upload/file)
+## 入門
+下のリンク先に、Servlet API の基本的な使用方法を書いています。
 
-## Filter（フィルター）
-- [前後処理を追加](/entry/java/servlet/filter/accept)
+[https://web-dev.hatenablog.com/entry/java/servlet/intro:embed:cite]
 
-## Event Listener（イベント・リスナー）
-- [ServletContextListener：起動時の処理追加](/entry/java/servlet/listener/servlet-context)
-- [HttpSessionListener：実行タイミング](/entry/java/servlet/listener/session-timeout-and-destroyed)
-- [ServletRequestListener：リクエストの前後処理](/entry/java/servlet/listener/servlet-request)
+目的別に書いていて、`HttpServlet`, `HttpServletRequest`, `HttpServletResponse`, `Filter` 等が登場します。
 
-## その他
-- [Servlet：URLパターンと静的コンテンツ](/entry/java/servlet/url-pattern-static-contents)
+
+## アプリ開発
+Servlet で Web API（RESTfull API）を作る方法をまとめています。
+
+[https://web-dev.hatenablog.com/entry/java/servlet/dev-restful-app/table-of-contents:embed:cite]
+
+メモを登録できる APIを実装していく感じです。
+

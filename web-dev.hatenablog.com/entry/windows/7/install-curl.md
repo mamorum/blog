@@ -1,5 +1,5 @@
 ---
-Title: Windows7：cURL のインストール
+Title: Windows7：curl のインストール
 Category:
 - Windows
 Date: 2019-12-11T22:55:00+09:00

@@ -1,44 +1,39 @@
 ---
-Title: Windows：cURL でリクエスト送信
+Title: Windows7：curl でリクエスト送信
 Category:
 - Windows
-Date: 2017-12-11T06:30:00+09:00
-URL: https://web-dev.hatenablog.com/entry/windows/use-curl
+Date: 2019-12-12T12:50:00+09:00
+URL: https://web-dev.hatenablog.com/entry/windows/7/use-curl
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812323632096
 ---
 
-[Windows にインストールした cURL](/entry/windows/install-curl) を使うと、コマンド `curl http://....` でHTTPリクエストを送信できます。今回はそのときによく使うオプションをまとめていこうと思います。
+Windows7 にインストールした curl で、リクエストを送信する方法を書いていきます。大まかな内容は以下の通りです。
 
-大まかな内容は以下の通りです。
+- HTTPメソッドの設定方法
+- HTTPパラメータの設定方法
+- JSONの設定方法（リクエストボディ）
 
-- メソッドの指定方法
-- パラメータの指定方法
-- JSONの指定方法（リクエストボディ）
+## 注意事項
+記事の内容は、Windows7 にインストールした curl で動作確認しています。
 
-※ コマンドの例では、URLを `http://localhost:8080/...` にしています。必要に応じて変更して頂ければと思います。
+[https://web-dev.hatenablog.com/entry/windows/7/install-curl:embed:cite]
+
+Windows10 にバンドルされている curl では動作確認できていません。
 
 
-## HTTPメソッドの指定方法
-### GET
-オプション `-X` を指定しない場合は、GET メソッドになります。
-
-```
-curl http://localhost:8080/
-```
-
-### GET 以外
-メソッドをオプション `-X {メソッド名}` で指定します。
+## HTTPメソッドの設定方法
+メソッドはオプション `-X {メソッド名}` で設定できます。
 
 ```
 curl http://localhost:8080/ -X POST
 ```
 
-よく使いそうなものとしては `POST`, `PUT`, `DELETE` などがあります。
+よく使いそうなものとしては `GET`, `POST`, `PUT`, `DELETE` などがあります。オプション `-X` を指定しない場合は、GET メソッドになります。
 
 
-## HTTPパラメータを指定
+## HTTPパラメータの設定方法
 ### クエリ文字列
-URL にクエリを含めて送信します
+URL にクエリを含めて送信します。
 
 ```
 curl http://localhost:8080/app/memo?txt=hello
@@ -53,7 +48,7 @@ curl http://localhost:8080/app/memo?txt=hello
 curl http://localhost:8080/app/memo -X POST -d "txt=Hello"
 ```
 
-## JSONを指定
+## JSONの設定方法
 オプション `-H` でコンテントタイプ `application/json` を指定して、`-d` で送りたい JSON を指定します。
 
 ```

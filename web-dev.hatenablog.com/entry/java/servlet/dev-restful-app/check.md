@@ -3,7 +3,7 @@ Title: Servletアプリ開発：5.動作確認
 Category:
 - Java
 Date: 2017-11-12T06:30:00+09:00
-URL: http://web-dev.hatenablog.com/entry/java/servlet/dev-restful-app/check
+URL: https://web-dev.hatenablog.com/entry/java/servlet/dev-restful-app/check
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812315996787
 ---
 
@@ -16,8 +16,6 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/85
 
 ## 前提
 動作確認は `curl` を使ってサーブレットに Httpリクエストを送信します。
-
-[Windows：cURL のインストール](/entry/windows/install-curl)
 
 
 ## アプリの起動
