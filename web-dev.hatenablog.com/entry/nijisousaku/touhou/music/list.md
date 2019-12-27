@@ -2,7 +2,7 @@
 Title: 東方アレンジ曲（作詞+ボカロ曲）
 Category:
 - 二次創作
-Date: 2019-12-09T15:05:00+09:00
+Date: 2019-12-21T16:21:00+09:00
 URL: https://web-dev.hatenablog.com/entry/nijisousaku/touhou/music/list
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17680117127113949944
 ---
@@ -26,7 +26,8 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17
 ## 作詞
 | 通番 | タイトル                                                                                                                                                         | 原曲                          |
 |------|--------------------------------------------------------------------------------------------------------------------|------------------------|
-| 1      | <a target="_blank" href="/entry/nijisousaku/touhou/music/kikeijuu/guuzou">偶像に自分を委ねて</a> | 偶像に世界を委ねて |
+| 2      | <a target="_blank" href="/entry/nijisousaku/touhou/music/kikeijuu/guuzou">偶像に自分を委ねて</a> | 偶像に世界を委ねて |
+| 1      | <a target="_blank" href="/entry/nijisousaku/touhou/music/youyoumu/musakui">無作為の郷</a>          | 無何有の郷               |
 
 
 ## 外部リンク
