@@ -2,7 +2,7 @@
 Title: AdSense：レスポンシブ広告の幅や高さを制限する
 Category:
 - etc
-Date: 2019-11-02T02:00:00+09:00
+Date: 2020-01-20T00:55:00+09:00
 URL: https://web-dev.hatenablog.com/entry/etc/blog/fix-size-of-responsive-ad
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26006613457406853
 ---
@@ -25,7 +25,7 @@ AdSense のレスポンシブ広告で、幅や高さを制限する方法を書
 
 
 ## コード例
-このブログのヘッダー広告はこんな感じです。
+`ins` タグの `style` 属性で制限できるようなので、このブログのヘッダー広告はこんな感じにしてます。
 
 ```
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -38,4 +38,3 @@ AdSense のレスポンシブ広告で、幅や高さを制限する方法を書
 </script>
 ```
 
-`ins` タグの `style` 属性で制限できるようです。
