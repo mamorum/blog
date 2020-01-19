@@ -27,15 +27,14 @@ AdSense のレスポンシブ広告で、幅や高さを制限する方法を書
 ## コード例
 このブログのヘッダー広告はこんな感じです。
 
-```javascript
+```
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Dev_Header_Responsive -->
 <ins class="adsbygoogle"
-     style="display:inline-block;min-width:400px;max-width:970px;width:100%;height:90px;"
-     data-ad-client="・・・"
-     data-ad-slot="・・・"></ins>
+ style="display:inline-block;width:100%;height:100px;"
+ data-ad-client="省略"
+ data-ad-slot="省略"></ins>
 <script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
+ (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 ```
 

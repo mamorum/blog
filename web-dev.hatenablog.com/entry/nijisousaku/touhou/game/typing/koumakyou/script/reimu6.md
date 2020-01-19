@@ -3,9 +3,8 @@ Title: タイピング紅魔郷：会話・霊夢6面
 Category:
 - 二次創作
 Date: 2019-12-31T23:00:00+09:00
-URL: https://web-dev.hatenablog.com/entry/nijisousaku/touhou/game/typing/koumakyou/script/reimu-sixth
+URL: https://web-dev.hatenablog.com/entry/nijisousaku/touhou/game/typing/koumakyou/script/reimu6
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26006613489767667
-Draft: true
 ---
 
 タイピング紅魔郷の霊夢6面会話です。ゲームの概要は以下のリンク先に掲載しています。

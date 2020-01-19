@@ -2,7 +2,7 @@
 Title: 東方作詞：無作為の郷 ～ Deep Snow Home
 Category:
 - 二次創作
-Date: 2019-12-21T16:15:41+09:00
+Date: 2020-01-18T23:45:00+09:00
 URL: https://web-dev.hatenablog.com/entry/nijisousaku/touhou/music/youyoumu/musakui
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26006613487313487
 ---
@@ -11,9 +11,10 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26
 
 
 ## アレンジ曲
-現在制作中で、2020年の前半くらいには公開できればと考えています。
+<a target="_blank" href="https://www.youtube.com/watch?v=DkMi4cqeNBE">無作為の郷 - YouTube</a>
 
-作詞後の作業（アレンジ・編曲）も、なかなか上達しないです。
+※ 新しいタブで開きます。  
+※ 歌詞は YouTube のコメント欄にも掲載しています。
 
 
 ## 歌詞

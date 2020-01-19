@@ -5,7 +5,6 @@ Category:
 Date: 2019-12-29T23:00:00+09:00
 URL: https://web-dev.hatenablog.com/entry/nijisousaku/touhou/game/typing/koumakyou/script/reimu4
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26006613489684510
-Draft: true
 ---
 
 タイピング紅魔郷の霊夢4面会話です。ゲームの概要は以下のリンク先に掲載しています。
