@@ -2,7 +2,7 @@
 Title: Unity：ゲームを終了させる
 Category:
 - Unity
-Date: 2019-03-04T06:00:00+09:00
+Date: 2020-01-24T02:00:00+09:00
 URL: https://web-dev.hatenablog.com/entry/unity/quit-game
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17391345971652478547
 ---
@@ -11,20 +11,28 @@ C#スクリプトで、Unity のゲームを終了させる方法を書いてい
 
 
 ## コード例
+Unityエディタと、スタンドアロンで終了させる例です。
+
 ```cs
-void Quit() {
-  #if UNITY_EDITOR
-    UnityEditor.EditorApplication.isPlaying = false;
-  #elif UNITY_STANDALONE
-    UnityEngine.Application.Quit();
-  #endif
-}
-void Update () {
-  if (Input.GetKey(KeyCode.Escape)) Quit();
+using UnityEngine;
+
+public class GameController : MonoBehaviour {
+  void Quit() {
+    #if UNITY_EDITOR
+      UnityEditor.EditorApplication.isPlaying = false;
+    #elif UNITY_STANDALONE
+      UnityEngine.Application.Quit();
+    #endif
+  }
+  void Update () {
+    if (Input.GetKey(KeyCode.Escape)) Quit();
+  }
 }
 ```
 
-`Quit()` が終了するためのコードで、Escape が押されたときに実行されるようにしてみました。
+※ Windows PC のみ動作確認しています。
+
+Escape を押されたときに `Quit()` が実行されます。
 
 
 ## 解説
@@ -36,7 +44,7 @@ Unityエディタ（開発環境）でゲームを実行している場合は、
 UnityEditor.EditorApplication.isPlaying = false;
 ```
 
-で終了させてます。
+で終了します。
 
 スタンドアロンで実行している場合は、
 
@@ -44,11 +52,7 @@ UnityEditor.EditorApplication.isPlaying = false;
 UnityEngine.Application.Quit();
 ```
 
-で終了させる感じです。
-
-
-## 補足
-スタンドアロンだけ終了させたい場合は、条件付きコンパイルは不要になります。`UnityEngine.Application.Quit();` だけで大丈夫だと思います。
+で終了します。
 
 
 ## スクリプトの追加方法

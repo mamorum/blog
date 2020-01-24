@@ -15,7 +15,7 @@ DirectX 9.0c (June 2010) のランタイムを、Windows10 にインストール
 
 
 ## 手順1. ダウンロード
-Microsoft の [DirectX End-User Runtimes (June 2010)](https://www.microsoft.com/en-us/download/details.aspx?id=8109) というページを開いたら、
+Microsoft の [DirectX End-User Runtimes (June 2010)](https://www.microsoft.com/en-us/download/details.aspx?id=8109) というページを開いて、
 
 [f:id:mamorums:20181023085008p:plain]
 
