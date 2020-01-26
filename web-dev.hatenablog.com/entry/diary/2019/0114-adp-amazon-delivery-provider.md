@@ -2,7 +2,7 @@
 Title: 感想：Amazon の配達について
 Category:
 - 日記
-Date: 2019-12-10T11:20:00+09:00
+Date: 2020-01-25T22:00:00+09:00
 URL: https://web-dev.hatenablog.com/entry/diary/2019/0114-adp-amazon-delivery-provider
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10257846132686186236
 ---
@@ -31,6 +31,8 @@ Amazonが通知してくれた日に届きます。届かないことは一度�
 
 ## 2. 置き配が便利
 置き配を使うと、指定した場所（玄関など）に荷物を置いていってくれます。対面で受け取る必要がないので、不在票を頂くことがなくなりました。すごく便利です。
+
+※ あくまで自分の家の場合です。
 
 
 ## 3. 態度は悪くない
