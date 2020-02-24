@@ -2,7 +2,7 @@
 Title: 東方作詞+ボカロ：アレンジ曲の一覧
 Category:
 - 二次創作
-Date: 2020-01-18T23:00:00+09:00
+Date: 2020-02-23T23:00:00+09:00
 URL: https://web-dev.hatenablog.com/entry/nijisousaku/touhou/music/list
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17680117127113949944
 ---
@@ -74,9 +74,11 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17
 ## 作詞
 歌詞だけ書いてみたものを置いてます。
 
-| タイトル                                                                                                                                                         | 原曲                          |
-|--------------------------------------------------------------------------------------------------------------------|------------------------|
-| <a target="_blank" href="/entry/nijisousaku/touhou/music/kikeijuu/guuzou">偶像に自分を委ねて</a> | 偶像に世界を委ねて |
+| 出典     | 歌詞                                                                                                                                                                                 | 原曲                                |
+|---------|-------------------------------------------------------------------------------------------------------------------------------|----------------------------|
+| 風神録 | <a target="_blank" href="/entry/nijisousaku/touhou/music/fuujinroku/ashita">明日ハレの日、ソレから未定</a> | 明日ハレの日、ケの昨日 |
+| 風神録 | <a target="_blank" href="/entry/nijisousaku/touhou/music/fuujinroku/fall">フォールアンドフォール</a>             | フォールオブフォール    |
+| 鬼形獣 | <a target="_blank" href="/entry/nijisousaku/touhou/music/kikeijuu/guuzou">偶像に自分を委ねて</a>                 | 偶像に世界を委ねて        |
 
 
 ## 外部リンク

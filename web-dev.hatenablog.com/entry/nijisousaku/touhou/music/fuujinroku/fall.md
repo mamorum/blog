@@ -5,7 +5,6 @@ Category:
 Date: 2020-02-17T00:05:00+09:00
 URL: https://web-dev.hatenablog.com/entry/nijisousaku/touhou/music/fuujinroku/fall
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26006613514786830
-Draft: true
 ---
 
 東方風神録 の『フォールオブフォール ～ 秋めく滝』を聴いて、歌詞『フォールアンドフォール ～ 染まる滝』を書いてみました。

@@ -5,7 +5,6 @@ Category:
 Date: 2020-02-16T23:45:00+09:00
 URL: https://web-dev.hatenablog.com/entry/nijisousaku/touhou/music/fuujinroku/ashita
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26006613514783922
-Draft: true
 ---
 
 東方風神録 の『明日ハレの日、ケの昨日』を聴いて、歌詞『明日ハレの日、ソレから未定』を書いてみました。
