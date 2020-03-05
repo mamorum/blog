@@ -5,7 +5,6 @@ Category:
 Date: 2020-02-29T00:05:00+09:00
 URL: https://web-dev.hatenablog.com/entry/nijisousaku/touhou/game/typing/koumakyou/script/list
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26006613527118292
-Draft: true
 ---
 
 タイピング紅魔郷の会話集です。エンディングとエクストラの会話は除外しています。ゲームの概要やあらすじは、以下のリンク先を参照して頂ければと思います。

@@ -5,7 +5,6 @@ Category:
 Date: 2020-02-29T00:00:00+09:00
 URL: https://web-dev.hatenablog.com/entry/nijisousaku/touhou/game/typing/koumakyou/script/marisa5
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26006613526243138
-Draft: true
 ---
 
 タイピング紅魔郷の魔理沙5面会話です。ゲームの概要は以下のリンク先に掲載しています。

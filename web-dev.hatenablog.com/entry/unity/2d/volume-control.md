@@ -3,7 +3,7 @@ Title: Unity 2D：オーディオの音量調整
 Category:
 - Unity
 Date: 2019-10-12T10:00:00+09:00
-URL: https://web-dev.hatenablog.com/entry/unity/2d/_volume-control
+URL: https://web-dev.hatenablog.com/entry/unity/2d/volume-control
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26006613446706692
 ---
 

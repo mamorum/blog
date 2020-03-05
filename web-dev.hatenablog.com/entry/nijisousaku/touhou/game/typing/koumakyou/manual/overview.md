@@ -2,7 +2,7 @@
 Title: タイピング紅魔郷：概要
 Category:
 - 二次創作
-Date: 2019-09-18T23:00:00+09:00
+Date: 2020-03-01T23:00:00+09:00
 URL: https://web-dev.hatenablog.com/entry/nijisousaku/touhou/game/typing/koumakyou/manual/overview
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17680117127158383592
 ---
@@ -49,7 +49,7 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17
 
 
 ## 会話集
-準備中です。
+[https://web-dev.hatenablog.com/entry/nijisousaku/touhou/game/typing/koumakyou/script/list:embed:cite]
 
 
 ## 次のページ
