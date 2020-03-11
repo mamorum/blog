@@ -3,7 +3,7 @@ Title: Unity UI：複数の画面解像度に対応させる
 Category:
 - Unity
 Date: 2019-03-25T06:00:00+09:00
-URL: https://web-dev.hatenablog.com/entry/unity/ui/suppoert-multiple-screen-resolutions
+URL: https://web-dev.hatenablog.com/entry/unity/ui/support-multiple-screen-resolutions
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17680117126989366690
 ---
 
