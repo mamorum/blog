@@ -5,7 +5,6 @@ Category:
 Date: 2020-03-14T00:00:00+09:00
 URL: https://web-dev.hatenablog.com/entry/windows/audio-overview
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26006613532359719
-Draft: true
 ---
 
 Windowsオーディオの種類と特徴について、調べたことを比較しつつまとめていきます。
