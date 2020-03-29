@@ -5,7 +5,6 @@ Category:
 Date: 2020-03-15T23:30:00+09:00
 URL: https://web-dev.hatenablog.com/entry/hardware/pc/intel-nuc-9-10
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26006613533437764
-Draft: true
 ---
 
 久々に Intel の HP を見たら、NUC の情報が更新されてました。
