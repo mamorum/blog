@@ -5,7 +5,6 @@ Category:
 Date: 2020-03-30T00:00:00+09:00
 URL: https://web-dev.hatenablog.com/entry/unity/ui/handle-button-click
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26006613542229481
-Draft: true
 ---
 
 Unity UI で、ボタンをクリックした時の処理を追加する方法を書いていきます。
