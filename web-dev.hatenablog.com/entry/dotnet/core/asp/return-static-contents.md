@@ -1,7 +1,7 @@
 ---
 Title: ASP.NET Core：静的コンテンツを返す
 Category:
-- .NET
+- C#
 Date: 2020-04-12T00:00:00+09:00
 URL: https://web-dev.hatenablog.com/entry/dotnet/core/asp/return-static-contents
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26006613545882606

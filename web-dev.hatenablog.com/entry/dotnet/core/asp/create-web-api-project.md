@@ -1,7 +1,7 @@
 ---
 Title: ASP.NET Core：Web API プロジェクトの作成
 Category:
-- .NET
+- C#
 Date: 2020-04-05T00:00:00+09:00
 URL: https://web-dev.hatenablog.com/entry/dotnet/core/asp/create-web-api-project
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26006613544703847

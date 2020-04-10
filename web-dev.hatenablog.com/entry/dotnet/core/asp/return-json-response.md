@@ -1,7 +1,7 @@
 ---
 Title: ASP.NET Core：JSONを返す
 Category:
-- .NET
+- C#
 Date: 2020-04-11T00:00:00+09:00
 URL: https://web-dev.hatenablog.com/entry/dotnet/core/asp/return-json-response
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26006613545878914

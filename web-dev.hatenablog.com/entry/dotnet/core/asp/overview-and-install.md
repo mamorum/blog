@@ -1,7 +1,7 @@
 ---
 Title: ASP.NET Core：概要・開発準備
 Category:
-- .NET
+- C#
 Date: 2020-04-04T00:00:00+09:00
 URL: https://web-dev.hatenablog.com/entry/dotnet/core/asp/overview-and-install
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26006613544692093
