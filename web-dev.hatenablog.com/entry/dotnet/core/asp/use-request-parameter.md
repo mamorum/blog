@@ -49,7 +49,7 @@ namespace WebApi1.Controllers {
 }
 ```
 
-引数に `FromQuery` の属性を付けて、引数名をパラメータ名と同じにすると取得できます。
+引数名をパラメータ名と同じにすると取得できました。引数の属性 `FromQuery` は無くても大丈夫そうですが、念のため付けておくことにしました。
 
 ※ コントローラーの追加方法は、[こちら](/entry/dotnet/core/asp/return-json-response) にも書いてあります。
 
@@ -58,7 +58,7 @@ namespace WebApi1.Controllers {
 デバッグ実行して、以下の URL にアクセスすると、
 
 ```
-http://localhost:xxxxx/api/task/4
+http://localhost:xxxxx/api/task?id=4
 ```
 
 下の JSON が返ってきます。
