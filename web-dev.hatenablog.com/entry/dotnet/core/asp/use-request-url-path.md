@@ -5,7 +5,6 @@ Category:
 Date: 2020-04-18T00:00:00+09:00
 URL: https://web-dev.hatenablog.com/entry/dotnet/core/asp/use-request-url-path
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26006613546780126
-Draft: true
 ---
 
 ASP.NET Core で、URLパス（の一部）を APIコントローラーで使う方法を書いていきます。

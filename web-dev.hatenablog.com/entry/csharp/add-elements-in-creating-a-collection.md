@@ -5,7 +5,6 @@ Category:
 Date: 2020-04-25T00:00:00+09:00
 URL: https://web-dev.hatenablog.com/entry/csharp/add-elements-in-creating-a-collection
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26006613547704721
-Draft: true
 ---
 
 C# の `List` と `Dictionary` で、インスタンス化する際に要素を追加する方法を書いていきます。

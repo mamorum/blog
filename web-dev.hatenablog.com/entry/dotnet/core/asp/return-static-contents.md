@@ -5,7 +5,6 @@ Category:
 Date: 2020-04-12T00:00:00+09:00
 URL: https://web-dev.hatenablog.com/entry/dotnet/core/asp/return-static-contents
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26006613545882606
-Draft: true
 ---
 
 ASP.NET Core で、HTMLなどの静的コンテンツを返却する方法を書いていきます。

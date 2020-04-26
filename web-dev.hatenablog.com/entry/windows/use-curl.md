@@ -5,7 +5,6 @@ Category:
 Date: 2020-04-13T00:00:00+09:00
 URL: https://web-dev.hatenablog.com/entry/windows/use-curl
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26006613548287769
-Draft: true
 ---
 
 Windows10 の `curl` で、リクエストを送信する方法を書いていきます。大まかな内容は以下の通りです。
