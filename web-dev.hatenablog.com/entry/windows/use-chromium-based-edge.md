@@ -5,7 +5,6 @@ Category:
 Date: 2020-05-09T00:00:00+09:00
 URL: https://web-dev.hatenablog.com/entry/windows/use-chromium-based-edge
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26006613553770116
-Draft: true
 ---
 
 Chromium ベースの Edgeを使ってみたので、インストール方法などをまとめていきます。

@@ -5,7 +5,6 @@ Category:
 Date: 2020-05-02T00:00:00+09:00
 URL: https://web-dev.hatenablog.com/entry/game/touhou/chireiden-screen-flicker
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26006613553762941
-Draft: true
 ---
 
 Windows10 64bit で「東方地霊殿」をプレイしていたら、画面が少しちらつくことがありました。自分のPCだと、入力のレイテンシを「通常」に変更したら解消したので、これからその手順をまとめていきます。
