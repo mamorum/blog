@@ -10,8 +10,12 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10
 DirectX のコンバーターをインストールする方法を書いていきます。今回のコンバーターは、DirectX 8 を 9 に変換するものです。
 
 
+## 注意事項
+インストール後、OSや他のアプリにどのような影響が出るかは分かりません。インストールは自己責任でお願い致します。
+
+
 ## 用途
-東方Project の、
+自分の場合、東方Project の、
 
 - 紅魔郷
 - 妖々夢

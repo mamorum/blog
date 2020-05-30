@@ -7,30 +7,37 @@ URL: https://web-dev.hatenablog.com/entry/game/touhou/koumakyou-on-windows10
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10257846132600099675
 ---
 
-東方Project の紅魔郷を、Windows10 64bit で動かしてプレイする方法をまとめていきます。
+東方Project の紅魔郷を、Windows10 64bit でプレイする方法をまとめていきます。
 
 ※ フルスクリーンで遊ぶ手順を書いています。
 
 
-## 参考文献等
-手順をまとめる際に、以下のページを参考にさせて頂きました。
-
-[http://ch.nicovideo.jp/sapils275/blomaga/ar1236895:embed:cite]
-
-[http://ch.nicovideo.jp/k2snd/blomaga/ar1004442:embed:cite]
-
-また、コメント欄（ページ下部）で、個別のトラブル解決方法などを報告して下さった方もいます。必要に応じて、上の記事やコメントを参考にして頂ければと思います。
+## 注意点
+- 同じ手順でも、動作しないＰＣがあります。
+- 非公式の手順です。自己責任でお願いします。
+- 作品未購入の場合は、体験版での動作確認をお勧めします。
 
 
-## 環境・注意点
+## 参考文献
+以下のページを参考にさせて頂きました。
+
+- <a target="_blank" href="http://ch.nicovideo.jp/sapils275/blomaga/ar1236895">Windows10 Creators Update後に東方紅魔郷を動かすメモ</a>
+- <a target="_blank" href="http://ch.nicovideo.jp/k2snd/blomaga/ar1004442">【紅魔郷・妖々夢・永夜抄・花映塚】東方をWindows10環境でフルスクリーン</a>
+
+また、コメント欄（ページ下部）で、個別のトラブル解決方法が報告されています。必要に応じて、リンク先やコメントを参照して頂ければと思います。
+
+
+## 環境
 以下の環境で動作を確認しました。
 
-- OS: Win10 64bit Version1903
+- OS: Win10 Home 64bit Version1909
+- PC: ASUS VC66-BB062M
 - CPU: Intel Core i5-7400 3.0GHz
-- GPU: Intel HD Graphics 630（オンボード）
-- 記憶装置: メモリ8GB（4GB × 2）, SSD256GB
+- GPU: Intel HD Graphics 630
+- メモリ: 8GB（4GB × 2）
+- ストレージ: SSD256GB
 
-他のPCで動くかは分かりません。作品未購入の場合は、体験版で動作確認して頂いたほうが良いかと思います。
+PCはベアボーンで、GPUはオンボードです。
 
 
 ## 手順1. 紅魔郷のインストール
