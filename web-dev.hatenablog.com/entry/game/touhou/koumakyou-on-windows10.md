@@ -13,8 +13,7 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10
 
 
 ## 注意点
-- 同じ手順でも、動作しないＰＣがあります。
-- 非公式の手順です。自己責任でお願いします。
+- 非公式の手順で、動作しないＰＣもあります。
 - 作品未購入の場合は、体験版での動作確認をお勧めします。
 
 
