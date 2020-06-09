@@ -2,7 +2,7 @@
 Title: 東方紅魔郷：Windows10でプレイする方法
 Category:
 - ゲーム
-Date: 2020-06-08T04:15:00+09:00
+Date: 2020-06-09T22:30:00+09:00
 URL: https://web-dev.hatenablog.com/entry/game/touhou/koumakyou-on-windows10
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10257846132600099675
 ---
@@ -29,7 +29,7 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10
 ## 環境
 以下の環境で動作を確認しました。
 
-- OS: Win10 Home 64bit Version2004
+- OS: Win10 Home 64bit Version1903
 - PC: ASUS VC66-BB062M
 - CPU: Intel Core i5-7400 3.0GHz
 - GPU: Intel HD Graphics 630
@@ -61,7 +61,7 @@ DirectX 9.0c June 2010 のランタイムをインストールしておきます
 
 が選択されている状態で、決定ボタンをクリックします。
 
-※ 「強制的に６０フレームにする」のチェックが外れてても正常に動きました。あと、以前は画面モード「16Bits」でも動いた気がしたのですが、今は「32Bits」にしないとエラー終了しました。色々と試してみると良い気がします。
+※ OS Version2004 だと「強制的に６０フレームにする」のチェックが外れてても正常に動きました。ただ、画面モード「16Bits」だと動きませんでした。色々と試してみると良い気がしました。
 
 
 ## 手順4. プロパティ設定
