@@ -33,8 +33,9 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10
 - PC: ASUS VC66-BB062M
 - CPU: Intel Core i5-7400 3.0GHz
 - GPU: Intel HD Graphics 630
-- メモリ: 8GB（4GB × 2）
+- メモリ: 8GB（4GB×2）
 - ストレージ: SSD256GB
+- モニター: DELL P2719H（1920×1080 @60Hz）
 
 PCはベアボーンで、GPUはオンボードです。
 
@@ -50,7 +51,7 @@ DirectX 9.0c June 2010 のランタイムをインストールしておきます
 
 
 ## 手順3. 設定変更
-紅魔郷をインストールしたフォルダ内の `custom.exe` を実行すると画面が表示されるので、
+紅魔郷をインストールしたフォルダ内の `custom.exe` を実行して、
 
 [f:id:mamorums:20200608041105p:plain]
 
@@ -61,7 +62,7 @@ DirectX 9.0c June 2010 のランタイムをインストールしておきます
 
 が選択されている状態で、決定ボタンをクリックします。
 
-※ OS Version2004 だと「強制的に６０フレームにする」のチェックが外れてても正常に動きました。ただ、画面モード「16Bits」だと動きませんでした。色々と試してみると良い気がしました。
+※ Win10 Version2004 だと、画面モード「16Bits」は動きませんでした。動かない場合は、色々と試してみると良い気がしました。
 
 
 ## 手順4. プロパティ設定
@@ -89,15 +90,9 @@ DirectX のレンダリングを 8 から 9 に変換してくれるコンバー
 
 
 ## 補足1. ゲームパッド
-最近は「HORI ファイティングコマンダー」を使っています。
+以下の記事で、使用できたパッドを紹介してます。
 
-[https://web-dev.hatenablog.com/entry/hardware/gamepad/hori-fighting-commander:embed:cite]
-
-以前は「HORI EDGE 301」を使っていました。
-
-[https://web-dev.hatenablog.com/entry/hardware/gamepad/hori-edge-301:embed:cite]
-
-自分の環境だと、どちらも十字キーを使えました。
+[https://web-dev.hatenablog.com/entry/hardware/gamepad/hori:embed:cite]
 
 家庭用ゲーム機のコントローラーも使ってみたいんですが手を出せていません。
 
