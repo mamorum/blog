@@ -1,9 +1,9 @@
 ---
 Title: lsFeed：無料のフィードリーダー
 Category:
-- lsFeed
+- etc
 Date: 2020-06-15T14:30:00+09:00
-URL: https://web-dev.hatenablog.com/entry/lsfeed/manual/table-of-contents
+URL: https://web-dev.hatenablog.com/entry/etc/lsfeed/manual
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26006613464973575
 ---
 
@@ -16,7 +16,7 @@ lsFeed は、Windows PC用のシンプルなフィードリーダーです。
 ## インストール（アップデート）
 1. <a target="_blank" href="https://github.com/mamorum/lsFeed/releases">リリースページ</a> から Zip をダウンロードします。
 2. Zip を解凍して `setup.bat` をダブルクリックします。
-3. 画面表示後に「詳細情報」と「実行」をクリックします。
+3. 開いた画面で「詳細情報」と「実行」をクリックします。
 
 [f:id:mamorums:20191112154137p:plain]
 
@@ -65,3 +65,9 @@ C:\Users\John\lsFeed（インストール先）
 
 ## アンインストール方法
 アンインストールしたい場合は、インストール先のフォルダを削除します。
+
+
+## 変更履歴
+[https://web-dev.hatenablog.com/entry/etc/lsfeed/changelog:embed:cite]
+
+
