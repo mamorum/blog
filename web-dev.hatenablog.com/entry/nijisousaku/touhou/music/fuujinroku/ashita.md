@@ -11,8 +11,8 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26
 
 
 ## 補足
+- ほぼ原曲ベースです。
 - 音域等は考慮できてません。
-- 原曲のメロディと異なる点があります。
 
 いつものようなアレンジ曲はまだなくて、いつか作れたら良いなぁと思っています。
 

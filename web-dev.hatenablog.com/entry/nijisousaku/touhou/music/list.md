@@ -7,11 +7,11 @@ URL: https://web-dev.hatenablog.com/entry/nijisousaku/touhou/music/list
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17680117127113949944
 ---
 
-東方アレンジ曲（二次創作）をまとめてみました。曲タイトルの副題は省略しています。
+制作した東方アレンジ曲をまとめています。
 
 
 ## 作詞 + ボカロ曲
-※ 再生「▶」押下で、YouTube の画面が開きます。  
+※ 再生「▶」押下で、YouTube画面（広告なし）が開きます。  
 ※ 歌詞は YouTube のコメント欄にも掲載しています。
 
 <table>
@@ -72,7 +72,7 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17
 
 
 ## 作詞
-歌詞だけ書いてみたものを置いてます。
+原曲ベースで、歌詞だけ書いてみたものを置いてます。
 
 | 出典     | 歌詞                                                                                                                                                                                 | 原曲                                |
 |---------|-------------------------------------------------------------------------------------------------------------------------------|----------------------------|
