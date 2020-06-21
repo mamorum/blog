@@ -9,8 +9,6 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10
 
 東方Project の紅魔郷を、Windows10 64bit でプレイする方法をまとめていきます。
 
-※ フルスクリーンで遊ぶ手順を書いています。
-
 
 ## 注意点
 - 非公式の手順で、動作しないＰＣもあります。
@@ -23,7 +21,7 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10
 - <a target="_blank" href="http://ch.nicovideo.jp/sapils275/blomaga/ar1236895">Windows10 Creators Update後に東方紅魔郷を動かすメモ</a>
 - <a target="_blank" href="http://ch.nicovideo.jp/k2snd/blomaga/ar1004442">【紅魔郷・妖々夢・永夜抄・花映塚】東方をWindows10環境でフルスクリーン</a>
 
-また、コメント欄（ページ下部）で、個別のトラブル解決方法が報告されています。必要に応じて、リンク先やコメントを参照して頂ければと思います。
+また、コメント欄（ページ末尾）で、動作確認の結果やトラブル解決方法を書いてくれた方々がいます。動かない場合は、上のページやコメント欄を参照して頂ければと思います。
 
 
 ## 環境
@@ -45,28 +43,33 @@ PCはベアボーンで、GPUはオンボードです。
 
 
 ## 手順2. DirectX9 のインストール
-DirectX 9.0c June 2010 のランタイムをインストールしておきます。
+DirectX 9.0c June 2010 のランタイムをインストールしておきます。手順は下のリンク先にもまとめています。
 
 [https://web-dev.hatenablog.com/entry/game/directx/install-9c-to-win10:embed:cite]
 
 
-## 手順3. 設定変更
-紅魔郷をインストールしたフォルダ内の `custom.exe` を実行して、
+## 手順3. コンバーターのインストール
+DirectX のレンダリングを 8 から 9 に変換する資源を、紅魔郷のインストール先に配置（コピー）します。
+
+[https://web-dev.hatenablog.com/entry/game/directx/install-converter:embed:cite]
+
+
+## 手順4. 設定変更
+インストール先の `custom.exe` を実行して、
 
 [f:id:mamorums:20200608041105p:plain]
 
 - 強制的に６０フレームにする
-- フルスクリーン
 - 毎回（通常）
 - 32Bits
 
 を選択した状態で、決定ボタンをクリックします。
 
-※ Win10 Version2004 だと、画面モード「16Bits」は動きませんでした。動かない場合は、色々と試してみると良い気がしました。
 
+## 手順5. 解像度設定
+※ フルスクリーンの場合だけ解像度設定をします。
 
-## 手順4. プロパティ設定
-上と同じフォルダ内の `東方紅魔郷.exe` を右クリックして「プロパティ」を選択します。
+紅魔郷をインストールしたフォルダ内の `東方紅魔郷.exe` を右クリックして「プロパティ」を選択します。
 
 [f:id:mamorums:20180711091032p:plain]
 
@@ -77,12 +80,6 @@ DirectX 9.0c June 2010 のランタイムをインストールしておきます
 - 640×480の解像度で実行する
 
 にチェックを入れて、OKボタンを押します。
-
-
-## 手順5. DirectX コンバータの配置
-DirectX のレンダリングを 8 から 9 に変換してくれるコンバーターを、紅魔郷をインストールしたフォルダに配置（コピー）します。手順は下のリンク先に書いてあります。
-
-[https://web-dev.hatenablog.com/entry/game/directx/install-converter:embed:cite]
 
 
 ## 手順6. 遊ぶ
