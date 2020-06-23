@@ -11,7 +11,7 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17
 
 [https://news.microsoft.com/ja-jp/2018/06/05/microsoft-to-acquire-github-for-7-5-billion/:embed:cite]
 
-個人的には、GitHub の無料プランも引き続き利用可能な気がします（願望）。最近の Microsoft は非常にオープンで、無料の製品にも力を入れているので、そう思いました。
+個人的には、GitHub の無料プランも引き続き利用可能な気がします（願望）。最近の Microsoft はオープンな感じで、無料の製品にも力を入れているので、そう思いました。
 
 ということで、具体的な製品をいくつか書いてみました。
 

@@ -40,5 +40,7 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26
 1杯10gで淹れる場合は約16円ですかね。ありがたいです。
 
 
-## 最後に
-もし、安くて酸味の少ないコーヒーをご存じでしたら教えて頂けると嬉しいです。色々試してみたいです。
+## 関連記事
+下のリンク先に、コーヒー道具のことも書いたりしてます。
+
+[https://web-dev.hatenablog.com/entry/diary/2018/0417-coffee-low-cost:embed:cite]

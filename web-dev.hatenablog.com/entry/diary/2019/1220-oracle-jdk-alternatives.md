@@ -29,10 +29,10 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26
 
 
 ## Javaについて
-Oracle のライセンス体系が変わっても、Java 自体には影響なさそうな気がします。Amazon は James Gosling も在籍してますし、頑張ってもらえたら嬉しいです。
+Oracle のライセンス体系が変わっても、Java 自体には影響なさそうな気がします。Amazon は James Gosling も在籍してるので、今後も Javaに深く関わっていきそうな気がします。
 
 
 ## .NET Coreについて
-最近は Microsoft の .NET Core に注目しています。クロスプラットフォームで無料っぽいので、サーバーサイド（ASP .NET Core）も試してみたいと思いました。
+Java の状況が少し大変そうなので、最近は Microsoft の .NET Core に注目しています。クロスプラットフォームで無料っぽいので、サーバーサイド（ASP .NET Core）も試してみたいと思いました。
 
 Windows ユーザーは、企業規模（or ユーザー数）に関わらず Visual Studio 無料とか、そうなったらインパクトありそうな気がします・・。
