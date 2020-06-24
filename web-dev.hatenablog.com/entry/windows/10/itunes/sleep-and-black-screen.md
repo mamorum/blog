@@ -2,7 +2,7 @@
 Title: Windows10：スリープ復帰後に黒画面（iTunes起動中）
 Category:
 - Windows
-Date: 2020-06-28T00:00:00+09:00
+Date: 2020-06-27T00:00:00+09:00
 URL: https://web-dev.hatenablog.com/entry/windows/10/itunes/sleep-and-black-screen
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26006613586975467
 Draft: true
