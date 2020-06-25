@@ -1,5 +1,5 @@
 ---
-Title: Intel NUC：第9・第10世代の情報公開
+Title: Intel NUC：第9・第10世代の情報
 Category:
 - ハード
 Date: 2020-03-15T23:30:00+09:00
@@ -7,13 +7,14 @@ URL: https://web-dev.hatenablog.com/entry/hardware/pc/intel-nuc-9-10
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26006613533437764
 ---
 
-久々に Intel の HP を見たら、NUC の情報が更新されてました。
+Intel の HP を見たら、NUC の情報が更新されてました。
 
 [Intel NUC](https://www.intel.co.jp/content/www/jp/ja/products/boards-kits/nuc.html)
 
-第9世代のゲーミング用、第10世代のミニＰＣは、もう販売されてるみたいでした。ただ、CPU足りない影響なのか、日本の Amazon で検索しても出てこなかったです・・。
+以下の実機について、仕様を見ただけなんですが、感想を書いていこうと思います。
 
-なので、仕様を見ただけなんですが、少し感想とかを書いていこうと思います。
+- 第9世代のゲーミングＰＣ
+- 第10世代のミニＰＣ
 
 
 ## 補足
