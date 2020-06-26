@@ -5,7 +5,6 @@ Category:
 Date: 2020-06-27T00:00:00+09:00
 URL: https://web-dev.hatenablog.com/entry/windows/10/itunes/sleep-and-black-screen
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26006613586975467
-Draft: true
 ---
 
 Windows10 で iTunes を起動したままスリープすると、復帰後も黒画面のままで強制終了が必要になりました。
