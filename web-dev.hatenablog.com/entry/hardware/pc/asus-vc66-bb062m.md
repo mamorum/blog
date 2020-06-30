@@ -7,7 +7,7 @@ URL: https://web-dev.hatenablog.com/entry/hardware/pc/asus-vc66-bb062m
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17391345971654644993
 ---
 
-昨年の６月に、パソコンを Asus のベアボーンPC「VC66-BB062M」に買い替えました。
+2017年6月に、PC を Asusベアボーン「VC66-BB062M」に買い替えました。
 
 [asin:B071CMHFDT:detail]
 

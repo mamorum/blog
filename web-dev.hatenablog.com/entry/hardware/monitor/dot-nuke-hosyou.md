@@ -1,40 +1,28 @@
 ---
-Title: モニター：ドット抜けメーカー保証のまとめ
+Title: モニター：ドット抜けのメーカー保証まとめ
 Category:
 - ハード
-Date: 2017-12-24T08:30:00+09:00
-URL: http://web-dev.hatenablog.com/entry/hardware/monitor/dot-nuke-hosyou
+Date: 2020-06-30T14:30:00+09:00
+URL: https://web-dev.hatenablog.com/entry/hardware/monitor/dot-nuke-hosyou
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/8599973812325827038
 ---
 
-BenQ の液晶ディスプレイでドット抜けを見つけたところ、保証対象外で修理や交換はできませんでした。
+BenQ の ディスプレイでドット抜けを見つけてから、各メーカーの保証有無が気になって調べてみました。
 
-[http://web-dev.hatenablog.com/entry/hardware/monitor/benq-dot-nuke:embed:cite]
+※ ドット抜けには、色々な別名（ドット落ち、ドット欠け、画素落ち、画素欠け、等々）があるみたいです。
 
-メーカーの保証内容を比較してみたくて、ドット抜け保証があるか調べてみました。
-
-
-## 注意事項
-ドット抜けを保証するメーカーでも、ドット抜けの状態（無輝点、画素欠け、etc）によっては交換や修理ができないケースがあるみたいです。詳細はメーカーのサイトを参照して頂ければと思います。
+## 注意：保証条件について
+保証有りのメーカーでも、ドット抜けの状態（色や数など）によっては交換や修理ができないケースがあるみたいです。詳細は各社の保証規定などをご確認頂ければと思います。
 
 
-## ３年以上保証
-以下の会社は３年以上保証してるみたいです。
-
-- Dell（プレミアムパネル保証、有償で延長可能）
-
-
-## 半年保証
-以下の会社は６ヵ月以内であれば保証されるみたいです。
-
-- EIZO
+## 保証有り
+- Dell（１年 or ３年）
+- EIZO（半年）
 
 
-## 保証対象外
-以下の会社は保証対象外としてるみたいです。
-
-- BenQ
+## 保証無し
 - ASUS
+- BenQ
 - IODATA
 - iiyama
 
