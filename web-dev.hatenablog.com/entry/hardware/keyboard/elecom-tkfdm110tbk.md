@@ -2,7 +2,7 @@
 Title: 感想：Elecom TK-FDM110TBK（無線キーボード）
 Category:
 - ハード
-Date: 2019-11-09T01:00:00+09:00
+Date: 2020-07-01T01:00:00+09:00
 URL: https://web-dev.hatenablog.com/entry/hardware/keyboard/elecom-tkfdm110tbk
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26006613457563184
 ---
@@ -23,11 +23,15 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/26
 
 
 ## 2. 悪い点
-### 2.1. Fnキーが左下にない
+### 2.1. 接続が切れる
+時間は計ってないんですが、一定時間経過後に接続が切れます。接続が切れた後の一打目はロストします。
+
+### 2.2. Fnキーが左下にない
 左下のファンクションキーを使わなければ影響ないですが、こだわりがある場合は気を付けたほうが良さそうです。左下にFnキーがあれば、音量調節（Fn + F2～F4）を片手操作できた気がしました。
 
-### 2.2. 電源箇所のデザイン
+### 2.3. 電源箇所のデザイン
 右上の電源スイッチ周辺が白（シルバー）っぽくて、実物を見るまでは気になって購入できませんでした。統一感があると嬉しかったです。
+
 
 
 ## 補足
