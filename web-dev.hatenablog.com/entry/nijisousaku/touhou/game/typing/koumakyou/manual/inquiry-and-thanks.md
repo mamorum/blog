@@ -13,7 +13,7 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17
 ## お問い合わせ
 バグ・質問・要望・感想などがありましたら、下の宛先まで連絡を頂けると嬉しいです。
 
-[f:id:mamorums:20190525101303p:plain]
+[f:id:mamorums:20200701151430p:plain]
 
 軽微なバグや、要望は反映できるか不明です。すみません。
 
