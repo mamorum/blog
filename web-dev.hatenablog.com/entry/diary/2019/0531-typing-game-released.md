@@ -13,7 +13,7 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17
 ## 概要
 ゲームタイトルは「タイピング紅魔郷」で、東方Project の二次創作となっています。ゲーム内容は、紅魔郷に関連しそうな文言をタイピングしていく感じです。
 
-[https://web-dev.hatenablog.com/entry/nijisousaku/touhou/game/typing/koumakyou/manual/overview:embed:cite]
+[https://web-dev.hatenablog.com/entry/game/type/kouma:embed:cite]
 
 タイトルのネーミングは、
 

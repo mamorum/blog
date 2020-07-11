@@ -23,7 +23,7 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17
 
 
 ## ダウンロード
-- [最新版 v1.0.1](https://github.com/mamorum/game/releases/download/thtype06/typing-kouma-1.0.1.zip)（<a target="_blank" href="/entry/game/type/kouma-log">変更履歴</a>）
+- [最新版 v1.0.1](https://github.com/mamorum/dist/releases/download/thtype06/typing-kouma-1.0.1.zip)（<a target="_blank" href="/entry/game/type/kouma-log">変更履歴</a>）
 
 
 ## 動作環境
