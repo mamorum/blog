@@ -1,5 +1,5 @@
 ---
-Title: Ubuntu：nkfのインストール
+Title: Ubuntu14：nkfのインストール
 Category:
 - Linux
 Date: 2017-07-06T14:48:00+09:00
@@ -9,7 +9,7 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/85
 
 Ubuntu に nkf をインストールする方法を書いていきます。nkf を使うと文字コードを変換したり、改行コードを変換したりできます。
 
-インストールの動作確認は、Vagrant Box の `ubuntu/trusty64` で行っています。
+※ インストールの動作確認は、Vagrant Box の `ubuntu/trusty64` で行っています。
 
 
 ## 手順1. apt-get の実行
