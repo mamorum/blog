@@ -9,7 +9,7 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10
 
 CentOS の時刻を、日本時刻に設定する手順を書いていきます。NTP で日本標準時と同期して、タイムゾーンを JST に変更します。
 
-なお、作業は全て root で実施します。
+※ 作業は全て root で実施しました。
 
 
 ## 手順1. NTP インストール
@@ -27,7 +27,7 @@ CentOS の時刻を、日本時刻に設定する手順を書いていきます�
 # ntpdate ntp.nict.jp
 ```
 
-コマンドの引数「ntp.nict.jp」は、[NICT の NTPサーバ](http://www2.nict.go.jp/aeri/sts/tsp/PubNtp/index.html) です。日本標準時に直結しています。
+コマンドの引数「ntp.nict.jp」は、NICT の NTPサーバです。
 
 
 ## 手順3. /etc/ntp.conf の編集
@@ -52,9 +52,7 @@ server -4 ntp2.jst.mfeed.ad.jp
 server -4 ntp3.jst.mfeed.ad.jp
 ```
 
-変更後の「server -4」は、IPv4 で NTP サーバに接続するということです。
-
-それから「ntp1.jst.mfeed.ad.jp」「ntp2.jst.mfeed.ad.jp」「ntp3.jst.mfeed.ad.jp」は、[MFEED](http://www.jst.mfeed.ad.jp/) の NTP サーバ です。この３つは NICT の NTP サーバ（ntp.nict.jp）と同期しています。
+変更後の「server -4」は、IPv4 で NTP サーバに接続するということです。2～3行目の接続先は MFEED のサーバで、NICT と同期しているみたいです。
 
 
 ## 手順4. ntpd の起動
