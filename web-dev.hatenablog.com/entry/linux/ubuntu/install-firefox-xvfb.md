@@ -1,5 +1,5 @@
 ---
-Title: Ubuntu：xvfbとfirefoxのインストール
+Title: Ubuntu14：xvfbとfirefoxのインストール
 Category:
 - Linux
 Date: 2016-11-18T17:45:39+09:00
@@ -7,7 +7,11 @@ URL: https://web-dev.hatenablog.com/entry/linux/ubuntu/install-firefox-xvfb
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/10328749687194917557
 ---
 
-Ubuntu 14（Vagrant Box の `ubuntu/trusty64`）で Selenium 関連のテストをしたくて、Xvfb と FireFox をインストールすることがありました。今回は、そのインストール方法と利用手順を書いていきます。 
+Ubuntu 14 で Selenium 関連のテストをしたくて、Xvfb と FireFox をインストールすることがありました。これから、インストール方法と利用手順を書いていきます。 
+
+
+## 環境
+Vagrant Box の `ubuntu/trusty64` で動作を確認しました。
 
 
 ## インストール
