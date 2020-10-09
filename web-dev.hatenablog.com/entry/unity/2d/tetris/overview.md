@@ -11,7 +11,7 @@ Unity 2D を使って、テトリスを制作してみました。プログラ�
 
 動作イメージ（無音）は以下の通りです。
 
-[https://www.youtube.com/watch?v=LeKO05yuzxo:embed:cite]
+[https://www.youtube.com/watch?v=RlOzQMbCpr4:embed:cite]
 
 
 ## 参考文献

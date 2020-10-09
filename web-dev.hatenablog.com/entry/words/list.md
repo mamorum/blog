@@ -2,7 +2,7 @@
 Title: 作詞+アレンジ曲の一覧
 Category:
 - 作詞
-Date: 2020-02-23T23:00:00+09:00
+Date: 2020-08-23T15:55:00+09:00
 URL: https://web-dev.hatenablog.com/entry/words/list
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17680117127113949944
 ---
@@ -17,6 +17,11 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17
 <table>
 <thead><tr><th>再生</th><th>歌詞</th><th>原曲</th></tr></thead>
 <tbody>
+<tr>
+  <td class="txt-center"><a target="_blank" href="https://www.youtube.com/watch?v=K7xyVJB65Io">▶</a></td>
+  <td><a target="_blank" href="/entry/words/th/shin/rubber">ラバードライブ</a></td>
+  <td>デザイアドライブ</td>
+</tr>
 <tr>
   <td class="txt-center"><a target="_blank" href="https://www.youtube.com/watch?v=DkMi4cqeNBE">▶</a></td>
   <td><a target="_blank" href="/entry/words/th/you/musakui">無作為の郷</a></td>

@@ -38,7 +38,7 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17
 ## お問い合わせ
 バグ・質問・要望・意見・感想などは、下の宛先かコメントで頂けると嬉しいです。
 
-[f:id:mamorums:20200708223735p:plain]
+[f:id:mamorums:20200817154921p:plain]
 
 
 ## お礼

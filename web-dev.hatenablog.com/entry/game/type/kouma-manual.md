@@ -2,7 +2,7 @@
 Title: タイピング紅魔郷：マニュアル
 Category:
 - ゲーム
-Date: 2020-07-08T23:30:00+09:00
+Date: 2020-09-06T13:30:00+09:00
 URL: https://web-dev.hatenablog.com/entry/game/type/kouma-manual
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17680117127170710374
 ---
@@ -67,7 +67,7 @@ EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17
 - 上下左右: 選択
 - Enter: 次へ、決定
 - Esc: 戻る、一時停止
-- S: 押し続けると会話スキップ
+- S: 会話スキップ
 
 画面の動きがない時は、Enter を押すと次に進みます。
 
@@ -79,7 +79,7 @@ Config画面で設定したローマ字（or デフォルト設定）が、タ�
 
 
 ## 「ん」の入力について
-「ん」の入力を "n" に設定しても、以下の場合は "nn" と入力する必要があります。
+「ん」の入力を "n" に設定しても、以下の場合などは "nn" と入力する必要があります。
 
 ### 1. 末尾
 例. ほん
@@ -99,3 +99,8 @@ Config画面で設定したローマ字（or デフォルト設定）が、タ�
 - OK: tamannnai -> たまんない
 - NG: tamannai -> たまんあい
 
+### 4. "n" の次が "y"
+例. かんよう
+
+- OK: kannyou -> かんよう
+- NG: kanyou -> かにょう
