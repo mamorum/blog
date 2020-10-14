@@ -2,7 +2,7 @@
 Title: タイピング紅魔郷：マニュアル
 Category:
 - ゲーム
-Date: 2020-09-06T13:30:00+09:00
+Date: 2020-07-10T13:30:00+09:00
 URL: https://web-dev.hatenablog.com/entry/game/type/kouma-manual
 EditURL: https://blog.hatena.ne.jp/mamorums/web-dev.hatenablog.com/atom/entry/17680117127170710374
 ---
